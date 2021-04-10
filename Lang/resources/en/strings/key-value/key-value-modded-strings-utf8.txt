@@ -55,6 +55,8 @@
 26313 "Create <b>Keshik<b> (<cost>) \nTatar unique cavalry unit that generates gold when fighting other units.<i> Upgrades: attack, armor (Blacksmith); speed, hit points (Stable); creation speed, to Elite Keshik 1000F, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
 26315 "Create <b>Kipchak<b> (<cost>) \nCuman unique cavalry archer with rapid-fire attack. Strong vs. infantry. Weak vs. Skirmishers.<i> Upgrades: attack, range, armor (Blacksmith); speed, hit points (Stable); accuracy, armor (Archery Range); attack, accuracy (University); creation speed, to Elite Kipchak 1000W, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
 26328 "Create <b>Leitis<b> (<cost>) \nLithuanian unique cavalry unit with attack that ignores armor. Strong vs. armored units.<i> Upgrades: attack, armor (Blacksmith); speed, hit points (Stable); creation speed, to Elite Leitis 1000F, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
+26534 "Create <b>Coustillier<b> (<cost>) \nBurgundian unique cavalry unit which can charge its attack. Strong vs. infantry and archers. Weak vs. Camel Riders and Monks.<i> Upgrades: attack, armor (Blacksmith); speed, hit points (Stable); creation speed, to Elite Coustillier 1000F, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
+26538 "Create <b>Serjeant<b> (<cost>) \nSicilian unique infantry unit which can construct Donjons.<i> Upgrades: attack, armor (Blacksmith); speed (Barracks); creation speed, to Elite Serjeant 1000F, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
 
 8257 "Research Maghrebi Camels (Camel units regenerate and move 10% faster)"
 28257 "Research <b>Maghrebi Camels<b> (<cost>) \nCamel units regenerate and move 10% faster."
@@ -149,7 +151,7 @@
 28324 "Research <b>Bearded Axe<b> (<cost>) \nThrowing Axemen +1 range, +1P armor."
 8287 "Research Chivalry (Stables work 50% faster)"
 28287 "Research <b>Chivalry<b> (<cost>) \nStables work 50% faster."
-120151 "Cavalry civilization \n\n• Castles cost -25% \n• Cavalry +20% hit points Feudal, +25% Castle Age \n• Farm upgrades free (Mill required)\n• Foragers work 25% faster \n\n<b>Unique Unit:<b>  \nThrowing Axeman (infantry) \n\n<b>Unique Techs:<b>  \n• Bearded Axe (Throwing Axemen +1 range, +1P armor) \n• Chivalry (Stables work 50% faster)\n\n<b>Team Bonus:<b>  \nKnights +2 line of sight"
+120151 "Cavalry civilization \n\n• Castles cost -25% \n• Cavalry +20% hit points Feudal, +25% Castle Age \n• Farm upgrades free (Mill required)\n• Foragers work 20% faster \n\n<b>Unique Unit:<b>  \nThrowing Axeman (infantry) \n\n<b>Unique Techs:<b>  \n• Bearded Axe (Throwing Axemen +1 range, +1P armor) \n• Chivalry (Stables work 50% faster)\n\n<b>Team Bonus:<b>  \nKnights +2 line of sight"
 
 8423 "Research Mahouts (Elephant units move +30% faster, attack 18% faster)"
 28423 "Research <b>Mahouts<b> (<cost>) \nElephant units move 30% faster, attack 18% faster."
@@ -173,9 +175,7 @@
 
 8420 "Research El Dorado (Eagle Warriors and Xolotl Warriors +40 hit points)"
 28420 "Research <b>El Dorado<b> (<cost>) \nEagle Warriors and Xolotl Warriors +40 hit points."
-8379 "Research Obsidian Arrows (Archer-line +6 attack vs. buildings)"
-28379 "Research <b>Obsidian Arrows<b> (<cost>) \nArcher-line +6 attack vs. buildings."
-120165 "Archer civilization \n\n• Start with +1 villager, -50 food \n• Resources last 15% longer \n• Archers cost -10% Feudal, -20% Castle, -30% Imperial Age \n\n<b>Unique Unit:<b>  \nPlumed Archer (archer) \n\n<b>Unique Techs:<b>  \n• Obsidian Arrows (Archer-line +6 attack vs. buildings) \n• El Dorado (Eagle Warriors and Xolotl Warriors +40 hit points)\n\n<b>Team Bonus:<b>  \nWalls cost -50%"
+120165 "Archer civilization \n\n• Start with +1 villager, -50 food \n• Resources last 15% longer \n• Archers cost -10% Feudal, -20% Castle, -30% Imperial Age \n\n<b>Unique Unit:<b>  \nPlumed Archer (archer) \n\n<b>Unique Techs:<b>  \n• Hul'che Javelineers (Skirmishers throw a second projectile) \n• El Dorado (Eagle Warriors and Xolotl Warriors +40 hit points)\n\n<b>Team Bonus:<b>  \nWalls cost -50%"
 
 8429 "Research Garland Wars (Infantry and Xolotl Warriors +4 attack)"
 28429 "Research <b>Garland Wars<b> (<cost>) \nInfantry and Xolotl Warriors +4 attack."
@@ -187,7 +187,7 @@
 28273 "Research <b>Hourglass<b> (<cost>) \nAll land units (villagers, trade, military) train 11% faster."
 8272 "Research Pavise (Foot Archers and Condottieri +2P armor)"
 28272 "Research <b>Pavise<b> (<cost>) \nFoot Archers and Condottieri +2P armor."
-120168 "Archer and Naval civilization \n\n• Advancing to the next age costs -15% \n• Dock technologies cost -40% \n• Fishing Ships cost -15%\n• Gunpowder units cost -20%\n• Trade units cost -25%\n\n<b>Unique Units:<b>  \nGenoese Crossbowman (archer), Condottiero (infantry)\n\n<b>Unique Techs:<b>  \n• Pavise (Foot Archers and Condottieri +2P armor) \n• Hourglass (All land units (villagers, trade, military) train 11% faster)\n\n<b>Team Bonus:<b>  \nCondottiero available in the Barracks starting in the Imperial Age"
+120168 "Archer and Naval civilization \n\n• Advancing to the next age costs -15% \n• Dock and University technologies cost -33% \n• Fishing Ships cost -15%\n• Gunpowder units cost -20%\n• Trade units cost -25%\n\n<b>Unique Units:<b>  \nGenoese Crossbowman (archer), Condottiero (infantry)\n\n<b>Unique Techs:<b>  \n• Pavise (Foot Archers and Condottieri +2P armor) \n• Hourglass (All land units (villagers, trade, military) train 11% faster)\n\n<b>Team Bonus:<b>  \nCondottiero available in the Barracks starting in the Imperial Age"
 
 7285 "Yaya"
 8285 "Research Yaya (Cavalry Archers +20 hit points; Skirmishers and Spearman-line +10 hit points)"
