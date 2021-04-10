@@ -13,8 +13,6 @@
 
 120150 "Foot Archer civilization \n\n• Town Centers cost -50% wood in Castle Age \n• Foot archers (except skirmishers) have +1 range Castle Age, +1 range Imperial Age (for +2 total)\n• Shepherds work 25% faster \n\n<b>Unique Unit:<b>  \nLongbowman (archer) \n\n<b>Unique Techs:<b>  \n• Yeomen (+1 foot archer range, +2 tower attack) \n• Warwolf (Trebuchets do blast damage)\n\n<b>Team Bonus:<b>  \nArchery Ranges work 20% faster"
 
-120178 "Naval civilization \n\n• Advancing to the next age 66% faster \n• Fish Traps cost -33%\n• Fish Traps provide unlimited food \n• Battle Elephants 30% cheaper \n\n<b>Unique Unit:<b> \nKarambit Warrior (infantry)\n\n<b>Unique Techs:<b> \n• Forced Levy (Militia-line gold cost is replaced by additional food cost)\n• Thalassocracy (upgrades Docks to Harbors, which fire arrows) \n\n<b>Team Bonus:<b> \nDocks +100% LOS"
-
 120163 "Gunpowder and Monk civilization \n\n• Builders work 30% faster \n• Blacksmith upgrades don't cost gold \n• Cannon Galleons benefit from Ballistics (fire faster, more accurately) \n• Gunpowder units fire 15% faster\n\n<b>Unique Units:<b>  \nConquistador (mounted hand cannoneer), Missionary (mounted Monk) \n\n<b>Unique Techs:<b>  \n• Inquisition (Monks convert faster) \n• Supremacy (Villagers stronger in combat)\n\n<b>Team Bonus:<b>  \nTrade units generate +33% gold"
 
 7271 "Rajputs"
@@ -67,7 +65,7 @@
 
 8423 "Research Mahouts (War Elephants move +30% faster, attack 15% faster)"
 28423 "Research <b>Mahouts<b> (<cost>) \nWar Elephants move 30% faster, attack 15% faster."
-120157 "Cavalry civilization \n\n• Start with +50 wood, food \n• Town Center, Dock 2x hit points; work rate +5% Dark, +10% Feudal, +15% Castle, +20% Imperial Age \n\n<b>Unique Unit:<b>  \nWar Elephant (cavalry) \n\n<b>Unique Techs:<b>  \n• Kamandaran (Archer-line gold cost is replaced by additional wood cost) \n• Mahouts (War Elephants move 30% faster, attack 15% faster)\n\n<b>Team Bonus:<b>  \nKnights +2 attack vs. Archers"
+120157 "Cavalry civilization \n\n• Start with +50 wood, food \n• Town Center, Dock 2x hit points; work rate +5% Dark, +10% Feudal, +15% Castle, +20% Imperial Age \n\n<b>Unique Unit:<b>  \nWar Elephant (cavalry) \n\n<b>Unique Techs:<b>  \n• Mahouts (War Elephants move 30% faster, attack 15% faster) \n• Kamandaran (Archer-line gold cost is replaced by additional wood cost)\n\n<b>Team Bonus:<b>  \nKnights +2 attack vs. Archers"
 
 8295 "Research Howdah (Battle Elephants +2/+1P armor)"
 28295 "Research <b>Howdah<b> (<cost>) \nBattle Elephants receive +2/+1P armor."
