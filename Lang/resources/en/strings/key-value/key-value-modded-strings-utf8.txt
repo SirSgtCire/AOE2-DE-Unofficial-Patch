@@ -100,10 +100,10 @@
 120168 "Archer and Naval civilization \n\n• Advancing to the next age costs -15% \n• Dock technologies cost -40% \n• Fishing Ships cost -15%\n• Gunpowder units cost -20%\n• Trade units cost -25%\n\n<b>Unique Units:<b>  \nGenoese Crossbowman (archer), Condottiero (infantry)\n\n<b>Unique Techs:<b>  \n• Pavise (Foot Archers (except Skirmishers) have +1/+1P armor) \n• Hourglass (All land units train 10% faster)\n\n<b>Team Bonus:<b>  \nCondottiero available in the Barracks starting in the Imperial Age"
 
 7285 "Yaya"
-8285 "Research Yaya (Cavalry Archers and Spearmen +20 hit points, Skirmishers +10 hit points)"
+8285 "Research Yaya (Cavalry Archers +20 hit points, Skirmishers and Spearmen +10 hit points)"
 17285 "Yaya"
-28285 "Research <b>Yaya<b> (<cost>) \nCavalry Archers and Spearmen +20 hit points, Skirmishers +10 hit points."
-120159 "Gunpowder civilization \n\n• Gunpowder units +25% hit points; researching gunpowder technologies costs -50%; Chemistry free \n• Gold miners work 20% faster \n• Light Cavalry and Hussar upgrades free \n\n<b>Unique Unit:<b>  \nJanissary (hand cannoneer) \n\n<b>Unique Techs:<b>  \n• Yaya (Cavalry Archers and Spearmen +20 hit points, Skirmishers +10 hit points) \n• Artillery (+2 range Bombard Towers, Bombard Cannons, Cannon Galleons)\n\n<b>Team Bonus:<b>  \nGunpowder units created 20% faster"
+28285 "Research <b>Yaya<b> (<cost>) \nCavalry Archers +20 hit points, Skirmishers and Spearmen +10 hit points."
+120159 "Gunpowder civilization \n\n• Gunpowder units +25% hit points; researching gunpowder technologies costs -50%; Chemistry free \n• Gold miners work 20% faster \n• Light Cavalry and Hussar upgrades free \n\n<b>Unique Unit:<b>  \nJanissary (hand cannoneer) \n\n<b>Unique Techs:<b>  \n• Yaya (Cavalry Archers +20 hit points, Skirmishers and Spearmen +10 hit points) \n• Artillery (+2 range Bombard Towers, Bombard Cannons, Cannon Galleons)\n\n<b>Team Bonus:<b>  \nGunpowder units created 20% faster"
 
 7428 "Paganism"
 8428 "Research Paganism (Monk gold cost is replaced by additional food cost)"
