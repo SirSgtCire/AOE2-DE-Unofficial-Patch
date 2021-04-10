@@ -1,41 +1,43 @@
 ## AOE2-DE-Unofficial-Patch - by SirSgtCire
-Welcome to the Unofficial Patch Definitive Edition, Version 1.4!
+Welcome to the Unofficial Patch Definitive Edition, Version 1.5!
 
-This mod is the evolution of my original HD mod of the same name, which can be found here: 
-https://steamcommunity.com/sharedfiles/filedetails/?id=1521292652&searchtext=unofficial
-
-This mod is kept up to date with the latest patches from DE, as I always try to incorporate the dev's changes into my work.
+This mod is kept up to date with the latest patches from DE, as I always try to incorporate dev changes into my work. 
+Therefore this mod operates on patch: 37650
 
 This mod contains changes that, in a completely subjective context, improve gameplay for some civs and restore some 
 unecessarily lost power to others. The goal of these changes is to improve the historical accuracy of some civs, 
-while at the same time ensuring balance for civs who aren't getting the same attention.
+while at the same time ensuring balance for civs who aren't getting the same attention. My goal with this mod 
+is to see how far I can balance the game while at the same time keeping unique techs very unique and different.
 
 The following changes are things that need experimentation, to see if they will work in DE:
 
 - add in combat stances to Villagers (helps Spanish and Inca villagers immensely) - RESEARCHING
 - implement GAIA regeneration in trees, berry bushes, killable animals and fish - RESEARCHING
-- have Villagers drop their collected resources on death, in the form of barrels - RESEARCHING
-- make Farms 2x2 instead of 3x3 - RESEARCHING
+- have Villagers drop their collected resources on death, in the form of barrels and crates - RESEARCHING
 
 General Game Changes:
 
 - enabled Monks, Monks with Relics, Petards and Kings to load into Siege Towers and Rams
-- standardized all Castle Age unique techs costs to 300 food/wood, 200 gold/stone, research time to 40 seconds
-- standardized all Imperial Age unique techs costs to 600 food/wood, 400 gold/stone, research time to 50 seconds
-- standardized all land and water unique unit Elite upgrades to 1000 food/wood, 500 gold/stone, research time to 60 seconds
 - changed Paladin upgrade cost to 1000 food, 750 gold, research time to 125 seconds
 - changed Imperial Camel upgrade cost to 1000 food, 750 gold, research time to 125 seconds
 - changed Elite Battle Elephant upgrade cost to 1200 food, 750 gold, research time to 100 seconds
+- changed Siege Onager upgrade cost to 1300 food, 900 gold
 - increased (Elite) Battle Elephant trample damage blast radius to 0.5
-- All unique archer-related Elite Upgrades now have wood cost instead of food cost (still have gold cost)
-- All unique ship-related Elite upgrades now have wood cost instead of food cost (still have gold cost)
+- standardized all Castle Age unique techs costs to 300 food/wood, 200 gold/stone, research time to 40 seconds
+- standardized all Imperial Age unique techs costs to 600 food/wood, 400 gold/stone, research time to 50 seconds
+- standardized all land and water unique unit Elite upgrades to 1000 food/wood, 500 gold/stone, research time to 60 seconds
+- All unique archer-related Elite Upgrades have wood and gold costs
+- All unique ship-related Elite upgrades have wood and gold costs
+- All other Elite upgrades have food and gold costs
+- All unique building-related Crown upgrades have wood and stone costs
+- All unique siege-related Crown upgrades have wood and gold costs
+- All unique ship-related Crown upgrades have wood and gold costs
+- All other Crown upgrades have food and gold costs
 
 Civ Specific Changes:
 
 Malay:
 - increased the damage of Harbors by 2
-- moved Thallisocracy to Imperial Age
-- moved Forced Levy to Castle Age
 
 Italians:
 - gave +1 anti-cavalry attack bonus to Elite Genoese Crossbowman
@@ -60,7 +62,7 @@ Indians:
 - changed Sultans tech to increase all gold production by 15%
 - changed Shatagni to Rajputs, now gives "Camels get +1/+1P armor"
 - changed fisherman civ bonus to "Fishermen work 10% faster, carry +10"
-- (Elite) Elephant Archers do (4) 3 bonus damage to infantry and archers
+- (Elite) Elephant Archers do (3) 2 bonus damage to infantry and archers
 
 Magyars:
 - NO CHANGES
@@ -78,12 +80,13 @@ Japanese:
 Teutons:
 - added Siege Ram
 - removed free Herbal Medicine
-- added in civ bonus "Garrisoned infantry units can fire arrows starting in Castle Age"
+- added in civ bonus "Garrisoned infantry units can fire arrows"
 - changed Crenelations tech to "Castles +3 range; Castles and towers have +1 melee/+1 pierce/+3 building armor"
 
 Vikings:
 - merged Chieftains tech effects into Berserkergang, increased bonus cavalry damage by 2
 - changed Chieftains to Keels, which increases Longboat melee armor by 2
+- increased Elite Longboat arrow count by 1
 
 Byzantines:
 - added Town Patrol to their Free Town Watch bonus
@@ -137,8 +140,8 @@ Franks:
 Persians:
 - removed Siege Ram
 - added Fortified Walls
-- changed Kamandaran to make crossbowmen cost 70 wood
-- changed Mahouts to also improve Elephant attack speed by 0.15
+- changed Kamandaran to make crossbowmen cost 70 wood, moved it to Imperial Age
+- changed Mahouts to also improve Elephant attack speed by 0.15, moved it to Castle Age
 - reverted TC and Dock work rate of 5% in Dark Age
 
 Huns:
@@ -155,13 +158,14 @@ Celts:
 Aztecs:
 - increased Elite Jaguar Warrior bonus infantry damage by 1
 - changed Garland Wars to include Xolotl Warriors
+- reverted military creation time reduction back to 15%
 
 Burmese:
 - changed Howdah to "Battle Elephants receive +2/+1P armor"
 - increased accuracy of (Elite) Arambai by (10%) 10%
 
 Koreans:
-- changed War Wagon projectile to the Longboat projectile (4 arrows instead of a gigantic bolt)
+- changed (Elite) War Wagon projectile to the Longboat projectile, giving (5) 4 arrows instead of one bolt
 
 Mayans:
 - removed Atonement
