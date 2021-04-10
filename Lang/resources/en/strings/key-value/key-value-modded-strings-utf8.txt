@@ -57,7 +57,7 @@
 28432 "Research <b>Rocketry<b> (<cost>) \n Scorpions +4 attack; Scorpions and Hand Canoneers +1 range."
 120155 "Archer civilization \n\n• Start with +3 villagers, -50 wood, -200 food \n• Technologies cost -10% Feudal,  \n-15% Castle, -20% Imperial Age \n• Town Centers support 10 population and +5 LOS\n• Demolition ships +50% hit points \n\n<b>Unique Unit:<b>  \nChu Ko Nu (archer) \n\n<b>Unique Techs:<b>  \n• Great Wall (Walls and towers +30% HP) \n• Rocketry (Scorpions +4 attack; Scorpions and Hand Canoneers +1 range)\n\n<b>Team Bonus:<b>  \nFarms +75 food"
 
-120152 "Infantry civilization \n\n• Infantry cost -35% starting in Feudal Age \n• Infantry +1 attack vs. buildings \n• Villagers +5 attack vs. wild boar; hunters carry +15 meat \n• +5 population in Feudal, +5 Castle, +5 Imperial Age \n\n<b>Unique Unit:<b>  \nHuskarl (infantry) \n\n<b>Unique Techs:<b>  \n• Anarchy (create Huskarls at Barracks) \n• Perfusion (Barracks work 100% faster) \n\n<b>Team Bonus:<b>  \nBarracks work 20% faster"
+120152 "Infantry civilization \n\n• Infantry cost -35% starting in Feudal Age \n• Infantry +1 attack vs. buildings per age (starting from Feudal Age) \n• Villagers +5 attack vs. wild boar; hunters carry +15 meat \n• +5 population in Feudal, +5 Castle, +5 Imperial Age \n\n<b>Unique Unit:<b>  \nHuskarl (infantry) \n\n<b>Unique Techs:<b>  \n• Anarchy (create Huskarls at Barracks) \n• Perfusion (Barracks work 100% faster) \n\n<b>Team Bonus:<b>  \nBarracks work 20% faster"
 
 8324 "Research Bearded Axe (Throwing Axemen +1 range, +1P armor)"
 28324 "Research <b>Bearded Axe<b> (<cost>) \n Throwing Axemen have +1 range, +1P armor."
@@ -66,14 +66,6 @@
 8423 "Research Mahouts (War Elephants move +30% faster, attack 5% faster)"
 28423 "Research <b>Mahouts<b> (<cost>) \n War Elephants move 30% faster, attack 5% faster."
 120157 "Cavalry civilization \n\n• Start with +50 wood, food \n• Town Center, Dock 2x hit points; work rate +5% Dark, +10% Feudal, +15% Castle, +20% Imperial Age \n\n<b>Unique Unit:<b>  \nWar Elephant (cavalry) \n\n<b>Unique Techs:<b>  \n• Kamandaran (Archer-line gold cost is replaced by additional wood cost) \n• Mahouts (War Elephants move 30% faster, attack 5% faster)\n\n<b>Team Bonus:<b>  \nKnights +2 attack vs. Archers"
-
-8428 "Research Atheism (+150 years Relic, Wonder games; Spies/Treason technology costs -50%)"
-28428 "Research <b>Atheism<b> (<cost>) \n Relic and Wonder victories take +150 years to complete; researching the Spies/Treason technology costs 50% less."
-120166 "Cavalry civilization \n\n• Do not need houses, but start with -100 wood \n• Cavalry Archers cost -10% Castle, -20% Imperial Age \n• Trebuchets +30% accuracy \n\n<b>Unique Unit:<b>  \nTarkan (cavalry) \n\n<b>Unique Techs:<b>  \n• Marauders (Create Tarkans at stables) \n• Atheism (+150 years Relic, Wonder victories \nSpies/Treason costs -50%)\n\n<b>Team Bonus:<b>  \nStables work 20% faster"
-
-8280 "Research Nomads (Houses cost -15 wood)"
-28280 "Research <b>Nomads<b> (<cost>) \nHouses cost -15 wood."
-120161 "Cavalry Archer civilization \n\n• Cavalry archers fire 20% faster \n• Light Cavalry, Hussars, Steppe Lancers +30% hit points\n• Hunters work 40% faster \n\n<b>Unique Unit:<b>  \nMangudai (cavalry archer) \n\n<b>Unique Techs:<b>  \n• Nomads (Houses cost -15 wood) \n• Drill (Siege Workshop units move 50% faster)\n\n<b>Team Bonus:<b>  \nScout Cavalry, Light Cavalry, Hussar +2 line of sight"
 
 8295 "Research Howdah (Battle Elephants +2/+1P armor)"
 28295 "Research <b>Howdah<b> (<cost>) \nBattle Elephants receive +2/+1P armor."
@@ -86,11 +78,3 @@
 8400 "Research Tower Shields (Skirmishers receive +1P armor, Spear line receive +1/+1P armor)"
 28400 "Research <b>Tower Shields<b> (<cost>) \nSkirmishers receive +1P armor, Spear line receive +1/+1P armor."
 120184 "Cavalry and Monk civilization \n\n• Start with +150 food \n• Spearman-line and Skirmishers move 10% faster\n• Each garrisoned relic gives +1 attack to Knights and Leitis (maximum +4) \n\n<b>Unique Unit:<b> \nLeitis (cavalry)\n\n<b>Unique Techs:<b> \n• Hill Forts (Town Centers +3 range) \n• Tower Shields (Skirmishers receive +1P armor, Spear line receive +1/+1P armor)\n\n<b>Team Bonus:<b> \nMonasteries work 20% faster"
-
-8309 "Research Silk Armor (Light Cavalry, Cavalry Archers and Steppe Lancers receive +1P armor)"
-28309 "Research <b>Silk Armor<b> (<cost>) \nLight Cavalry, Cavalry Archers and Steppe Lancers receive +1P armor."
-120182 "Cavalry Archer civilization \n\n• Villagers gather +50% food from herdables \n• Units deal +25% damage when fighting from higher elevation \n• Parthian Tactics free \n\n<b>Unique Unit:<b> \nKeshik (raiding cavalry)\n\n<b>Unique Techs:<b> \n• Silk Armor (Light Cavalry, Cavalry Archers and Steppe Lancers receive +1P armor) \n• Timurid Siegecraft (Trebuchets +1 range)\n\n<b>Team Bonus:<b> \nCavalry Archers +2 LOS"
-
-8311 "Research Steppe Husbandry (Light Cavalry, Cavalry Archers and Steppe Lancers trained 80% faster)"
-28311 "Research <b>Steppe Husbandry<b> (<cost>) \nLight Cavalry, Cavalry Archers and Steppe Lancers trained 80% faster."
-120183 "Cavalry civilization \n\n• Additional Town Center can be built in the Feudal Age \n• Siege Workshop and Battering Ram available in the Feudal Age\n• Cavalry 5% faster each age (starting in Feudal Age) \n\n<b>Unique Unit:<b> \nKipchak (cavalry archer)\n\n<b>Unique Techs:<b> \n• Steppe Husbandry (Light Cavalry, Cavalry Archers and Steppe Lancers trained 80% faster) \n• Cuman Mercenaries (team members can create 10 free Elite Kipchaks in the Castle)\n\n<b>Team Bonus:<b> \nPalisade Walls +50% HP"
