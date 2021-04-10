@@ -1,5 +1,5 @@
 ## AOE2-DE-Unofficial-Patch - by SirSgtCire
-Welcome to the Unofficial Patch Definitive Edition, Version 1.3!
+Welcome to the Unofficial Patch Definitive Edition, Version 1.4!
 
 This mod is the evolution of my original HD mod of the same name, which can be found here: 
 https://steamcommunity.com/sharedfiles/filedetails/?id=1521292652&searchtext=unofficial
@@ -40,6 +40,10 @@ Malay:
 Italians:
 - gave +1 anti-cavalry attack bonus to Elite Genoese Crossbowman
 - added Heavy Scorpion
+- changed Silk Road to Hourglass, which makes all land units train 10% faster
+- added civ bonus "trade units cost -25%"
+- changed dock techs civ bonus to "dock techs cost -40%"
+- increased base attack and pierce armor of Condotierro by 1
 
 Britons:
 - increased blast radius of Warwolf tech to Trebuchets by 0.2
@@ -56,6 +60,7 @@ Indians:
 - changed Sultans tech to increase all gold production by 15%
 - changed Shatagni to Rajputs, now gives "Camels get +1/+1P armor"
 - changed fisherman civ bonus to "Fishermen work 10% faster, carry +10"
+- (Elite) Elephant Archers do (4) 3 bonus damage to infantry and archers
 
 Magyars:
 - NO CHANGES
@@ -65,6 +70,7 @@ Portuguese:
 
 Turks:
 - increased accuracy of (Elite) Janissaries by (+10%) +5%
+- changed Sipahi to Yaya, which gives Cavalry Archers and Spearmen +20 hp, Skirmishers +10 hp
 
 Japanese:
 - increased melee armor of Elite Samurai by +1
@@ -76,7 +82,8 @@ Teutons:
 - changed Crenelations tech to "Castles +3 range; Castles and towers have +1 melee/+1 pierce/+3 building armor"
 
 Vikings:
-- increased Chieftains bonus cavalry damage by 2
+- merged Chieftains tech effects into Berserkergang, increased bonus cavalry damage by 2
+- changed Chieftains to Keels, which increases Longboat melee armor by 2
 
 Byzantines:
 - added Town Patrol to their Free Town Watch bonus
@@ -135,7 +142,9 @@ Persians:
 - reverted TC and Dock work rate of 5% in Dark Age
 
 Huns:
-- NO CHANGES
+- changed treb accuracy bonus to 100%
+- added Atheism effects as a civ bonus
+- changed Atheism to Paganism, which makes Monks cost 100 food instead of 100 gold
 
 Mongols:
 - NO CHANGES
@@ -152,7 +161,7 @@ Burmese:
 - increased accuracy of (Elite) Arambai by (10%) 10%
 
 Koreans:
-- NO CHANGES
+- changed War Wagon projectile to the Longboat projectile (4 arrows instead of a gigantic bolt)
 
 Mayans:
 - removed Atonement
