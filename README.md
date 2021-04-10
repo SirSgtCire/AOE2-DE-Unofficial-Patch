@@ -1,5 +1,5 @@
 ## AOE2-DE-Unofficial-Patch - by SirSgtCire
-Welcome to the Unofficial Patch Definitive Edition, Version 1.0!
+Welcome to the Unofficial Patch Definitive Edition, Version 1.1!
 
 This mod is the evolution of my original HD mod of the same name, which can be found here: 
 https://steamcommunity.com/sharedfiles/filedetails/?id=1521292652&searchtext=unofficial
@@ -69,7 +69,7 @@ Japanese:
 - increased melee armor of Elite Samurai by +1
 
 Teutons:
-- increased Teutonic Knight attack speed by 0.05
+- increased (Elite) Teutonic Knight attack speed by (0.05) 0.05
 - added Siege Ram
 
 Vikings:
@@ -117,7 +117,7 @@ Chinese:
 
 Goths: 
 - changed population civ bonus to "+5 population each age, starting in the Feudal Age"
-- reverted infantry cost reduction to start in Feudal Age
+- reverted infantry cost reduction to -35% start in Feudal Age
 
 Franks:
 - made Bearded Axe also increase Throwing Axeman pierce armor by 1
@@ -129,17 +129,16 @@ Persians:
 - changed Mahouts to also increase (Elite) War Elephant attack speed by 0.1
 
 Huns:
-- changed Atheism to "Relic and Wonder victories take +150 years to complete; researching the Spies/Treason technology costs 50% less"
+- NO CHANGES
 
 Mongols:
-- changed Nomads to give "Houses cost -15 wood"
+- NO CHANGES
 
 Celts:
 - NO CHANGES
 
 Aztecs:
 - increased Elite Jaguar Warrior bonus infantry damage by 1
-- decreased (Elite) Jaguar Warrior gold cost by 5
 
 Burmese:
 - changed Howdah to "Battle Elephants receive +2/+1P armor"
@@ -162,7 +161,7 @@ Bulgarians:
 - NO CHANGES
 
 Tatars:
-- changed Silk Armor to" Light Cavalry, Cavalry Archers and Steppe Lancers +1P armor"
+- NO CHANGES
 
 Cumans:
-- changed Steppe Husbandry to "Light Cavalry, Cavalry Archers and Steppe Lancers trained 80% faster"
+- NO CHANGES
