@@ -1,14 +1,14 @@
 ## AOE2-DE-Unofficial-Patch - by SirSgtCire
-Welcome to the Unofficial Patch Definitive Edition, Version 2.0!
+Welcome to the Unofficial Patch Definitive Edition, Version 2.1!
 
 This mod is kept up to date with the latest patches from DE, as I always try to incorporate approved dev changes into my work. 
-Therefore this mod currently operates on patch: 43210
+Therefore this mod currently operates on patch: 44834
 
 This mod is taking a different approach to balancing the game. There are some situations in which the devs 
 nerfed or buffed certain techs or units, either for the wrong reasons or completely unnecessarily. My goal 
 with this mod is to focus on historical accuracy (as much as is possible in this game, without doing a 
 complete overhaul), diverse strategies, unique playstyles for certain civs (not every civ should be able 
-to do everything well), and focusing more on unique techs and unique units.
+to do everything well), and focusing more on the usefulness of unique techs and unique units.
 
 General Game Changes:
 - enabled Monks, Monks with Relics, Petards, Kings and Queens to load into Siege Towers and Rams
@@ -35,11 +35,10 @@ Malay:
 - NO CHANGES
 
 Italians:
-- increased anti-cavalry damage by 1
+- increased Elite Genoese Crossbowman anti-cavalry damage by 1
 - added Heavy Scorpion
 - changed Silk Road to Hourglass, which makes all land units train 10% faster
 - added civ bonus "trade units cost -25%"
-- changed dock techs civ bonus to "dock techs cost -40%"
 - changed Pavise to "Foot Archers and Condottieri receive +2P armor"
 
 Britons:
@@ -95,12 +94,16 @@ Saracens:
 - changed Madrasah effect to "Monks return 66% of their cost when killed"
 - removed transport ship civ bonus
 - added civ bonus "Trade units move 10% faster"
+- removed camel hp civ bonus
+- reverted Zealotry effect to give +30 hp to camel units
+- reverted archer damage civ bonus
 
 Khmer:
 - changed Battle Elephants speed civ bonus to include Ballista Elephants
 - changed team bonus to "Scorpions minimum range reduced to 0"
 - changed Double Crossbow to also increase Ballista Elephant projectile damage by 2
 - removed farmer work rate reduction
+- added back treadmill crane
 
 Ethiopians:
 - added back free Halberdier upgrade to Free Pikeman civ bonus
@@ -117,6 +120,7 @@ Vietnamese:
 
 Slavs:
 - reverted farmer work rate bonus to 15% faster
+- added back treadmill crane
 
 Berbers:
 - removed Elite Genitour upgrade, gave the regular Genitour the elite stats except hit points (affects all players)
@@ -136,6 +140,8 @@ Franks:
 - changed Bearded Axe to also increase Throwing Axeman pierce armor by 1, moved to Castle Age
 - changed Chivalry to increase stable production speed by 50%, moved it to Imperial Age
 - changed cavalry hp civ bonus to "Cavalry +20% hp Feudal, +25% Castle Age"
+- changed forage bush civ bonus to +20%
+- added back treadmill crane
 
 Persians:
 - removed Siege Ram
@@ -146,7 +152,7 @@ Persians:
 
 Huns:
 - changed treb accuracy bonus to 100%
-- added Atheism effects as a civ bonus
+- added civ bonus "+100 years relic/wonder victories; Spies/Treason costs 50% less"
 - changed Atheism to Paganism, which makes Monks cost 100 food instead of 100 gold
 
 Mongols:
@@ -187,7 +193,13 @@ Bulgarians:
 - renamed Stirrups to Cavalry Tactics
 
 Tatars:
-- increased (Elite) Keshik gold cost to 50
+- NO CHANGES
 
 Cumans:
+- NO CHANGES
+
+Burgundians:
+- NO CHANGES
+
+Sicilians:
 - NO CHANGES
