@@ -1,19 +1,13 @@
 ## AOE2-DE-Unofficial-Patch - by SirSgtCire
-Welcome to the Unofficial Patch Definitive Edition, Version 1.6!
+Welcome to the Unofficial Patch Definitive Edition, Version 1.7!
 
 This mod is kept up to date with the latest patches from DE, as I always try to incorporate dev changes into my work. 
-Therefore this mod operates on patch: 37650
+Therefore this mod currently operates on patch: 40220
 
 This mod contains changes that, in a completely subjective context, improve gameplay for some civs and restore some 
 unecessarily lost power to others. The goal of these changes is to improve the historical accuracy of some civs, 
 while at the same time ensuring balance for civs who aren't getting the same attention. My goal with this mod 
-is to see how far I can balance the game while at the same time keeping unique techs very unique and different.
-
-The following changes are things that need experimentation, to see if they will work in DE:
-
-- add in combat stances to Villagers (helps Spanish and Inca villagers immensely) - RESEARCHING
-- implement GAIA regeneration in trees, berry bushes, killable animals and fish - RESEARCHING
-- have Villagers drop their collected resources on death, in the form of barrels and crates - RESEARCHING
+is to see how far I can balance the game while at the same time keeping crown techs unique.
 
 General Game Changes:
 
@@ -21,23 +15,23 @@ General Game Changes:
 - changed Paladin upgrade cost to 1000 food, 750 gold, research time to 125 seconds
 - changed Imperial Camel upgrade cost to 1000 food, 750 gold, research time to 125 seconds
 - changed Elite Battle Elephant upgrade cost to 1200 food, 750 gold, research time to 100 seconds
-- changed Siege Onager upgrade cost to 1300 food, 900 gold
-- increased (Elite) Battle Elephant trample damage blast radius to 0.5
-- standardized all Castle Age unique techs costs to 300 food/wood, 200 gold/stone, research time to 40 seconds
-- standardized all Imperial Age unique techs costs to 600 food/wood, 400 gold/stone, research time to 50 seconds
-- standardized all land and water unique unit Elite upgrades to 1000 food/wood, 500 gold/stone, research time to 60 seconds
+- changed Siege Onager upgrade cost to 1200 food, 900 gold
+- standardized all land and water unique unit Elite upgrades to 1000 food/wood, 500 gold, research time to 60 seconds
 - All unique archer-related Elite Upgrades have wood and gold costs
 - All unique ship-related Elite upgrades have wood and gold costs
 - All other Elite upgrades have food and gold costs
+- standardized all Castle Age Crown techs costs to 300 food/wood, 200 gold/stone, research time to 40 seconds
+- standardized all Imperial Age Crown techs costs to 600 food/wood, 400 gold/stone, research time to 50 seconds
 - All unique building-related Crown upgrades have wood and stone costs
 - All unique siege-related Crown upgrades have wood and gold costs
 - All unique ship-related Crown upgrades have wood and gold costs
 - All other Crown upgrades have food and gold costs
+- increased (Elite) Battle Elephant trample damage blast radius to 0.5
 
 Civ Specific Changes:
 
 Malay:
-- increased the damage of Harbors by 2
+- NO CHANGES
 
 Italians:
 - gave +1 anti-cavalry attack bonus to Elite Genoese Crossbowman
@@ -45,7 +39,6 @@ Italians:
 - changed Silk Road to Hourglass, which makes all land units train 10% faster
 - added civ bonus "trade units cost -25%"
 - changed dock techs civ bonus to "dock techs cost -40%"
-- increased base attack and pierce armor of Condotierro by 1
 
 Britons:
 - increased blast radius of Warwolf tech to Trebuchets by 0.2
@@ -69,13 +62,14 @@ Magyars:
 
 Portuguese:
 - increased projectile speed increase for Bombard Cannons, Bombard Towers and Cannon Galleons from Arquebus tech by 0.1
+- changed Arquebus to also increase hand cannon range by +1
 
 Turks:
 - increased accuracy of (Elite) Janissaries by (+10%) +5%
 - changed Sipahi to Yaya, which gives Cavalry Archers +20 hp, Skirmishers and Spearmen +10 hp
 
 Japanese:
-- increased melee armor of Elite Samurai by +1
+- increased Elite Samurai melee armor by 1
 
 Teutons:
 - added Siege Ram
@@ -86,7 +80,6 @@ Teutons:
 Vikings:
 - merged Chieftains tech effects into Berserkergang, increased bonus cavalry damage by 2
 - changed Chieftains to Keels, which increases Longboat melee armor by 2
-- increased Elite Longboat arrow count by 1
 
 Byzantines:
 - added Town Patrol to their Free Town Watch bonus
@@ -101,12 +94,12 @@ Saracens:
 Khmer:
 - changed Battle Elephants speed civ bonus to include Ballista Elephants
 - changed team bonus to "Scorpions minimum range reduced"
-- changed Double Crossbow to also increase Ballista Elephant projectile damage by 1
+- changed Double Crossbow to also increase Ballista Elephant projectile damage by 2
 - removed farmer work rate reduction
 
 Ethiopians:
 - added back free Halberdier upgrade to Free Pikeman civ bonus
-- changed team bonus to "Towers and Outposts provide +5 population"
+- changed team bonus to increase LOS for towers and outposts by 4
 
 Malians:
 - added back free Gold Shaft Mining upgrade to Free Gold Mining civ bonus
@@ -125,16 +118,14 @@ Berbers:
 
 Chinese:
 - changed team bonus to provide +75 food
-- removed Arbalester
-- added in Hand Canoneer
-- changed Rocketry tech to "Scorpions +4 attack; Scorpions and Hand Canoneers +1 range"
+- changed Rocketry tech to "Scorpions +4 attack, Archer-line +2 attack; Scorpions +1 range"
 
 Goths: 
 - changed population civ bonus to "+5 population each age, starting in the Feudal Age"
 - reverted infantry cost reduction to -35% start in Feudal Age
 
 Franks:
-- made Bearded Axe also increase Throwing Axeman pierce armor by 1
+- changed Bearded Axe to also increase Throwing Axeman pierce armor by 1
 - changed cavalry hp civ bonus to "Cavalry +20% hp Feudal, +25% Castle Age"
 
 Persians:
@@ -165,10 +156,12 @@ Burmese:
 - increased accuracy of (Elite) Arambai by (10%) 10%
 
 Koreans:
-- changed (Elite) War Wagon projectile to the Longboat projectile, giving (5) 4 arrows instead of one bolt
+- NO CHANGES
 
 Mayans:
 - removed Atonement
+- removed Sanctity
+- added Illumination
 - added Redemption
 - changed El Dorado to include Xolotl Warriors
 
@@ -176,8 +169,7 @@ Incas:
 - changed Fabric Shields tech to include Monks and Xolotl Warriors
 
 Lithuanians:
-- changed Tower Shields to "Skirmishers +1P armor, spear-line +1/+1P armor"
-- increased Leitis gold cost to 60
+- NO CHANGES
 
 Bulgarians:
 - NO CHANGES

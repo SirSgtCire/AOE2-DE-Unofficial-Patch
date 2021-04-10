@@ -35,11 +35,11 @@
 28284 "Research <b>Madrasah<b> (<cost>) \nKilled monks return 66% of their cost."
 120158 "Camel and Naval civilization \n\n• Market trade cost only 5% \n• Market costs -100 wood \n• Trade units move 10% faster \n• Galleys attack 20% faster \n• Archers (except skirmishers) +1 attack vs. buildings per age (starting in the Feudal Age) \n\n<b>Unique Unit:<b>  \nMameluke (camel rider) \n\n<b>Unique Techs:<b>  \n• Madrasah (Monks return 66% of their cost when killed) \n• Zealotry (Camel units +30 hit points)\n\n<b>Team Bonus:<b>  \nFoot archers +1 attack vs. buildings"
 
-120177 "Siege and Elephant civilization \n\n• No buildings required to advance to the next age or to unlock other buildings \n• Farmers don't require Mills/Town Centers to drop off food \n• Battle Elephants, Ballista Elephants move 15% faster\n• Villagers can garrison in Houses \n\n<b>Unique Unit:<b> \nBallista Elephant (mounted scorpion)\n\n<b>Unique Techs:<b> \n• Tusk Swords (Battle Elephants +3 attack) \n• Double Crossbow (Ballista Elephants and Scorpions fire two projectiles; Ballista Elephants +1 attack) \n\n<b>Team Bonus:<b> \nScorpions minimum range reduced"
-8292 "Research Double Crossbows (Ballista Elephants and Scorpions fire two projectiles; Ballista Elephants receive +1 attack)"
-28292 "Research <b>Double Crossbows<b> (<cost>) \nBallista Elephants and Scorpions fire two projectiles; Ballista Elephants receive +1 attack."
+120177 "Siege and Elephant civilization \n\n• No buildings required to advance to the next age or to unlock other buildings \n• Farmers don't require Mills/Town Centers to drop off food \n• Battle Elephants, Ballista Elephants move 15% faster\n• Villagers can garrison in Houses \n\n<b>Unique Unit:<b> \nBallista Elephant (mounted scorpion)\n\n<b>Unique Techs:<b> \n• Tusk Swords (Battle Elephants +3 attack) \n• Double Crossbow (Ballista Elephants and Scorpions fire two projectiles; Ballista Elephants +2 attack) \n\n<b>Team Bonus:<b> \nScorpions minimum range reduced"
+8292 "Research Double Crossbows (Ballista Elephants and Scorpions fire two projectiles; Ballista Elephants receive +2 attack)"
+28292 "Research <b>Double Crossbows<b> (<cost>) \nBallista Elephants and Scorpions fire two projectiles; Ballista Elephants receive +2 attack."
 
-120174 "Archer civilization \n\n• Archers fire 15% faster \n• Receive +100 gold, +100 food when advancing to the next age \n• Pikeman and Halberdier upgrades free\n\n<b>Unique Unit:<b>  \nShotel Warrior (infantry)\n\n<b>Unique Techs:<b>  \n• Royal Heirs (Shotel Warriors train nearly instantly) \n• Torsion Engines (increases blast radius of Siege Workshop units)\n\n<b>Team Bonus:<b>  \nTowers and Outposts +5 population room"
+120174 "Archer and Siege civilization \n\n• Archers fire 15% faster \n• Receive +100 gold, +100 food when advancing to the next age \n• Pikeman and Halberdier upgrades free\n\n<b>Unique Unit:<b>  \nShotel Warrior (infantry)\n\n<b>Unique Techs:<b>  \n• Royal Heirs (Shotel Warriors train nearly instantly) \n• Torsion Engines (increases blast radius of Siege Workshop units)\n\n<b>Team Bonus:<b>  \nTowers and Outposts +4 LOS"
 
 120175 "Infantry civilization \n\n• Buildings cost -15% wood \n• Barracks units +1P armor per age (starting from Feudal Age)\n• Gold Mining, Gold Shaft Mining free \n\n<b>Unique Unit:<b>  \nGbeto (infantry)\n\n<b>Unique Techs:<b>  \n• Tigui (Town Centers fire arrows when ungarrisoned) \n• Farimba (Cavalry +5 attack)\n\n<b>Team Bonus:<b>  \nUniversities work 80% faster"
 
@@ -53,9 +53,9 @@
 
 26137 "Create <b>Genitour<b> (<cost>) \nMounted skirmisher. Strong vs. archers. Weak vs. units at close range. Trainable by Berbers and their allies.<i> Upgrades: speed, hit points (Stable); attack, range, armor (Blacksmith); attack, accuracy (University); accuracy, armor, (Archery Range); creation speed (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
 
-8432 "Research Rocketry (Scorpions +4 attack; Scorpions and Hand Canoneers +1 range)"
-28432 "Research <b>Rocketry<b> (<cost>) \nScorpions +4 attack; Scorpions and Hand Canoneers +1 range."
-120155 "Archer civilization \n\n• Start with +3 villagers, -50 wood, -200 food \n• Technologies cost -10% Feudal,  \n-15% Castle, -20% Imperial Age \n• Town Centers support 10 population and +5 LOS\n• Demolition ships +50% hit points \n\n<b>Unique Unit:<b>  \nChu Ko Nu (archer) \n\n<b>Unique Techs:<b>  \n• Great Wall (Walls and towers +30% hit points) \n• Rocketry (Scorpions +4 attack; Scorpions and Hand Canoneers +1 range)\n\n<b>Team Bonus:<b>  \nFarms +75 food"
+8432 "Research Rocketry (Scorpions +4 attack, Archer-line +2 attack; Scorpions +1 range)"
+28432 "Research <b>Rocketry<b> (<cost>) \nScorpions +4 attack, Archer-line +2 attack; Scorpions +1 range."
+120155 "Archer civilization \n\n• Start with +3 villagers, -50 wood, -200 food \n• Technologies cost -10% Feudal,  \n-15% Castle, -20% Imperial Age \n• Town Centers support 10 population and +5 LOS\n• Demolition ships +50% hit points \n\n<b>Unique Unit:<b>  \nChu Ko Nu (archer) \n\n<b>Unique Techs:<b>  \n• Great Wall (Walls and towers +30% hit points) \n• Rocketry (Scorpions +4 attack, Archer-line +2 attack; Scorpions +1 range)\n\n<b>Team Bonus:<b>  \nFarms +75 food"
 
 120152 "Infantry civilization \n\n• Infantry cost -35% starting in Feudal Age \n• Infantry +1 attack vs. buildings per age (starting from Feudal Age) \n• Villagers +5 attack vs. wild boar; hunters carry +15 meat \n• Loom free \n• +5 population in Feudal, +5 Castle, +5 Imperial Age \n\n<b>Unique Unit:<b>  \nHuskarl (infantry) \n\n<b>Unique Techs:<b>  \n• Anarchy (create Huskarls at Barracks) \n• Perfusion (Barracks work 100% faster) \n\n<b>Team Bonus:<b>  \nBarracks work 20% faster"
 
@@ -75,10 +75,6 @@
 28267 "Research <b>Fabric Shields<b> (<cost>) \nKamayuks, Slingers, Eagles, Monks and Xolotl Warriors receive +1/+2P armor."
 120170 "Infantry civilization \n\n• Start with a free Llama \n• Villagers affected by Blacksmith upgrades \n• Houses support 10 population \n• Buildings cost -15% stone\n\n<b>Unique Units:<b>  \nKamayuk (infantry), Slinger (archer)\n\n<b>Unique Techs:<b>  \n• Andean Sling (Skirmishers and Slingers no minimum range) \n• Fabric Shields (Kamayuks, Slingers, Eagles, Monks and Xolotl Warriors +1/+2P armor)\n\n<b>Team Bonus:<b>  \nFarms built 50% faster"
 
-8400 "Research Tower Shields (Skirmishers receive +1P armor, Spear line receive +1/+1P armor)"
-28400 "Research <b>Tower Shields<b> (<cost>) \nSkirmishers receive +1P armor, Spear line receive +1/+1P armor."
-120184 "Cavalry and Monk civilization \n\n• Start with +150 food \n• Spearman-line and Skirmishers move 10% faster\n• Each garrisoned relic gives +1 attack to Knights and Leitis (maximum +4) \n\n<b>Unique Unit:<b> \nLeitis (cavalry)\n\n<b>Unique Techs:<b> \n• Hill Forts (Town Centers +3 range) \n• Tower Shields (Skirmishers receive +1P armor, Spear line receive +1/+1P armor)\n\n<b>Team Bonus:<b> \nMonasteries work 20% faster"
-
 8426 "Research Crenellations (+3 range Castles; Castles and towers have +1 melee/+1 pierce/+3 building armor)"
 28426 "Research <b>Crenellations<b> (<cost>) \nCastles have +3 range; Castles and towers have +1 melee/+1 pierce/+3 building armor."
 120153 "Defensive civilization \n\n• Garrisoned infantry can fire extra arrows; Towers garrison +5 units, Town Centers garrison +10 units; Murder Holes free \n• Monks heal range 2x \n• Barracks and Stable units have +1 armor Castle Age, +1 armor Imperial Age (for +2 total) \n• Farms cost -40% \n\n<b>Unique Unit:<b>  \nTeutonic Knight (infantry) \n\n<b>Unique Techs:<b>  \n• Ironclad (siege weapons extra melee armor) \n• Crenellations (+3 range Castles; Castles and towers have +1 melee/+1 pierce/+3 building armor)\n\n<b>Team Bonus:<b>  \nUnits resist conversion"
@@ -95,9 +91,9 @@
 8273 "Research Hourglass (All land units train 10% faster)"
 17273 "Hourglass"
 28273 "Research <b>Hourglass<b> (<cost>) \nAll land units train 10% faster."
-8272 "Research Pavise (Foot Archers (except Skirmishers) have +1/+1P armor)"
-28272 "Research <b>Pavise<b> (<cost>) \nFoot Archers (except Skirmishers) have +1/+1P armor."
-120168 "Archer and Naval civilization \n\n• Advancing to the next age costs -15% \n• Dock technologies cost -40% \n• Fishing Ships cost -15%\n• Gunpowder units cost -20%\n• Trade units cost -25%\n\n<b>Unique Units:<b>  \nGenoese Crossbowman (archer), Condottiero (infantry)\n\n<b>Unique Techs:<b>  \n• Pavise (Foot Archers (except Skirmishers) have +1/+1P armor) \n• Hourglass (All land units train 10% faster)\n\n<b>Team Bonus:<b>  \nCondottiero available in the Barracks starting in the Imperial Age"
+8272 "Research Pavise (Foot Archers (except Skirmishers) and Condottieri have +1/+1P armor)"
+28272 "Research <b>Pavise<b> (<cost>) \nFoot Archers (except Skirmishers) and Condottieri have +1/+1P armor."
+120168 "Archer and Naval civilization \n\n• Advancing to the next age costs -15% \n• Dock technologies cost -40% \n• Fishing Ships cost -15%\n• Gunpowder units cost -20%\n• Trade units cost -25%\n\n<b>Unique Units:<b>  \nGenoese Crossbowman (archer), Condottiero (infantry)\n\n<b>Unique Techs:<b>  \n• Pavise (Foot Archers (except Skirmishers) and Condottieri have +1/+1P armor) \n• Hourglass (All land units train 10% faster)\n\n<b>Team Bonus:<b>  \nCondottiero available in the Barracks starting in the Imperial Age"
 
 7285 "Yaya"
 8285 "Research Yaya (Cavalry Archers +20 hit points, Skirmishers and Spearmen +10 hit points)"
@@ -118,3 +114,7 @@
 8431 "Research Berserkergang (Berserks regenerate faster; Infantry get attack bonus vs. cavalry)"
 28431 "Research <b>Berserkergang<b> (<cost>) \nBerserks regenerate faster; Infantry get attack bonus vs. cavalry."
 120160 "Infantry and Naval civilization \n\n• Warships cost -15% Feudal Age, -15% Castle Age, -20% Imperial Age \n• Infantry +10% hit points Feudal, +15% Castle, +20% Imperial Age \n• Wheelbarrow, Hand Cart free \n\n<b>Unique Units:<b>  \nBerserk (infantry), Longboat (warship) \n\n<b>Unique Techs:<b>  \n• Keels (Longboats have +2 melee armor) \n• Berserkergang (Berserks regenerate faster; Infantry get attack bonus vs. cavalry)\n\n<b>Team Bonus:<b>  \nDocks cost -15%"
+
+8251 "Research Arquebus (Ballistics for gunpowder units; Hand Canoneers +1 range)"
+28251 "Research <b>Arquebus<b> (<cost>) \nBallistics for gunpowder units; Hand Canoneers +1 range."
+120173 "Naval and Gunpowder civilization \n\n• All units cost -20% gold \n• Ships +10% HP \n• Can build Feitoria in Imperial Age \n\n<b>Unique Units:<b>  \nOrgan Gun (siege), Caravel (war ship)\n\n<b>Unique Techs:<b>  \n• Carrack (Ships +1/+1 armor) \n• Arquebus (Ballistics for gunpowder units; Hand Canoneers +1 range)\n\n<b>Team Bonus:<b>  \nLine of sight is shared with the team starting in the Dark Age"
