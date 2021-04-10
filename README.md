@@ -1,21 +1,21 @@
 ## AOE2-DE-Unofficial-Patch - by SirSgtCire
-Welcome to the Unofficial Patch Definitive Edition, Version 1.8!
+Welcome to the Unofficial Patch Definitive Edition, Version 2.0!
 
-This mod is kept up to date with the latest patches from DE, as I always try to incorporate dev changes into my work. 
-Therefore this mod currently operates on patch: 41855
+This mod is kept up to date with the latest patches from DE, as I always try to incorporate approved dev changes into my work. 
+Therefore this mod currently operates on patch: 43210
 
-This mod contains changes that, in a completely subjective context, improve gameplay for some civs and restore some 
-unecessarily lost power to others. The goal of these changes is to improve the historical accuracy of some civs, 
-while at the same time ensuring balance for civs who aren't getting the same attention. My goal with this mod 
-is to see how far I can balance the game while at the same time keeping crown techs unique.
+This mod is taking a different approach to balancing the game. There are some situations in which the devs 
+nerfed or buffed certain techs or units, either for the wrong reasons or completely unnecessarily. My goal 
+with this mod is to focus on historical accuracy (as much as is possible in this game, without doing a 
+complete overhaul), diverse strategies, unique playstyles for certain civs (not every civ should be able 
+to do everything well), and focusing more on unique techs and unique units.
 
 General Game Changes:
-
-- enabled Monks, Monks with Relics, Petards and Kings to load into Siege Towers and Rams
+- enabled Monks, Monks with Relics, Petards, Kings and Queens to load into Siege Towers and Rams
 - changed Paladin upgrade cost to 1000 food, 750 gold, research time to 125 seconds
 - changed Imperial Camel upgrade cost to 1000 food, 750 gold, research time to 125 seconds
 - changed Elite Battle Elephant upgrade cost to 1200 food, 750 gold, research time to 100 seconds
-- changed Siege Onager upgrade cost to 1200 food, 900 gold
+- changed Siege Onager upgrade cost to 1200 food, 900 gold, research time to 130 seconds
 - standardized all land and water unique unit Elite upgrades to 1000 food/wood, 500 gold, research time to 60 seconds
 - All unique archer-related Elite Upgrades have wood and gold costs
 - All unique ship-related Elite upgrades have wood and gold costs
@@ -26,7 +26,8 @@ General Game Changes:
 - All unique siege-related Crown upgrades have wood and gold costs
 - All unique ship-related Crown upgrades have wood and gold costs
 - All other Crown upgrades have food and gold costs
-- increased (Elite) Battle Elephant trample damage blast radius to 0.5
+- increased (Elite) Battle Elephant trample damage blast radius to (0.5) 0.5
+- updated many tech descriptions to give numeric descriptions of effects (to help with clarity in game)
 
 Civ Specific Changes:
 
@@ -34,7 +35,7 @@ Malay:
 - NO CHANGES
 
 Italians:
-- gave +1 anti-cavalry attack bonus to Elite Genoese Crossbowman
+- increased anti-cavalry damage by 1
 - added Heavy Scorpion
 - changed Silk Road to Hourglass, which makes all land units train 10% faster
 - added civ bonus "trade units cost -25%"
@@ -43,21 +44,22 @@ Italians:
 
 Britons:
 - increased blast radius of Warwolf tech to Trebuchets by 0.2
-- removed Castle Age requirement on TC wood cost reduction civ bonus
 
 Spanish:
 - added Heated Shot
 - removed Heavy Cavalry Archer
 - reverted team bonus to give 33% trade bonus
+- changed blacksmith civ bonus to "Blacksmith and Market upgrades don't cost gold"
 
 Indians:
+- removed cavalry pierce armor civ bonus
 - removed Hussar, Heavy Demolition Ship, Champion, Gold Shaft Mining, Redemption
 - added Architecture, Atonement, Keep, Bombard Tower, Battle Elephant Line
-- removed camel armor civ bonus
 - changed Sultans tech to increase all gold production by 15%
-- changed Shatagni to Rajputs, now gives "Camels get +1/+1P armor"
+- changed Shatagni to Rajputs, now gives "Cavalry get +1 attack, +1/+1P armor"
 - changed fisherman civ bonus to "Fishermen work 10% faster, carry +10"
-- (Elite) Elephant Archers do (3) 2 bonus damage to infantry and archers
+- (Elite) Elephant Archers do (3) 2 bonus damage to infantry
+- reduced Imperial Camel Rider base attack by 1
 
 Magyars:
 - NO CHANGES
@@ -67,7 +69,8 @@ Portuguese:
 - changed Arquebus to also increase hand cannon range by +1
 
 Turks:
-- increased accuracy of (Elite) Janissaries by (+10%) +5%
+- removed Scout Cavalry line pierce armor civ bonus
+- increased accuracy of Janissaries by +5%
 - changed Sipahi to Yaya, now gives "Cavalry Archers +20 hp; Skirmishers and Spearmen +10 hp"
 
 Japanese:
@@ -77,7 +80,7 @@ Teutons:
 - added Siege Ram
 - removed free Herbal Medicine
 - added in civ bonus "Garrisoned infantry units can fire arrows"
-- changed Crenelations tech to "Castles +3 range; Castles and towers have +1 melee/+1 pierce/+3 building armor"
+- changed Crenelations tech to "Castles +3 range; Castles, towers and town centers have +2 melee/+2 pierce/+6 building armor"
 
 Vikings:
 - merged Chieftains tech effects into Berserkergang, increased bonus cavalry damage by 2
@@ -86,7 +89,7 @@ Vikings:
 Byzantines:
 - added Town Patrol to their Free Town Watch bonus
 - renamed Logistica to Incendiaries, now gives "Towers do 125% more damage vs. siege weapons; Castles do 25% more damage vs. siege weapons"
-- added Logistica trample damage directly to the (Elite) Cataphract units permanently
+- added Logistica blast radius directly to the (Elite) Cataphract units permanently
 
 Saracens:
 - changed Madrasah effect to "Monks return 66% of their cost when killed"
@@ -110,7 +113,7 @@ Vietnamese:
 - changed Chatras tech to increase Battle Elephant hp by 60
 - added civ bonus "Transport Ships 2x hitpoints, +5 carry capacity"
 - changed archer hp civ bonus to scale through ages, now gives "Archers +10% hp Feudal Age, +15% hp Castle Age, +20% hp Imperial Age"
-- increased gold received from Paper Money to 750
+- increased gold received from Paper Money to 750, renamed to Monetary Reform
 
 Slavs:
 - reverted farmer work rate bonus to 15% faster
@@ -122,20 +125,23 @@ Berbers:
 Chinese:
 - changed team bonus to provide +75 food
 - changed Rocketry tech to "Scorpions +4 attack, Archer-line +2 attack; Scorpions +1 range"
+- increased Great Wall bonus to 35%
 
 Goths:
 - changed population civ bonus to "+5 population each age, starting in the Feudal Age"
 - reverted infantry cost reduction to -35% start in Feudal Age
+- reverted Loom to being free at the start of the game
 
 Franks:
-- changed Bearded Axe to also increase Throwing Axeman pierce armor by 1
+- changed Bearded Axe to also increase Throwing Axeman pierce armor by 1, moved to Castle Age
+- changed Chivalry to increase stable production speed by 50%, moved it to Imperial Age
 - changed cavalry hp civ bonus to "Cavalry +20% hp Feudal, +25% Castle Age"
 
 Persians:
 - removed Siege Ram
 - added Fortified Walls
 - changed Kamandaran to make crossbowmen cost 70 wood, moved it to Imperial Age
-- changed Mahouts to also improve Elephant attack speed by 15%, moved it to Castle Age, made it affect all elephants
+- changed Mahouts to also improve Elephant attack speed by 18%, moved it to Castle Age, made it affect all elephants
 - reverted TC and Dock work rate of 5% in Dark Age
 
 Huns:
@@ -153,13 +159,13 @@ Aztecs:
 - increased Elite Jaguar Warrior bonus infantry damage by 1
 - changed Garland Wars to include Xolotl Warriors
 - reverted military creation time reduction back to 15%
+- reverted villager carry pacacity to 5
 
 Burmese:
-- changed Howdah to "Elephants receive +2/+1P armor" and made it affect all elephants
-- increased accuracy of (Elite) Arambai by (10%) 10%
+- changed Howdah to "Elephants receive +2/+2P armor" and made it affect all elephants
+- increased accuracy of (Elite) Arambai by (5%) 5%
 
 Koreans:
-- changed Panokseon to also increase turtle ship melee armor by 1
 - changed Shinkichon to also decrease Mangonel-line creation cost by 10%
 
 Mayans:
@@ -174,15 +180,14 @@ Incas:
 - added "Farms +50% hp" to team bonus
 
 Lithuanians:
-- increased (Elite) Leitis coin cost to (65) 65
-- moved Tower Shields to Castle Age, now gives "Spearman-line and Skirmishers receive +1/+1P armor"
-- moved Hill Forts to Imperial Age, added "Town Centers have +1 melee/+1 pierce/+3 building armor"
+- changed Tower Shields to "Spearman-line and Skirmishers receive +1/+1P armor"
+- changed Hill Forts to "Town Centers have +4 attack, +10% hit points"
 
 Bulgarians:
-- NO CHANGES
+- renamed Stirrups to Cavalry Tactics
 
 Tatars:
-- NO CHANGES
+- increased (Elite) Keshik gold cost to 50
 
 Cumans:
 - NO CHANGES
