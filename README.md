@@ -1,5 +1,5 @@
 ## AOE2-DE-Unofficial-Patch - by SirSgtCire
-Welcome to the Unofficial Patch Definitive Edition, Version 1.5!
+Welcome to the Unofficial Patch Definitive Edition, Version 1.6!
 
 This mod is kept up to date with the latest patches from DE, as I always try to incorporate dev changes into my work. 
 Therefore this mod operates on patch: 37650
@@ -72,7 +72,7 @@ Portuguese:
 
 Turks:
 - increased accuracy of (Elite) Janissaries by (+10%) +5%
-- changed Sipahi to Yaya, which gives Cavalry Archers and Spearmen +20 hp, Skirmishers +10 hp
+- changed Sipahi to Yaya, which gives Cavalry Archers +20 hp, Skirmishers and Spearmen +10 hp
 
 Japanese:
 - increased melee armor of Elite Samurai by +1
@@ -177,6 +177,7 @@ Incas:
 
 Lithuanians:
 - changed Tower Shields to "Skirmishers +1P armor, spear-line +1/+1P armor"
+- increased Leitis gold cost to 60
 
 Bulgarians:
 - NO CHANGES
