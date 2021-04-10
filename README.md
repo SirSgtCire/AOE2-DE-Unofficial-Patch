@@ -1,8 +1,8 @@
 ## AOE2-DE-Unofficial-Patch - by SirSgtCire
-Welcome to the Unofficial Patch Definitive Edition, Version 2.2!
+Welcome to the Unofficial Patch Definitive Edition, Version 2.3!
 
 This mod is kept up to date with the latest patches from DE, as I always try to incorporate approved dev changes into my work. 
-Therefore this mod currently operates on patch: 45185
+Therefore this mod currently operates on patch: 46295
 
 This mod is taking a different approach to balancing the game. There are some situations in which the devs 
 nerfed or buffed certain techs or units, either for the wrong reasons or completely unnecessarily. My goal 
