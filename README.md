@@ -1,8 +1,8 @@
 ## AOE2-DE-Unofficial-Patch - by SirSgtCire
-Welcome to the Unofficial Patch Definitive Edition, Version 2.1!
+Welcome to the Unofficial Patch Definitive Edition, Version 2.2!
 
 This mod is kept up to date with the latest patches from DE, as I always try to incorporate approved dev changes into my work. 
-Therefore this mod currently operates on patch: 44834
+Therefore this mod currently operates on patch: 45185
 
 This mod is taking a different approach to balancing the game. There are some situations in which the devs 
 nerfed or buffed certain techs or units, either for the wrong reasons or completely unnecessarily. My goal 
@@ -28,6 +28,7 @@ General Game Changes:
 - All other Crown upgrades have food and gold costs
 - increased (Elite) Battle Elephant trample damage blast radius to (0.5) 0.5
 - updated many tech descriptions to give numeric descriptions of effects (to help with clarity in game)
+- increased Hand Canoneer bonus infantry damage by 5
 
 Civ Specific Changes:
 
@@ -145,7 +146,7 @@ Franks:
 
 Persians:
 - removed Siege Ram
-- added Fortified Walls
+- added Fortified Walls, Bracer
 - changed Kamandaran to make crossbowmen cost 70 wood, moved it to Imperial Age
 - changed Mahouts to also improve Elephant attack speed by 18%, moved it to Castle Age, made it affect all elephants
 - reverted TC and Dock work rate of 5% in Dark Age
