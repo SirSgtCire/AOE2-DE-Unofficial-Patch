@@ -1,5 +1,5 @@
 ## AOE2-DE-Unofficial-Patch - by SirSgtCire
-Welcome to the Unofficial Patch Definitive Edition, Version 1.1!
+Welcome to the Unofficial Patch Definitive Edition, Version 1.2!
 
 This mod is the evolution of my original HD mod of the same name, which can be found here: 
 https://steamcommunity.com/sharedfiles/filedetails/?id=1521292652&searchtext=unofficial
@@ -71,6 +71,9 @@ Japanese:
 Teutons:
 - increased (Elite) Teutonic Knight attack speed by (0.05) 0.05
 - added Siege Ram
+- removed civ bonus "Barracks units +1 melee armor starting in Castle Age"
+- added in civ bonus "Infantry units can fire arrows when garrisoned"
+- changed Crenelations tech to "Castles +3 range; Castles and towers have +1 melee/+1 pierce/+3 building armor"
 
 Vikings:
 - increased Chieftains bonus cavalry damage by 2
@@ -139,6 +142,8 @@ Celts:
 
 Aztecs:
 - increased Elite Jaguar Warrior bonus infantry damage by 1
+- changed Garland Wars to include Xolotl Warriors
+- changed military unit creation speed civ bonus to include Xolotl Warriors
 
 Burmese:
 - changed Howdah to "Battle Elephants receive +2/+1P armor"
@@ -150,9 +155,10 @@ Koreans:
 Mayans:
 - removed Atonement
 - added Redemption
+- changed El Dorado to include Xolotl Warriors
 
 Incas:
-- changed Couriers tech to also affect Monks
+- changed Fabric Shields tech to include Monks and Xolotl Warriors
 
 Lithuanians:
 - changed Tower Shields to "Skirmishers +1P armor, spear-line +1/+1P armor"
