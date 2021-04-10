@@ -1,8 +1,8 @@
 ## AOE2-DE-Unofficial-Patch - by SirSgtCire
-Welcome to the Unofficial Patch Definitive Edition, Version 1.7!
+Welcome to the Unofficial Patch Definitive Edition, Version 1.8!
 
 This mod is kept up to date with the latest patches from DE, as I always try to incorporate dev changes into my work. 
-Therefore this mod currently operates on patch: 40220
+Therefore this mod currently operates on patch: 41855
 
 This mod contains changes that, in a completely subjective context, improve gameplay for some civs and restore some 
 unecessarily lost power to others. The goal of these changes is to improve the historical accuracy of some civs, 
@@ -39,9 +39,11 @@ Italians:
 - changed Silk Road to Hourglass, which makes all land units train 10% faster
 - added civ bonus "trade units cost -25%"
 - changed dock techs civ bonus to "dock techs cost -40%"
+- changed Pavise to "Foot Archers and Condottieri receive +2P armor"
 
 Britons:
 - increased blast radius of Warwolf tech to Trebuchets by 0.2
+- removed Castle Age requirement on TC wood cost reduction civ bonus
 
 Spanish:
 - added Heated Shot
@@ -66,7 +68,7 @@ Portuguese:
 
 Turks:
 - increased accuracy of (Elite) Janissaries by (+10%) +5%
-- changed Sipahi to Yaya, which gives Cavalry Archers +20 hp, Skirmishers and Spearmen +10 hp
+- changed Sipahi to Yaya, now gives "Cavalry Archers +20 hp; Skirmishers and Spearmen +10 hp"
 
 Japanese:
 - increased Elite Samurai melee armor by 1
@@ -79,12 +81,12 @@ Teutons:
 
 Vikings:
 - merged Chieftains tech effects into Berserkergang, increased bonus cavalry damage by 2
-- changed Chieftains to Keels, which increases Longboat melee armor by 2
+- changed Chieftains to Keels, now gives "Galley-line receive +2 armor"
 
 Byzantines:
 - added Town Patrol to their Free Town Watch bonus
 - renamed Logistica to Incendiaries, now gives "Towers do 125% more damage vs. siege weapons; Castles do 25% more damage vs. siege weapons"
-- added Logistica trample damage directly to the Cataphract unit permanently
+- added Logistica trample damage directly to the (Elite) Cataphract units permanently
 
 Saracens:
 - changed Madrasah effect to "Monks return 66% of their cost when killed"
@@ -93,7 +95,7 @@ Saracens:
 
 Khmer:
 - changed Battle Elephants speed civ bonus to include Ballista Elephants
-- changed team bonus to "Scorpions minimum range reduced"
+- changed team bonus to "Scorpions minimum range reduced to 0"
 - changed Double Crossbow to also increase Ballista Elephant projectile damage by 2
 - removed farmer work rate reduction
 
@@ -114,13 +116,14 @@ Slavs:
 - reverted farmer work rate bonus to 15% faster
 
 Berbers:
-- removed Elite Genitour upgrade, gave the regular Genitour the elite stats (affects all players)
+- removed Elite Genitour upgrade, gave the regular Genitour the elite stats except hit points (affects all players)
+- changed Maghrebi Camels to also increase camel unit speed by 10%
 
 Chinese:
 - changed team bonus to provide +75 food
 - changed Rocketry tech to "Scorpions +4 attack, Archer-line +2 attack; Scorpions +1 range"
 
-Goths: 
+Goths:
 - changed population civ bonus to "+5 population each age, starting in the Feudal Age"
 - reverted infantry cost reduction to -35% start in Feudal Age
 
@@ -132,7 +135,7 @@ Persians:
 - removed Siege Ram
 - added Fortified Walls
 - changed Kamandaran to make crossbowmen cost 70 wood, moved it to Imperial Age
-- changed Mahouts to also improve Elephant attack speed by 0.15, moved it to Castle Age
+- changed Mahouts to also improve Elephant attack speed by 15%, moved it to Castle Age, made it affect all elephants
 - reverted TC and Dock work rate of 5% in Dark Age
 
 Huns:
@@ -141,7 +144,7 @@ Huns:
 - changed Atheism to Paganism, which makes Monks cost 100 food instead of 100 gold
 
 Mongols:
-- NO CHANGES
+- changed Nomads to also give the player 300 wood upon research complete, changed cost to 300 food and 200 gold
 
 Celts:
 - NO CHANGES
@@ -152,11 +155,12 @@ Aztecs:
 - reverted military creation time reduction back to 15%
 
 Burmese:
-- changed Howdah to "Battle Elephants receive +2/+1P armor"
+- changed Howdah to "Elephants receive +2/+1P armor" and made it affect all elephants
 - increased accuracy of (Elite) Arambai by (10%) 10%
 
 Koreans:
-- NO CHANGES
+- changed Panokseon to also increase turtle ship melee armor by 1
+- changed Shinkichon to also decrease Mangonel-line creation cost by 10%
 
 Mayans:
 - removed Atonement
@@ -167,9 +171,12 @@ Mayans:
 
 Incas:
 - changed Fabric Shields tech to include Monks and Xolotl Warriors
+- added "Farms +50% hp" to team bonus
 
 Lithuanians:
-- NO CHANGES
+- increased (Elite) Leitis coin cost to (65) 65
+- moved Tower Shields to Castle Age, now gives "Spearman-line and Skirmishers receive +1/+1P armor"
+- moved Hill Forts to Imperial Age, added "Town Centers have +1 melee/+1 pierce/+3 building armor"
 
 Bulgarians:
 - NO CHANGES
