@@ -21,7 +21,7 @@
 28271 "Research <b>Rajputs<b> (<cost>) \nCamels receive +1/+1P armor."
 8270 "Research Sultans (All gold income 15% faster)"
 28270 "Research <b>Sultans<b> (<cost>) \nAll gold income 15% faster (Trade, mines, relics)."
-120169 "Camel and Defensive civilization \n\n• Villagers cost -10% Dark, -15% Feudal, -20% Castle, -25% Imperial Age \n• Fishermen work 15% faster and carry +15 \n\n<b>Unique Units:<b>  \nElephant Archer (cavalry archer), Imperial Camel Rider (camel rider)\n\n<b>Unique Techs:<b>  \n• Sultans (All gold income 15% faster) \n• Rajputs (Camels +1/+1P armor)\n\n<b>Team Bonus:<b>  \nCamel units +5 attack vs. buildings"
+120169 "Camel and Defensive civilization \n\n• Villagers cost -10% Dark, -15% Feudal, -20% Castle, -25% Imperial Age \n• Fishermen work 10% faster and carry +10 \n\n<b>Unique Units:<b>  \nElephant Archer (cavalry archer), Imperial Camel Rider (camel rider)\n\n<b>Unique Techs:<b>  \n• Sultans (All gold income 15% faster) \n• Rajputs (Camels +1/+1P armor)\n\n<b>Team Bonus:<b>  \nCamel units +5 attack vs. buildings"
 
 7318 "Incendiaries"
 8318 "Research Incendiaries (Towers do 125%more damage vs. siege weapons; Castles do 25% more damage vs. siege weapons)"
@@ -57,15 +57,15 @@
 28432 "Research <b>Rocketry<b> (<cost>) \n Scorpions +4 attack; Scorpions and Hand Canoneers +1 range."
 120155 "Archer civilization \n\n• Start with +3 villagers, -50 wood, -200 food \n• Technologies cost -10% Feudal,  \n-15% Castle, -20% Imperial Age \n• Town Centers support 10 population and +5 LOS\n• Demolition ships +50% hit points \n\n<b>Unique Unit:<b>  \nChu Ko Nu (archer) \n\n<b>Unique Techs:<b>  \n• Great Wall (Walls and towers +30% HP) \n• Rocketry (Scorpions +4 attack; Scorpions and Hand Canoneers +1 range)\n\n<b>Team Bonus:<b>  \nFarms +75 food"
 
-120152 "Infantry civilization \n\n• Infantry cost -35% starting in Feudal Age \n• Infantry +1 attack vs. buildings per age (starting from Feudal Age) \n• Villagers +5 attack vs. wild boar; hunters carry +15 meat \n• +5 population in Feudal, +5 Castle, +5 Imperial Age \n\n<b>Unique Unit:<b>  \nHuskarl (infantry) \n\n<b>Unique Techs:<b>  \n• Anarchy (create Huskarls at Barracks) \n• Perfusion (Barracks work 100% faster) \n\n<b>Team Bonus:<b>  \nBarracks work 20% faster"
+120152 "Infantry civilization \n\n• Infantry cost -35% starting in Feudal Age \n• Infantry +1 attack vs. buildings per age (starting from Feudal Age) \n• Villagers +5 attack vs. wild boar; hunters carry +15 meat \n• Loom free \n• +5 population in Feudal, +5 Castle, +5 Imperial Age \n\n<b>Unique Unit:<b>  \nHuskarl (infantry) \n\n<b>Unique Techs:<b>  \n• Anarchy (create Huskarls at Barracks) \n• Perfusion (Barracks work 100% faster) \n\n<b>Team Bonus:<b>  \nBarracks work 20% faster"
 
 8324 "Research Bearded Axe (Throwing Axemen +1 range, +1P armor)"
 28324 "Research <b>Bearded Axe<b> (<cost>) \n Throwing Axemen have +1 range, +1P armor."
-120151 "Cavalry civilization \n\n• Castles cost -25% \n• Cavalry +20% hit points starting in Feudal Age \n• Farm upgrades free (require Mill)\n• Foragers work 25% faster \n\n<b>Unique Unit:<b>  \nThrowing Axeman (infantry) \n\n<b>Unique Techs:<b>  \n• Chivalry (Stables work 40% faster) \n• Bearded Axe (Throwing Axemen +1 range, +1P armor)\n\n<b>Team Bonus:<b>  \nKnights +2 line of sight"
+120151 "Cavalry civilization \n\n• Castles cost -25% \n• Cavalry +20% hit points in Feudal Age, +25% in Castle Age \n• Farm upgrades free (require Mill)\n• Foragers work 25% faster \n\n<b>Unique Unit:<b>  \nThrowing Axeman (infantry) \n\n<b>Unique Techs:<b>  \n• Chivalry (Stables work 40% faster) \n• Bearded Axe (Throwing Axemen +1 range, +1P armor)\n\n<b>Team Bonus:<b>  \nKnights +2 line of sight"
 
-8423 "Research Mahouts (War Elephants move +30% faster, attack 5% faster)"
-28423 "Research <b>Mahouts<b> (<cost>) \n War Elephants move 30% faster, attack 5% faster."
-120157 "Cavalry civilization \n\n• Start with +50 wood, food \n• Town Center, Dock 2x hit points; work rate +5% Dark, +10% Feudal, +15% Castle, +20% Imperial Age \n\n<b>Unique Unit:<b>  \nWar Elephant (cavalry) \n\n<b>Unique Techs:<b>  \n• Kamandaran (Archer-line gold cost is replaced by additional wood cost) \n• Mahouts (War Elephants move 30% faster, attack 5% faster)\n\n<b>Team Bonus:<b>  \nKnights +2 attack vs. Archers"
+8423 "Research Mahouts (War Elephants move +30% faster, attack 15% faster)"
+28423 "Research <b>Mahouts<b> (<cost>) \nWar Elephants move 30% faster, attack 15% faster."
+120157 "Cavalry civilization \n\n• Start with +50 wood, food \n• Town Center, Dock 2x hit points; work rate +5% Dark, +10% Feudal, +15% Castle, +20% Imperial Age \n\n<b>Unique Unit:<b>  \nWar Elephant (cavalry) \n\n<b>Unique Techs:<b>  \n• Kamandaran (Archer-line gold cost is replaced by additional wood cost) \n• Mahouts (War Elephants move 30% faster, attack 15% faster)\n\n<b>Team Bonus:<b>  \nKnights +2 attack vs. Archers"
 
 8295 "Research Howdah (Battle Elephants +2/+1P armor)"
 28295 "Research <b>Howdah<b> (<cost>) \nBattle Elephants receive +2/+1P armor."
@@ -81,7 +81,7 @@
 
 8426 "Research Crenellations (+3 range Castles; Castles and towers have +1 melee/+1 pierce/+3 building armor)"
 28426 "Research <b>Crenellations<b> (<cost>) \n Castles have +3 range; Castles and towers have +1 melee/+1 pierce/+3 building armor."
-120153 "Infantry and Defensive civilization \n\n• Garrisoned infantry can fire arrows \n• Monks heal range 2x \n• Towers garrison +5 units, \nTown Centers garrison +10 units \n• Murder Holes, Herbal Medicine free \n• Farms cost -40% \n\n<b>Unique Unit:<b>  \nTeutonic Knight (infantry) \n\n<b>Unique Techs:<b>  \n• Ironclad (siege weapons extra melee armor) \n• Crenellations (+3 range Castles; Castles and towers have +1 melee/+1 pierce/+3 building armor)\n\n<b>Team Bonus:<b>  \nUnits resist conversion"
+120153 "Defensive civilization \n\n• Garrisoned infantry can fire extra arrows; Towers garrison +5 units, Town Centers garrison +10 units; Murder Holes free \n• Monks heal range 2x \n• Barracks and Stable units have +1 armor Castle Age, +1 armor Imperial Age (for +2 total) \n• Farms cost -40% \n\n<b>Unique Unit:<b>  \nTeutonic Knight (infantry) \n\n<b>Unique Techs:<b>  \n• Ironclad (siege weapons extra melee armor) \n• Crenellations (+3 range Castles; Castles and towers have +1 melee/+1 pierce/+3 building armor)\n\n<b>Team Bonus:<b>  \nUnits resist conversion"
 
 8420 "Research El Dorado (Eagle Warriors and Xolotl Warriors +40 HP)"
 28420 "Research <b>El Dorado<b> (<cost>) \n Eagle Warriors and Xolotl Warriors receive +40 hit points."

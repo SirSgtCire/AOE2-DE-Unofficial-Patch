@@ -1,15 +1,14 @@
 ## AOE2-DE-Unofficial-Patch - by SirSgtCire
-Welcome to the Unofficial Patch Definitive Edition, Version 1.2!
+Welcome to the Unofficial Patch Definitive Edition, Version 1.3!
 
 This mod is the evolution of my original HD mod of the same name, which can be found here: 
 https://steamcommunity.com/sharedfiles/filedetails/?id=1521292652&searchtext=unofficial
 
+This mod is kept up to date with the latest patches from DE, as I always try to incorporate the dev's changes into my work.
+
 This mod contains changes that, in a completely subjective context, improve gameplay for some civs and restore some 
 unecessarily lost power to others. The goal of these changes is to improve the historical accuracy of some civs, 
 while at the same time ensuring balance for civs who aren't getting the same attention.
-
-There are differences between the HD version and this version, as the balance scene has changed 
-with the addition of the four new civs in DE. 
 
 The following changes are things that need experimentation, to see if they will work in DE:
 
@@ -26,7 +25,7 @@ General Game Changes:
 - standardized all land and water unique unit Elite upgrades to 1000 food/wood, 500 gold/stone, research time to 60 seconds
 - changed Paladin upgrade cost to 1000 food, 750 gold, research time to 125 seconds
 - changed Imperial Camel upgrade cost to 1000 food, 750 gold, research time to 125 seconds
-- changed Elite Battle Elephant upgrade cost to 1200 food, 750 gold, research time to 125 seconds
+- changed Elite Battle Elephant upgrade cost to 1200 food, 750 gold, research time to 100 seconds
 - increased (Elite) Battle Elephant trample damage blast radius to 0.5
 - All unique archer-related Elite Upgrades now have wood cost instead of food cost (still have gold cost)
 - All unique ship-related Elite upgrades now have wood cost instead of food cost (still have gold cost)
@@ -47,6 +46,7 @@ Britons:
 
 Spanish:
 - added Heated Shot
+- removed Heavy Cavalry Archer
 - reverted team bonus to give 33% trade bonus
 
 Indians:
@@ -55,12 +55,13 @@ Indians:
 - removed camel armor civ bonus
 - changed Sultans tech to increase all gold production by 15%
 - changed Shatagni to Rajputs, now gives "Camels get +1/+1P armor"
+- changed fisherman civ bonus to "Fishermen work 10% faster, carry +10"
 
 Magyars:
 - NO CHANGES
 
 Portuguese:
-- increased projectile speed for Cannon Galleons and Bombard Towers from Arquebus tech by 0.1
+- increased projectile speed increase for Bombard Cannons, Bombard Towers and Cannon Galleons from Arquebus tech by 0.1
 
 Turks:
 - increased accuracy of (Elite) Janissaries by (+10%) +5%
@@ -69,10 +70,9 @@ Japanese:
 - increased melee armor of Elite Samurai by +1
 
 Teutons:
-- increased (Elite) Teutonic Knight attack speed by (0.05) 0.05
 - added Siege Ram
-- removed civ bonus "Barracks units +1 melee armor starting in Castle Age"
-- added in civ bonus "Infantry units can fire arrows when garrisoned"
+- removed free Herbal Medicine
+- added in civ bonus "Garrisoned infantry units can fire arrows starting in Castle Age"
 - changed Crenelations tech to "Castles +3 range; Castles and towers have +1 melee/+1 pierce/+3 building armor"
 
 Vikings:
@@ -92,6 +92,7 @@ Khmer:
 - changed Battle Elephants speed civ bonus to include Ballista Elephants
 - changed team bonus to "Scorpions minimum range reduced"
 - changed Double Crossbow to also increase Ballista Elephant projectile damage by 1
+- removed farmer work rate reduction
 
 Ethiopians:
 - added back free Halberdier upgrade to Free Pikeman civ bonus
@@ -124,12 +125,14 @@ Goths:
 
 Franks:
 - made Bearded Axe also increase Throwing Axeman pierce armor by 1
+- changed cavalry hp civ bonus to "Cavalry +20% hp Feudal, +25% Castle Age"
 
 Persians:
 - removed Siege Ram
 - added Fortified Walls
 - changed Kamandaran to make crossbowmen cost 70 wood
-- changed Mahouts to also increase (Elite) War Elephant attack speed by 0.1
+- changed Mahouts to also improve Elephant attack speed by 0.15
+- reverted TC and Dock work rate of 5% in Dark Age
 
 Huns:
 - NO CHANGES
@@ -143,7 +146,6 @@ Celts:
 Aztecs:
 - increased Elite Jaguar Warrior bonus infantry damage by 1
 - changed Garland Wars to include Xolotl Warriors
-- changed military unit creation speed civ bonus to include Xolotl Warriors
 
 Burmese:
 - changed Howdah to "Battle Elephants receive +2/+1P armor"
