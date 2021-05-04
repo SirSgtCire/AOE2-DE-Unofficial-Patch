@@ -79,7 +79,7 @@
 
 8325 "Research Supremacy (Villagers +40 hit points, +4 attack, +2/+2P armor)"
 28325 "Research <b>Supremacy<b> (<cost>) \nVillagers +40 hit points, +4 attack, +2/+2P armor."
-120163 "Gunpowder and Monk civilization \n\n• Builders work 30% faster \n• Blacksmith and Market upgrades don't cost gold \n• Cannon Galleons benefit from Ballistics \n• Gunpowder units fire 18% faster\n\n<b>Unique Units:<b>  \nConquistador (mounted hand cannoneer), Missionary (mounted Monk) \n\n<b>Unique Techs:<b>  \n• Inquisition (Monks convert faster) \n• Supremacy (Villagers +40 hit points, +4 attack, +2/+2P armor)\n\n<b>Team Bonus:<b>  \nTrade units generate +33% gold"
+120163 "Gunpowder and Monk civilization \n\n• Builders work 30% faster \n• Blacksmith upgrades don't cost gold \n• Cannon Galleons benefit from Ballistics \n• Gunpowder units fire 18% faster\n\n<b>Unique Units:<b>  \nConquistador (mounted hand cannoneer), Missionary (mounted Monk) \n\n<b>Unique Techs:<b>  \n• Inquisition (Monks convert faster) \n• Supremacy (Villagers +40 hit points, +4 attack, +2/+2P armor)\n\n<b>Team Bonus:<b>  \nTrade units generate +33% gold"
 
 8438 "Research Shinkichon (Mangonel-line +1 range and cost -10%)"
 28438 "Research <b>Shinkichon<b> (<cost>) \nMangonel-line +1 range and cost -10%."
