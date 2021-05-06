@@ -65,7 +65,7 @@
 
 8311 "Research Steppe Husbandry (Scout Cavalry line, Steppe Lancers and Cavalry Archers trained 100% faster)"
 28311 "Research <b>Steppe Husbandry<b> (<cost>) \nScout Cavalry line, Steppe Lancers and Cavalry Archers trained 100% faster."
-120183 "Cavalry civilization \n\n• Additional Town Center can be built in the Feudal Age \n• Siege Workshop and Battering Ram available in the Feudal Age; Capped Ram upgrade available in Castle Age\n• Cavalry 5% faster each age (starting in Feudal Age) \n\n<b>Unique Unit:<b> \nKipchak (cavalry archer)\n\n<b>Unique Techs:<b> \n• Steppe Husbandry (Scout Cavalry line, Steppe Lancers and Cavalry Archers trained 100% faster) \n• Cuman Mercenaries (team members can create 10 free Elite Kipchaks in the Castle)\n\n<b>Team Bonus:<b> \nPalisade Walls +50% HP"
+120183 "Cavalry civilization \n\n• Additional Town Center can be built in the Feudal Age \n• Siege Workshop and Battering Ram available in the Feudal Age; Capped Ram upgrade available in Castle Age\n• Cavalry 5% faster each age (starting in Feudal Age) \n\n<b>Unique Unit:<b> \nKipchak (cavalry archer)\n\n<b>Unique Techs:<b> \n• Steppe Husbandry (Scout Cavalry line, Steppe Lancers and Cavalry Archers trained 100% faster) \n• Cuman Mercenaries (team members can create 10 free Elite Kipchaks in the Castle)\n\n<b>Team Bonus:<b> \nPalisade Walls +33% HP"
 
 120150 "Foot Archer civilization \n\n• Town Centers cost -50% wood (starting in Castle Age) \n• Foot archers (except skirmishers) have +1 range per age (starting in Castle Age) \n• Shepherds work 25% faster \n\n<b>Unique Unit:<b>  \nLongbowman (archer) \n\n<b>Unique Techs:<b>  \n• Yeomen (foot archers +1 range; towers +2 attack) \n• Warwolf (Trebuchets do blast damage)\n\n<b>Team Bonus:<b>  \nArchery Ranges work 20% faster"
 
@@ -79,7 +79,7 @@
 
 8325 "Research Supremacy (Villagers +40 hit points, +4 attack, +2/+2P armor)"
 28325 "Research <b>Supremacy<b> (<cost>) \nVillagers +40 hit points, +4 attack, +2/+2P armor."
-120163 "Gunpowder and Monk civilization \n\n• Builders work 30% faster \n• Blacksmith and Market upgrades don't cost gold \n• Cannon Galleons benefit from Ballistics \n• Gunpowder units fire 18% faster\n\n<b>Unique Units:<b>  \nConquistador (mounted hand cannoneer), Missionary (mounted Monk) \n\n<b>Unique Techs:<b>  \n• Inquisition (Monks convert faster) \n• Supremacy (Villagers +40 hit points, +4 attack, +2/+2P armor)\n\n<b>Team Bonus:<b>  \nTrade units generate +33% gold"
+120163 "Gunpowder and Monk civilization \n\n• Builders work 30% faster \n• Blacksmith upgrades don't cost gold \n• Cannon Galleons benefit from Ballistics \n• Gunpowder units fire 18% faster\n\n<b>Unique Units:<b>  \nConquistador (mounted hand cannoneer), Missionary (mounted Monk) \n\n<b>Unique Techs:<b>  \n• Inquisition (Monks convert faster) \n• Supremacy (Villagers +40 hit points, +4 attack, +2/+2P armor)\n\n<b>Team Bonus:<b>  \nTrade units generate +33% gold"
 
 8438 "Research Shinkichon (Mangonel-line +1 range and cost -10%)"
 28438 "Research <b>Shinkichon<b> (<cost>) \nMangonel-line +1 range and cost -10%."
@@ -107,6 +107,8 @@
 
 8284 "Research Madrasah (Killed monks return 66% of their cost)"
 28284 "Research <b>Madrasah<b> (<cost>) \nKilled monks return 66% of their cost."
+8424 "Research Zealotry (Camel units +30 hit points)"
+28424 "Research <b>Zealotry<b> (<cost>) \n Camel units +30 hit points."
 120158 "Camel and Naval civilization \n\n• Market trade cost only 5% \n• Market costs -100 wood \n• Trade units move 10% faster \n• Galley-line attack 25% faster \n• Archers (except skirmishers) +1 attack vs. buildings per age (starting in Feudal Age) \n\n<b>Unique Unit:<b>  \nMameluke (camel rider) \n\n<b>Unique Techs:<b>  \n• Madrasah (Monks return 66% of their cost when killed) \n• Zealotry (Camel units +30 hit points)\n\n<b>Team Bonus:<b>  \nFoot archers +1 attack vs. buildings"
 
 8292 "Research Double Crossbows (Ballista Elephants and Scorpions fire two projectiles; Ballista Elephants +2 attack)"
@@ -165,7 +167,7 @@
 
 8267 "Research Fabric Shields (Kamayuks, Slingers, Eagles, Monks and Xolotl Warriors +1/+2P armor)"
 28267 "Research <b>Fabric Shields<b> (<cost>) \nKamayuks, Slingers, Eagles, Monks and Xolotl Warriors +1/+2P armor."
-120170 "Infantry civilization \n\n• Start with a free Llama \n• Villagers affected by Blacksmith upgrades \n• Houses support 10 population \n• Buildings cost -15% stone\n\n<b>Unique Units:<b>  \nKamayuk (infantry), Slinger (archer)\n\n<b>Unique Techs:<b>  \n• Andean Sling (Skirmishers and Slingers no minimum range) \n• Fabric Shields (Kamayuks, Slingers, Eagles, Monks and Xolotl Warriors +1/+2P armor)\n\n<b>Team Bonus:<b>  \nFarms +50% hit points, built 100% faster"
+120170 "Infantry civilization \n\n• Start with a free Llama \n• Villagers affected by Blacksmith upgrades (starting in Castle Age) \n• Houses support 10 population \n• Buildings cost -15% stone\n\n<b>Unique Units:<b>  \nKamayuk (infantry), Slinger (archer)\n\n<b>Unique Techs:<b>  \n• Andean Sling (Skirmishers and Slingers no minimum range) \n• Fabric Shields (Kamayuks, Slingers, Eagles, Monks and Xolotl Warriors +1/+2P armor)\n\n<b>Team Bonus:<b>  \nFarms +50% hit points, built 100% faster"
 
 8283 "Research Ironclad (Siege weapons +4 armor)"
 28283 "Research <b>Ironclad<b> (<cost>) \nSiege weapons +4 armor."
@@ -182,12 +184,12 @@
 120164 "Infantry and Monk civilization \n\n• Villagers carry +5 \n• Military units created 15% faster \n• +5 Monk hit points for each Monastery technology \n• Start with +50 gold\n\n<b>Unique Unit:<b>  \nJaguar Warrior (infantry) \n\n<b>Unique Techs:<b>  \n• Atlatl (Skirmishers +1 attack, +1 range) \n• Garland Wars (Infantry and Xolotl Warriors +4 attack)\n\n<b>Team Bonus:<b>  \nRelics generate +33% gold"
 
 7273 "Hourglass"
-8273 "Research Hourglass (All land units (villagers, trade, military) train 11% faster)"
+8273 "Research Hourglass (All land units (villagers, trade, military, monks) train 11% faster)"
 17273 "Hourglass"
-28273 "Research <b>Hourglass<b> (<cost>) \nAll land units (villagers, trade, military) train 11% faster."
+28273 "Research <b>Hourglass<b> (<cost>) \nAll land units (villagers, trade, military, monks) train 11% faster."
 8272 "Research Pavise (Foot Archers and Condottieri +2P armor)"
 28272 "Research <b>Pavise<b> (<cost>) \nFoot Archers and Condottieri +2P armor."
-120168 "Archer and Naval civilization \n\n• Advancing to the next age costs -15% \n• Dock and University technologies cost -33% \n• Fishing Ships cost -15%\n• Gunpowder units cost -20%\n• Trade units cost -25%\n\n<b>Unique Units:<b>  \nGenoese Crossbowman (archer), Condottiero (infantry)\n\n<b>Unique Techs:<b>  \n• Pavise (Foot Archers and Condottieri +2P armor) \n• Hourglass (All land units (villagers, trade, military) train 11% faster)\n\n<b>Team Bonus:<b>  \nCondottiero available in the Barracks starting in the Imperial Age"
+120168 "Archer and Naval civilization \n\n• Advancing to the next age costs -15% \n• Dock and University technologies cost -33% \n• Fishing Ships cost -15%\n• Gunpowder units cost -20%\n• Trade units cost -25%\n\n<b>Unique Units:<b>  \nGenoese Crossbowman (archer), Condottiero (infantry)\n\n<b>Unique Techs:<b>  \n• Pavise (Foot Archers and Condottieri +2P armor) \n• Hourglass (All land units (villagers, trade, military, monks) train 11% faster)\n\n<b>Team Bonus:<b>  \nCondottiero available in the Barracks starting in the Imperial Age"
 
 7285 "Yaya"
 8285 "Research Yaya (Cavalry Archers +20 hit points; Skirmishers and Spearman-line +10 hit points)"
@@ -219,7 +221,7 @@
 
 8294 "Research Forced Levy (Militia-line gold cost is replaced by 20 food cost)"
 28294 "Research <b>Forced Levy<b> (<cost>) \nMilitia-line gold cost is replaced by 20 food cost."
-120178 "Naval civilization \n\n• Advancing to the next age 66% faster \n• Fish Traps cost -33%\n• Fish Traps provide unlimited food \n• Battle Elephants 30% cheaper \n\n<b>Unique Unit:<b> \nKarambit Warrior (infantry)\n\n<b>Unique Techs:<b> \n• Thalassocracy (upgrades Docks to Harbors, which fire arrows) \n• Forced Levy (Militia-line gold cost is replaced by 20 food cost)\n\n<b>Team Bonus:<b> \nDocks +100% LOS"
+120178 "Naval civilization \n\n• Advancing to the next age 66% faster \n• Fish Traps cost -33%\n• Fish Traps provide 3X food \n• Battle Elephants cost -30% Castle, -40% Imperial Age \n\n<b>Unique Unit:<b> \nKarambit Warrior (infantry)\n\n<b>Unique Techs:<b> \n• Thalassocracy (upgrades Docks to Harbors, which fire arrows) \n• Forced Levy (Militia-line gold cost is replaced by 20 food cost)\n\n<b>Team Bonus:<b> \nDocks +100% LOS"
 
 8309 "Research Silk Armor (Scout Cavalry line, Steppe Lancers and Cavalry Archers +1/+1P armor)"
 28309 "Research <b>Silk Armor<b> (<cost>) \nScout Cavalry line, Steppe Lancers and Cavalry Archers +1/+1P armor."

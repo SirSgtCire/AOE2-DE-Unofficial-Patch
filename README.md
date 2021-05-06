@@ -1,14 +1,19 @@
 ## AOE2-DE-Unofficial-Patch - by SirSgtCire
-Welcome to the Unofficial Patch Definitive Edition, Version 2.3!
+Welcome to the Unofficial Patch Definitive Edition, Version 2.4!
 
 This mod is kept up to date with the latest patches from DE, as I always try to incorporate approved dev changes into my work. 
-Therefore this mod currently operates on patch: 46295
+Therefore this mod currently operates on patch: 47820
 
 This mod is taking a different approach to balancing the game. There are some situations in which the devs 
 nerfed or buffed certain techs or units, either for the wrong reasons or completely unnecessarily. My goal 
 with this mod is to focus on historical accuracy (as much as is possible in this game, without doing a 
 complete overhaul), diverse strategies, unique playstyles for certain civs (not every civ should be able 
 to do everything well), and focusing more on the usefulness of unique techs and unique units.
+
+I also want to acknowledge when the devs do make important balance decisions (like adjusting the movement speed 
+of a unit or changing the way a unique tech works for a particular civ) that are beneficial to the health and 
+longevity of the game, and want to do my best to keep some of those changes, and even incorporate some of those 
+design decisions into my own ideas for balance.
 
 General Game Changes:
 - enabled Monks, Monks with Relics, Petards, Kings and Queens to load into Siege Towers and Rams
@@ -47,9 +52,7 @@ Britons:
 
 Spanish:
 - added Heated Shot
-- removed Heavy Cavalry Archer
 - reverted team bonus to give 33% trade bonus
-- changed blacksmith civ bonus to "Blacksmith and Market upgrades don't cost gold"
 
 Indians:
 - removed cavalry pierce armor civ bonus
@@ -78,9 +81,10 @@ Japanese:
 
 Teutons:
 - added Siege Ram
-- removed free Herbal Medicine
+- removed free Herbal Medicine civ bonus
+- removed Hoardings
 - added in civ bonus "Garrisoned infantry units can fire arrows"
-- changed Crenelations tech to "Castles +3 range; Castles, towers and town centers have +2 melee/+2 pierce/+6 building armor"
+- changed Crenelations tech to "Castles +3 range; Castles, towers and town centers have +20% hitpoints"
 
 Vikings:
 - merged Chieftains tech effects into Berserkergang, increased bonus cavalry damage by 2
@@ -104,7 +108,6 @@ Khmer:
 - changed team bonus to "Scorpions minimum range reduced to 0"
 - changed Double Crossbow to also increase Ballista Elephant projectile damage by 2
 - removed farmer work rate reduction
-- added back treadmill crane
 
 Ethiopians:
 - added back free Halberdier upgrade to Free Pikeman civ bonus
@@ -121,7 +124,7 @@ Vietnamese:
 
 Slavs:
 - reverted farmer work rate bonus to 15% faster
-- added back treadmill crane
+- added Keep
 
 Berbers:
 - removed Elite Genitour upgrade, gave the regular Genitour the elite stats except hit points (affects all players)
@@ -138,11 +141,10 @@ Goths:
 - reverted Loom to being free at the start of the game
 
 Franks:
-- changed Bearded Axe to also increase Throwing Axeman pierce armor by 1, moved to Castle Age
-- changed Chivalry to increase stable production speed by 50%, moved it to Imperial Age
+- changed Bearded Axe to also increase Throwing Axeman pierce armor by 1
+- changed Chivalry to increase stable production speed by 50%
 - changed cavalry hp civ bonus to "Cavalry +20% hp Feudal, +25% Castle Age"
 - changed forage bush civ bonus to +20%
-- added back treadmill crane
 
 Persians:
 - removed Siege Ram
@@ -192,6 +194,7 @@ Lithuanians:
 
 Bulgarians:
 - renamed Stirrups to Cavalry Tactics
+- changed town center stone cost reduction to start in the castle age
 
 Tatars:
 - NO CHANGES
@@ -203,4 +206,5 @@ Burgundians:
 - NO CHANGES
 
 Sicilians:
-- NO CHANGES
+- moved Scutage to Castle Age
+- moved First Crusade to Imperial Age
