@@ -79,7 +79,7 @@
 
 8325 "Research Supremacy (Villagers +40 hit points, +4 attack, +2/+2P armor)"
 28325 "Research <b>Supremacy<b> (<cost>) \nVillagers +40 hit points, +4 attack, +2/+2P armor."
-120163 "Gunpowder and Monk civilization \n\n• Builders work 30% faster \n• Blacksmith upgrades don't cost gold \n• Cannon Galleons benefit from Ballistics \n• Gunpowder units fire 18% faster\n\n<b>Unique Units:<b>  \nConquistador (mounted hand cannoneer), Missionary (mounted Monk) \n\n<b>Unique Techs:<b>  \n• Inquisition (Monks convert faster) \n• Supremacy (Villagers +40 hit points, +4 attack, +2/+2P armor)\n\n<b>Team Bonus:<b>  \nTrade units generate +33% gold"
+120163 "Gunpowder and Monk civilization \n\n• Builders work 33% faster \n• Blacksmith upgrades don't cost gold \n• Cannon Galleons benefit from Ballistics \n• Gunpowder units fire 18% faster\n\n<b>Unique Units:<b>  \nConquistador (mounted hand cannoneer), Missionary (mounted Monk) \n\n<b>Unique Techs:<b>  \n• Inquisition (Monks convert faster) \n• Supremacy (Villagers +40 hit points, +4 attack, +2/+2P armor)\n\n<b>Team Bonus:<b>  \nTrade units generate +33% gold"
 
 8438 "Research Shinkichon (Mangonel-line +1 range and cost -10%)"
 28438 "Research <b>Shinkichon<b> (<cost>) \nMangonel-line +1 range and cost -10%."
@@ -143,7 +143,7 @@
 28368 "Research <b>Great Wall<b> (<cost>) \nWalls and towers +35% hit points."
 8432 "Research Rocketry (Scorpions +4 attack, Archer-line +2 attack; Scorpions +1 range)"
 28432 "Research <b>Rocketry<b> (<cost>) \nScorpions +4 attack, Archer-line +2 attack; Scorpions +1 range."
-120155 "Archer civilization \n\n• Start with +3 villagers, -50 wood, -200 food \n• Technologies cost -10% Feudal, -15% Castle, -20% Imperial Age \n• Town Centers support 10 population and +5 LOS\n• Demolition ships +50% hit points \n\n<b>Unique Unit:<b>  \nChu Ko Nu (archer) \n\n<b>Unique Techs:<b>  \n• Great Wall (Walls and towers +35% hit points) \n• Rocketry (Scorpions +4 attack, Archer-line +2 attack; Scorpions +1 range)\n\n<b>Team Bonus:<b>  \nFarms +75 food"
+120155 "Archer civilization \n\n• Start with +3 villagers, -50 wood, -200 food \n• Technologies cost -10% Feudal, -15% Castle, -20% Imperial Age \n• Town Centers support 10 population and +5 LOS\n• Demolition ships +50% hit points \n\n<b>Unique Unit:<b>  \nChu Ko Nu (archer) \n\n<b>Unique Techs:<b>  \n• Great Wall (Walls and towers +35% hit points) \n• Rocketry (Scorpions +4 attack, Archer-line +2 attack; Scorpions +1 range)\n\n<b>Team Bonus:<b>  \nFarms +60 food"
 
 8427 "Research Anarchy (create Huskarls at Barracks)"
 28427 "Research <b>Anarchy<b> (<cost>) \ncreate Huskarls at Barracks."
@@ -167,7 +167,7 @@
 
 8267 "Research Fabric Shields (Kamayuks, Slingers, Eagles, Monks and Xolotl Warriors +1/+2P armor)"
 28267 "Research <b>Fabric Shields<b> (<cost>) \nKamayuks, Slingers, Eagles, Monks and Xolotl Warriors +1/+2P armor."
-120170 "Infantry civilization \n\n• Start with a free Llama \n• Villagers affected by Blacksmith upgrades (starting in Castle Age) \n• Houses support 10 population \n• Buildings cost -15% stone\n\n<b>Unique Units:<b>  \nKamayuk (infantry), Slinger (archer)\n\n<b>Unique Techs:<b>  \n• Andean Sling (Skirmishers and Slingers no minimum range) \n• Fabric Shields (Kamayuks, Slingers, Eagles, Monks and Xolotl Warriors +1/+2P armor)\n\n<b>Team Bonus:<b>  \nFarms +50% hit points, built 100% faster"
+120170 "Infantry civilization \n\n• Start with a free Llama \n• Villagers affected by Blacksmith upgrades (starting in Castle Age) \n• Houses support 10 population \n• Buildings cost -15% stone\n\n<b>Unique Units:<b>  \nKamayuk (infantry), Slinger (archer)\n\n<b>Unique Techs:<b>  \n• Andean Sling (Skirmishers and Slingers no minimum range) \n• Fabric Shields (Kamayuks, Slingers, Eagles, Monks and Xolotl Warriors +1/+2P armor)\n\n<b>Team Bonus:<b>  \nFarms +33% hit points, built 100% faster"
 
 8283 "Research Ironclad (Siege weapons +4 armor)"
 28283 "Research <b>Ironclad<b> (<cost>) \nSiege weapons +4 armor."
