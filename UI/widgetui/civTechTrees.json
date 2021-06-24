@@ -72467,7 +72467,7 @@
 "Name":"Keep",
 "Name String ID":14155,
 "Node ID":235,
-"Node Status":"NotAvailable",
+"Node Status":"ResearchRequired",
 "Node Type":"BuildingNonTech",
 "Picture Index":16,
 "Prerequisite IDs":[
@@ -75713,7 +75713,7 @@
 "Name":"Keep",
 "Name String ID":17063,
 "Node ID":63,
-"Node Status":"NotAvailable",
+"Node Status":"ResearchCompleted",
 "Node Type":"Research",
 "Picture Index":16,
 "Prerequisite IDs":[
