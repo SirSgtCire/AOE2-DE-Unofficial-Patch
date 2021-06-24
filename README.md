@@ -38,6 +38,7 @@ Aztecs:
 - changed Garland Wars to include Xolotl Warriors
 - reverted military creation time reduction back to 15%
 - reverted villager carry pacacity to 5
+- added Keep
 
 Berbers:
 - removed Elite Genitour upgrade, gave the regular Genitour the elite stats except hit points (affects all players)
