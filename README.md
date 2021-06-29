@@ -52,8 +52,9 @@ Britons:
 
 Bulgarians:
 - renamed Stirrups to Cavalry Tactics
-- changed town center stone cost reduction to start in the castle age
+- changed town center stone cost reduction civ bonus to start in the castle age
 - added Ring Archer Armor
+- removed Keep
 
 Burgundians:
 - NO CHANGES
@@ -184,6 +185,7 @@ Saracens:
 Sicilians:
 - moved Scutage to Castle Age
 - moved First Crusade to Imperial Age
+- added Architecture
 
 Slavs:
 - reverted farmer work rate bonus to 15% faster

@@ -160158,7 +160158,7 @@
 "Name":"Keep",
 "Name String ID":14155,
 "Node ID":235,
-"Node Status":"ResearchRequired",
+"Node Status":"NotAvailable",
 "Node Type":"BuildingNonTech",
 "Picture Index":16,
 "Prerequisite IDs":[
@@ -163436,7 +163436,7 @@
 "Name":"Keep",
 "Name String ID":17063,
 "Node ID":63,
-"Node Status":"ResearchedCompleted",
+"Node Status":"NotAvailable",
 "Node Type":"Research",
 "Picture Index":16,
 "Prerequisite IDs":[
@@ -189093,7 +189093,7 @@
 "Name":"Architecture",
 "Name String ID":17051,
 "Node ID":51,
-"Node Status":"NotAvailable",
+"Node Status":"ResearchCompleted",
 "Node Type":"Research",
 "Picture Index":14,
 "Prerequisite IDs":[
