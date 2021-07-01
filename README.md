@@ -1,5 +1,5 @@
 ## AOE2-DE-Unofficial-Patch - by SirSgtCire
-Welcome to the Unofficial Patch Definitive Edition, Version 2.4!
+Welcome to the Unofficial Patch Definitive Edition, Version 2.5!
 
 This mod is kept up to date with the latest patches from DE, as I always try to incorporate approved dev changes into my work. 
 Therefore this mod currently operates on patch: 47820
