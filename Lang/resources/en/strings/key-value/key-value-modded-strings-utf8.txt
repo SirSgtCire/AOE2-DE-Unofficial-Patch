@@ -127,9 +127,9 @@
 28421 "Research <b>Furor Celtica<b> (<cost>) \nSiege Worskhop units +40% hit points."
 120162 "Infantry and Siege civilization \n\n• Infantry move 15% faster (starting in Feudal Age) \n• Lumberjacks work 15% faster \n• Siege weapons fire 25% faster \n• Can steal sheep, and sheep within one Celt unit's LoS cannot be stolen \n\n<b>Unique Unit:<b>  \nWoad Raider (infantry) \n\n<b>Unique Techs:<b>  \n• Stronghold (Castles and towers fire 25% faster) \n• Furor Celtica (Siege Worskhop units +40% hit points)\n\n<b>Team Bonus:<b>  \nSiege Workshops work 20% faster"
 
-8268 "Research Orthodoxy (Monks +3/+3P armor)"
-28268 "Research <b>Orthodoxy<b> (<cost>) \nMonks +3/+3P armor."
-120172 "Infantry and Siege civilization \n\n• Farmers work 15% faster \n• Supplies free \n• Siege Workshop units 15% cheaper\n\n<b>Unique Unit:<b>  \nBoyar (cavalry)\n\n<b>Unique Techs:<b>  \n• Orthodoxy (Monks +3/+3P armor) \n• Druzhina (Infantry damage adjacent units)\n\n<b>Team Bonus:<b>  \nMilitary buildings provide +5 population headroom"
+8268 "Research Orthodoxy (Monks +4/+4P armor)"
+28268 "Research <b>Orthodoxy<b> (<cost>) \nMonks +4/+4P armor."
+120172 "Infantry and Siege civilization \n\n• Farmers work 15% faster \n• Supplies free \n• Siege Workshop units 15% cheaper\n\n<b>Unique Unit:<b>  \nBoyar (cavalry)\n\n<b>Unique Techs:<b>  \n• Orthodoxy (Monks +4/+4P armor) \n• Druzhina (Infantry damage adjacent units)\n\n<b>Team Bonus:<b>  \nMilitary buildings provide +5 population headroom"
 
 8297 "Research Chatras (Battle Elephants +60 hit points)"
 28297 "Research <b>Chatras<b> (<cost>) \nBattle Elephants +60 hit points."
@@ -169,11 +169,11 @@
 28267 "Research <b>Fabric Shields<b> (<cost>) \nKamayuks, Slingers, Eagles, Monks and Xolotl Warriors +1/+2P armor."
 120170 "Infantry civilization \n\n• Start with a free Llama \n• Villagers affected by Blacksmith upgrades (starting in Castle Age) \n• Houses support 10 population \n• Buildings cost -15% stone\n\n<b>Unique Units:<b>  \nKamayuk (infantry), Slinger (archer)\n\n<b>Unique Techs:<b>  \n• Andean Sling (Skirmishers and Slingers no minimum range) \n• Fabric Shields (Kamayuks, Slingers, Eagles, Monks and Xolotl Warriors +1/+2P armor)\n\n<b>Team Bonus:<b>  \nFarms +33% hit points, built 100% faster"
 
-8283 "Research Ironclad (Siege weapons +4 armor)"
-28283 "Research <b>Ironclad<b> (<cost>) \nSiege weapons +4 armor."
+8283 "Research Ironclad (Siege weapons +4 normal armor)"
+28283 "Research <b>Ironclad<b> (<cost>) \nSiege weapons +4 normal armor."
 8426 "Research Crenellations (Castles and Town Centers +3 range; Castles, Towers and Town Centers +20% hit points)"
 28426 "Research <b>Crenellations<b> (<cost>) \nCastles and Town Centers +3 range; Castles, Towers and Town Centers +20% hit points."
-120153 "Defensive civilization \n\n• Garrisoned infantry can fire extra arrows; Towers garrison +5 units, Town Centers garrison +10 units; Murder Holes free \n• Monks heal range 2x \n• Barracks and Stable units +1 armor per age (starting in Castle Age) \n• Farms cost -40% \n\n<b>Unique Unit:<b>  \nTeutonic Knight (infantry) \n\n<b>Unique Techs:<b>  \n• Ironclad (Siege weapons +4 armor) \n• Crenellations (Castles and Town Centers +3 range; Castles, Towers and Town Centers +20% hit points)\n\n<b>Team Bonus:<b>  \nUnits resist conversion"
+120153 "Defensive civilization \n\n• Garrisoned infantry can fire extra arrows; Towers garrison +5 units, Town Centers garrison +10 units; Murder Holes free \n• Monks heal range 2x \n• Barracks and Stable units +1 armor per age (starting in Castle Age) \n• Farms cost -40% \n\n<b>Unique Unit:<b>  \nTeutonic Knight (infantry) \n\n<b>Unique Techs:<b>  \n• Ironclad (Siege weapons +4 normal armor) \n• Crenellations (Castles and Town Centers +3 range; Castles, Towers and Town Centers +20% hit points)\n\n<b>Team Bonus:<b>  \nUnits resist conversion"
 
 8420 "Research El Dorado (Eagle Warriors and Xolotl Warriors +40 hit points)"
 28420 "Research <b>El Dorado<b> (<cost>) \nEagle Warriors and Xolotl Warriors +40 hit points."
@@ -208,12 +208,12 @@
 120166 "Cavalry civilization \n\n• Do not need houses, but start with -100 wood \n• Cavalry Archers cost -15% Castle, -20% Imperial Age \n• Trebuchets have 100% accuracy \n• +100 years Relic, Wonder victories; Spies/Treason costs -50%\n\n<b>Unique Unit:<b>  \nTarkan (cavalry) \n\n<b>Unique Techs:<b>  \n• Marauders (create Tarkans at Stables) \n• Paganism (Monk gold cost is replaced by 100 food cost)\n\n<b>Team Bonus:<b>  \nStables work 20% faster"
 
 7312 "Keels"
-8312 "Research Keels (Galley-line +2 melee armor)"
+8312 "Research Keels (Galley-line +2 normal armor)"
 17312 "Keels"
-28312 "Research <b>Keels<b> (<cost>) \nGalley-line +2 melee armor."
+28312 "Research <b>Keels<b> (<cost>) \nGalley-line +2 normal armor."
 8431 "Research Berserkergang (Berserks regenerate faster; Infantry +7 attack bonus vs. cavalry)"
 28431 "Research <b>Berserkergang<b> (<cost>) \nBerserks regenerate faster; Infantry +7 attack bonus vs. cavalry."
-120160 "Infantry and Naval civilization \n\n• Warships cost -15% Feudal, -15% Castle, -20% Imperial Age \n• Infantry +10% hit points Feudal, +15% Castle, +20% Imperial Age \n• Wheelbarrow, Hand Cart free \n\n<b>Unique Units:<b>  \nBerserk (infantry), Longboat (warship) \n\n<b>Unique Techs:<b>  \n• Keels (Galley-line +2 melee armor) \n• Berserkergang (Berserks regenerate faster; Infantry +7 attack bonus vs. cavalry)\n\n<b>Team Bonus:<b>  \nDocks cost -15%"
+120160 "Infantry and Naval civilization \n\n• Warships cost -15% Feudal, -15% Castle, -20% Imperial Age \n• Infantry +10% hit points Feudal, +15% Castle, +20% Imperial Age \n• Wheelbarrow, Hand Cart free \n\n<b>Unique Units:<b>  \nBerserk (infantry), Longboat (warship) \n\n<b>Unique Techs:<b>  \n• Keels (Galley-line +2 normal armor) \n• Berserkergang (Berserks regenerate faster; Infantry +7 attack bonus vs. cavalry)\n\n<b>Team Bonus:<b>  \nDocks cost -15%"
 
 8251 "Research Arquebus (Ballistics for gunpowder units; Hand Canoneers +1 range)"
 28251 "Research <b>Arquebus<b> (<cost>) \nBallistics for gunpowder units; Hand Canoneers +1 range."

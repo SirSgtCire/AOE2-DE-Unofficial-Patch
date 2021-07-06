@@ -190,6 +190,7 @@ Sicilians:
 Slavs:
 - reverted farmer work rate bonus to 15% faster
 - added Keep
+- changed Orthodoxy to "Monks +4/+4P armor"
 
 Spanish:
 - added Heated Shot
