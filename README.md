@@ -56,7 +56,7 @@ Bulgarians:
 - removed Keep
 
 Burgundians:
-- changed Flemish Revolution research time to 25 seconds
+- changed Flemish Revolution to "Villagers +40 hit points, +4 attack, +2/+2P armor; create Flemish Militia at Town Centers"
 
 Burmese:
 - changed Howdah to "Elephants receive +2/+2P armor" and made it affect all elephants
@@ -191,6 +191,7 @@ Slavs:
 
 Spanish:
 - added Heated Shot
+- changed Supremacy to Reconquest, which gives "All land military units +4 line of sight, +6 damage vs. Camels"
 - reverted team bonus to give 33% trade bonus
 - changed building speed civ bonus to "Builders construct buildings 33% faster"
 
