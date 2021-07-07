@@ -1,8 +1,8 @@
 ## AOE2-DE-Unofficial-Patch - by SirSgtCire
-Welcome to the Unofficial Patch Definitive Edition, Version 2.5!
+Welcome to the Unofficial Patch Definitive Edition, Version 2.6!
 
 This mod is kept up to date with the latest patches from DE, as I always try to incorporate approved dev changes into my work. 
-Therefore this mod currently operates on patch: 47820
+Therefore this mod currently operates on patch: 50292
 
 My goal with this mod is to focus on historical accuracy (as much as is possible in this game, without 
 doing a complete overhaul), diverse strategies, unique playstyles for certain civs (not every civ should 
@@ -16,18 +16,17 @@ design decisions into my own ideas for balance.
 General Game Changes:
 - enabled Monks, Monks with Relics, Petards, Kings and Queens to load into Siege Towers and Rams
 - increased (Elite) Battle Elephant trample damage blast radius to (0.5) 0.5
-- increased Hand Canoneer bonus infantry damage by 5
 - changed Paladin upgrade cost to 1000 food, 750 gold, research time to 125 seconds
 - changed Imperial Camel upgrade cost to 1000 food, 750 gold, research time to 125 seconds
 - changed Elite Battle Elephant upgrade cost to 1200 food, 750 gold, research time to 100 seconds
 - changed Siege Onager upgrade cost to 1200 food, 900 gold, research time to 130 seconds
 - standardized all land and water unique unit Elite upgrades to 1000 food/wood, 500 gold, research time to 60 seconds
-- All unique archer-related Elite Upgrades have wood and gold costs
-- All unique ship-related Elite upgrades have wood and gold costs
+- All unique archer-related and ship-related Elite Upgrades have wood and gold costs
 - All other Elite upgrades have food and gold costs
 - standardized all Castle Age Crown techs costs to 300 food/wood, 200 gold/stone, research time to 40 seconds
 - standardized all Imperial Age Crown techs costs to 600 food/wood, 400 gold/stone, research time to 50 seconds
-- All unique building-related, siege-related and ship-related Crown upgrades have wood and stone costs
+- All building-related Crown upgrades have wood and stone costs
+- All siege-related and ship-related Crown upgrades have wood and gold costs
 - All other Crown upgrades have food and gold costs
 - updated many tech descriptions to give numeric descriptions of effects (to help with clarity of effects in game)
 
@@ -91,7 +90,6 @@ Franks:
 
 Goths:
 - changed population civ bonus to "+5 population each age, starting in the Feudal Age"
-- reverted infantry cost reduction to -35% start in Feudal Age
 - reverted Loom to being free at the start of the game
 
 Huns:
@@ -177,9 +175,8 @@ Saracens:
 - changed Madrasah effect to "Monks return 66% of their cost when killed"
 - removed transport ship civ bonus
 - added civ bonus "Trade units move 10% faster"
-- removed camel hp civ bonus
-- reverted Zealotry effect to give +30 hp to camel units
-- reverted archer damage civ bonus
+- changed camel hp civ bonus to +15% hp
+- changed Zealotry to "Archers (except Skirmishers) +3 damage vs. buildings"
 - added Steppe Lancer line
 
 Sicilians:
