@@ -56,7 +56,7 @@ Bulgarians:
 - removed Keep
 
 Burgundians:
-- NO CHANGES
+- changed Flemish Revolution research time to 25 seconds
 
 Burmese:
 - changed Howdah to "Elephants receive +2/+2P armor" and made it affect all elephants
