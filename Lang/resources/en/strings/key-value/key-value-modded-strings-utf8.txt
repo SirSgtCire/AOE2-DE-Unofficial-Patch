@@ -149,7 +149,7 @@
 
 8427 "Research Anarchy (create Huskarls at Barracks)"
 28427 "Research <b>Anarchy<b> (<cost>) \ncreate Huskarls at Barracks."
-120152 "Infantry civilization \n\n• Infantry cost -35% (starting in Feudal Age) \n• Infantry +1 attack vs. buildings per age (starting in Feudal Age) \n• Villagers +5 attack vs. wild boar; hunters carry +15 meat \n• Loom free \n• Receive +5 population headroom per age (starting in Feudal Age) \n\n<b>Unique Unit:<b>  \nHuskarl (infantry) \n\n<b>Unique Techs:<b>  \n• Anarchy (create Huskarls at Barracks) \n• Perfusion (Barracks work 100% faster) \n\n<b>Team Bonus:<b>  \nBarracks work 20% faster"
+120152 "Infantry civilization \n\n• Infantry cost -20% in Dark, -25% in Feudal, -30% in Castle, -35% in Imperial Age \n• Infantry +1 attack vs. buildings per age (starting in Feudal Age) \n• Villagers +5 attack vs. wild boar; hunters carry +15 meat \n• Loom free \n• Receive +5 population headroom per age (starting in Feudal Age) \n\n<b>Unique Unit:<b>  \nHuskarl (infantry) \n\n<b>Unique Techs:<b>  \n• Anarchy (create Huskarls at Barracks) \n• Perfusion (Barracks work 100% faster) \n\n<b>Team Bonus:<b>  \nBarracks work 20% faster"
 
 8324 "Research Bearded Axe (Throwing Axemen +1 range, +1P armor)"
 28324 "Research <b>Bearded Axe<b> (<cost>) \nThrowing Axemen +1 range, +1P armor."
