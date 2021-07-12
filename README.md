@@ -96,7 +96,6 @@ Huns:
 - changed treb accuracy bonus to 100%
 - added civ bonus "+100 years relic/wonder victories; Spies/Treason costs 50% less"
 - changed Atheism to Paganism, which makes Monks cost 100 food instead of 100 gold
-- added Steppe Lancer line
 
 Incas:
 - changed Fabric Shields tech to include Monks and Xolotl Warriors

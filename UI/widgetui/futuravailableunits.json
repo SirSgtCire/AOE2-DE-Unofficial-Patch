@@ -12687,11 +12687,6 @@
             "Name": "Paladin",
             "RequiredAge": 4
           },
-		  {
-            "ID": 715,
-            "Name": "Elite Steppe Lancer",
-            "RequiredAge": 4
-          },
           {
             "ID": 39,
             "Name": "Husbandry",
@@ -12727,16 +12722,6 @@
           {
             "ID": 569,
             "Name": "Paladin",
-            "RequiredAge": 4
-          },
-		  {
-            "ID": 1370,
-            "Name": "Steppe Lancer",
-            "RequiredAge": 3
-          },
-          {
-            "ID": 1372,
-            "Name": "Elite Steppe Lancer",
             "RequiredAge": 4
           }
         ]
