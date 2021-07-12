@@ -140,7 +140,7 @@ Magyars:
 - NO CHANGES
 
 Malay:
-- NO CHANGES
+- added Architecture
 
 Malians:
 - added back free Gold Shaft Mining upgrade to Free Gold Mining civ bonus
