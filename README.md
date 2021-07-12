@@ -1,8 +1,8 @@
 ## AOE2-DE-Unofficial-Patch - by SirSgtCire
-Welcome to the Unofficial Patch Definitive Edition, Version 2.5!
+Welcome to the Unofficial Patch Definitive Edition, Version 2.6!
 
 This mod is kept up to date with the latest patches from DE, as I always try to incorporate approved dev changes into my work. 
-Therefore this mod currently operates on patch: 47820
+Therefore this mod currently operates on patch: 50292
 
 My goal with this mod is to focus on historical accuracy (as much as is possible in this game, without 
 doing a complete overhaul), diverse strategies, unique playstyles for certain civs (not every civ should 
@@ -16,18 +16,17 @@ design decisions into my own ideas for balance.
 General Game Changes:
 - enabled Monks, Monks with Relics, Petards, Kings and Queens to load into Siege Towers and Rams
 - increased (Elite) Battle Elephant trample damage blast radius to (0.5) 0.5
-- increased Hand Canoneer bonus infantry damage by 5
 - changed Paladin upgrade cost to 1000 food, 750 gold, research time to 125 seconds
 - changed Imperial Camel upgrade cost to 1000 food, 750 gold, research time to 125 seconds
 - changed Elite Battle Elephant upgrade cost to 1200 food, 750 gold, research time to 100 seconds
 - changed Siege Onager upgrade cost to 1200 food, 900 gold, research time to 130 seconds
 - standardized all land and water unique unit Elite upgrades to 1000 food/wood, 500 gold, research time to 60 seconds
-- All unique archer-related Elite Upgrades have wood and gold costs
-- All unique ship-related Elite upgrades have wood and gold costs
+- All unique archer-related and ship-related Elite Upgrades have wood and gold costs
 - All other Elite upgrades have food and gold costs
 - standardized all Castle Age Crown techs costs to 300 food/wood, 200 gold/stone, research time to 40 seconds
 - standardized all Imperial Age Crown techs costs to 600 food/wood, 400 gold/stone, research time to 50 seconds
-- All unique building-related, siege-related and ship-related Crown upgrades have wood and stone costs
+- All building-related Crown upgrades have wood and stone costs
+- All siege-related and ship-related Crown upgrades have wood and gold costs
 - All other Crown upgrades have food and gold costs
 - updated many tech descriptions to give numeric descriptions of effects (to help with clarity of effects in game)
 
@@ -57,7 +56,7 @@ Bulgarians:
 - removed Keep
 
 Burgundians:
-- NO CHANGES
+- changed Flemish Revolution to "Villagers +40 hit points, +4 attack, +2/+2P armor; create Flemish Militia at Town Centers"
 
 Burmese:
 - changed Howdah to "Elephants receive +2/+2P armor" and made it affect all elephants
@@ -91,14 +90,12 @@ Franks:
 
 Goths:
 - changed population civ bonus to "+5 population each age, starting in the Feudal Age"
-- reverted infantry cost reduction to -35% start in Feudal Age
 - reverted Loom to being free at the start of the game
 
 Huns:
 - changed treb accuracy bonus to 100%
 - added civ bonus "+100 years relic/wonder victories; Spies/Treason costs 50% less"
 - changed Atheism to Paganism, which makes Monks cost 100 food instead of 100 gold
-- added Steppe Lancer line
 
 Incas:
 - changed Fabric Shields tech to include Monks and Xolotl Warriors
@@ -143,8 +140,7 @@ Magyars:
 - NO CHANGES
 
 Malay:
-- removed Knight line
-- added Steppe Lancer line
+- added Architecture
 
 Malians:
 - added back free Gold Shaft Mining upgrade to Free Gold Mining civ bonus
@@ -177,9 +173,8 @@ Saracens:
 - changed Madrasah effect to "Monks return 66% of their cost when killed"
 - removed transport ship civ bonus
 - added civ bonus "Trade units move 10% faster"
-- removed camel hp civ bonus
-- reverted Zealotry effect to give +30 hp to camel units
-- reverted archer damage civ bonus
+- changed camel hp civ bonus to +15% hp
+- changed Zealotry to "Archers (except Skirmishers) +3 damage vs. buildings"
 - added Steppe Lancer line
 
 Sicilians:
@@ -194,6 +189,7 @@ Slavs:
 
 Spanish:
 - added Heated Shot
+- changed Supremacy to Reconquest, which gives "All land military units +4 line of sight, +6 damage vs. Camels"
 - reverted team bonus to give 33% trade bonus
 - changed building speed civ bonus to "Builders construct buildings 33% faster"
 
@@ -217,8 +213,6 @@ Vietnamese:
 - added civ bonus "Transport Ships 2x hitpoints, +5 carry capacity"
 - changed archer hp civ bonus to scale through ages, now gives "Archers +10% hp Feudal Age, +15% hp Castle Age, +20% hp Imperial Age"
 - increased gold received from Paper Money to 750, renamed to Monetary Reform
-- removed Knight line
-- added Steppe Lancer line
 
 Vikings:
 - merged Chieftains tech effects into Berserkergang, increased bonus cavalry damage by 2
