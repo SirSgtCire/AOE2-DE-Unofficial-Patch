@@ -21615,6 +21615,11 @@
             "Name": "Masonry",
             "RequiredAge": 3
           },
+		  {
+            "ID": 51,
+            "Name": "Architecture",
+            "RequiredAge": 4
+          },
           {
             "ID": 47,
             "Name": "Chemistry",
