@@ -21303,6 +21303,11 @@
             "Name": "Light Cavalry",
             "RequiredAge": 3
           },
+		  {
+            "ID": 209,
+            "Name": "Cavalier",
+            "RequiredAge": 4
+          },
           {
             "ID": 630,
             "Name": "Battle Elephant",
@@ -21311,11 +21316,6 @@
           {
             "ID": 631,
             "Name": "Elite Battle Elephant",
-            "RequiredAge": 4
-          },
-		  {
-            "ID": 715,
-            "Name": "Elite Steppe Lancer",
             "RequiredAge": 4
           },
           {
@@ -21335,6 +21335,16 @@
             "Name": "Light Cavalry",
             "RequiredAge": 3
           },
+		  {
+            "ID": 38,
+            "Name": "Knight",
+            "RequiredAge": 3
+          },
+          {
+            "ID": 283,
+            "Name": "Cavalier",
+            "RequiredAge": 4
+          },
           {
             "ID": 1132,
             "Name": "Battle Elephant",
@@ -21343,16 +21353,6 @@
           {
             "ID": 1134,
             "Name": "Elite Battle Elephant",
-            "RequiredAge": 4
-          },
-		  {
-            "ID": 1370,
-            "Name": "Steppe Lancer",
-            "RequiredAge": 3
-          },
-          {
-            "ID": 1372,
-            "Name": "Elite Steppe Lancer",
             "RequiredAge": 4
           }
         ]
@@ -33953,6 +33953,11 @@
             "Name": "Bloodlines",
             "RequiredAge": 2
           },
+		  {
+            "ID": 209,
+            "Name": "Cavalier",
+            "RequiredAge": 4
+          },
           {
             "ID": 630,
             "Name": "Battle Elephant",
@@ -33961,11 +33966,6 @@
           {
             "ID": 631,
             "Name": "Elite Battle Elephant",
-            "RequiredAge": 4
-          },
-		  {
-            "ID": 715,
-            "Name": "Elite Steppe Lancer",
             "RequiredAge": 4
           },
           {
@@ -33985,6 +33985,16 @@
             "Name": "Light Cavalry",
             "RequiredAge": 3
           },
+		  {
+            "ID": 38,
+            "Name": "Knight",
+            "RequiredAge": 3
+          },
+          {
+            "ID": 283,
+            "Name": "Cavalier",
+            "RequiredAge": 4
+          },
           {
             "ID": 1132,
             "Name": "Battle Elephant",
@@ -33993,16 +34003,6 @@
           {
             "ID": 1134,
             "Name": "Elite Battle Elephant",
-            "RequiredAge": 4
-          },
-		  {
-            "ID": 1370,
-            "Name": "Steppe Lancer",
-            "RequiredAge": 3
-          },
-          {
-            "ID": 1372,
-            "Name": "Elite Steppe Lancer",
             "RequiredAge": 4
           }
         ]

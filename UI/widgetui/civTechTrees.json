@@ -146133,7 +146133,7 @@
 "Name":"Knight",
 "Name String ID":14068,
 "Node ID":38,
-"Node Status":"NotAvailable",
+"Node Status":"ResearchCompleted",
 "Node Type":"Unit",
 "Picture Index":1,
 "Prerequisite IDs":[
@@ -146163,7 +146163,7 @@
 "Name":"Cavalier",
 "Name String ID":14070,
 "Node ID":283,
-"Node Status":"NotAvailable",
+"Node Status":"ResearchCompleted",
 "Node Type":"UnitUpgrade",
 "Picture Index":49,
 "Prerequisite IDs":[
@@ -146343,7 +146343,7 @@
 "Name":"Steppe Lancer",
 "Name String ID":14009,
 "Node ID":1370,
-"Node Status":"ResearchedCompleted",
+"Node Status":"NotAvailable",
 "Node Type":"Unit",
 "Picture Index":273,
 "Prerequisite IDs":[
@@ -146373,7 +146373,7 @@
 "Name":"Elite Steppe Lancer",
 "Name String ID":14010,
 "Node ID":1372,
-"Node Status":"ResearchedCompleted",
+"Node Status":"NotAvailable",
 "Node Type":"UnitUpgrade",
 "Picture Index":274,
 "Prerequisite IDs":[
@@ -156437,7 +156437,7 @@
 "Name":"Knight",
 "Name String ID":14068,
 "Node ID":38,
-"Node Status":"NotAvailable",
+"Node Status":"ResearchCompleted",
 "Node Type":"Unit",
 "Picture Index":1,
 "Prerequisite IDs":[
@@ -156467,7 +156467,7 @@
 "Name":"Cavalier",
 "Name String ID":14070,
 "Node ID":283,
-"Node Status":"NotAvailable",
+"Node Status":"ResearchCompleted",
 "Node Type":"UnitUpgrade",
 "Picture Index":49,
 "Prerequisite IDs":[
@@ -156647,7 +156647,7 @@
 "Name":"Steppe Lancer",
 "Name String ID":14009,
 "Node ID":1370,
-"Node Status":"ResearchedCompleted",
+"Node Status":"NotAvailable",
 "Node Type":"Unit",
 "Picture Index":273,
 "Prerequisite IDs":[
@@ -156677,7 +156677,7 @@
 "Name":"Elite Steppe Lancer",
 "Name String ID":14010,
 "Node ID":1372,
-"Node Status":"ResearchedCompleted",
+"Node Status":"NotAvailable",
 "Node Type":"UnitUpgrade",
 "Picture Index":274,
 "Prerequisite IDs":[

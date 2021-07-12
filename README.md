@@ -141,8 +141,7 @@ Magyars:
 - NO CHANGES
 
 Malay:
-- removed Knight line
-- added Steppe Lancer line
+- NO CHANGES
 
 Malians:
 - added back free Gold Shaft Mining upgrade to Free Gold Mining civ bonus
@@ -215,8 +214,6 @@ Vietnamese:
 - added civ bonus "Transport Ships 2x hitpoints, +5 carry capacity"
 - changed archer hp civ bonus to scale through ages, now gives "Archers +10% hp Feudal Age, +15% hp Castle Age, +20% hp Imperial Age"
 - increased gold received from Paper Money to 750, renamed to Monetary Reform
-- removed Knight line
-- added Steppe Lancer line
 
 Vikings:
 - merged Chieftains tech effects into Berserkergang, increased bonus cavalry damage by 2
