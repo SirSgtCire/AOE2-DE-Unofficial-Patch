@@ -66,6 +66,7 @@ Byzantines:
 - added Town Patrol to their Free Town Watch bonus
 - renamed Logistica to Incendiaries, now gives "Towers do 125% more damage vs. siege weapons; Castles do 25% more damage vs. siege weapons"
 - added Logistica blast radius directly to the (Elite) Cataphract units permanently
+- changed Greek Fire to also increase blast width of Fire Galley line by 0.4
 
 Celts:
 - NO CHANGES

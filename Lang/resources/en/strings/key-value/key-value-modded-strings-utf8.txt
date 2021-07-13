@@ -99,13 +99,15 @@
 28270 "Research <b>Sultans<b> (<cost>) \nAll gold income (Trade, mines, relics) +15% faster."
 120169 "Archer and Cavalry civilization \n\n• Villagers cost -10% Dark, -15% Feudal, -20% Castle, -25% Imperial Age \n• Fishermen work 10% faster and carry +10 \n\n<b>Unique Units:<b>  \nElephant Archer (cavalry archer), Imperial Camel Rider (camel rider)\n\n<b>Unique Techs:<b>  \n• Sultans (All gold income (Trade, mines, relics) +15% faster) \n• Rajputs (Cavalry +1 attack, +1/+1P armor)\n\n<b>Team Bonus:<b>  \nCamel units +4 attack vs. buildings"
 
+8313 "Research Greek Fire (Fire Galley line have +1 range, +0.4 blast radius)"
+28313 "Research <b>Greek Fire<b> (<cost>) \nFire Galley line have +1 range, +0.4 blast radius."
 7318 "Incendiaries"
 8318 "Research Incendiaries (Towers do 125% more damage vs. siege weapons; Castles do 25% more damage vs. siege weapons)"
 17318 "Incendiaries"
 28318 "Research <b>Incendiaries<b> (<cost>) \nTowers do 125% more damage vs. siege weapons; Castles do 25% more damage vs. siege weapons."
 26101 "Create <b>Cataphract<b> (<cost>) \nByzantine unique cavalry unit. Deals trample damage. Strong vs. infantry. Weak vs. archers. <i> Upgrades: attack, armor (Blacksmith); speed, hit points (Stable); creation speed, to Elite Cataphract 1000F, 500G (Castle); more resistant to Monks.<i> \n<hp> <attack> <armor> <piercearmor> <range>"
 26451 "Create <b>Elite Cataphract<b> (<cost>) \nByzantine unique cavalry unit. Deals trample damage. Strong vs. infantry. Weak vs. archers.<i> Upgrades: attack, armor (Blacksmith); speed, hit points (Stable); creation speed (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
-120156 "Defensive civilization \n\n• Buildings +10% hit points Dark, +20% Feudal, +30% Castle, +40% Imperial Age \n• Camel Riders, Skirmishers, Spearman-line cost -25% \n• Fire ships attack 25% faster \n• Advance to Imperial Age costs -33% \n• Town Watch, Town Patrol free \n\n<b>Unique Unit:<b>  \nCataphract (cavalry) \n\n<b>Unique Techs:<b>  \n• Greek Fire (Fire Ships +1 range) \n• Incendiaries (Towers do 125% more damage vs. siege weapons; Castles do 25% more damage vs. siege weapons)\n\n<b>Team Bonus:<b>  \nMonks +50% heal speed"
+120156 "Defensive civilization \n\n• Buildings +10% hit points Dark, +20% Feudal, +30% Castle, +40% Imperial Age \n• Camel Riders, Skirmishers, Spearman-line cost -25% \n• Fire ships attack 25% faster \n• Advance to Imperial Age costs -33% \n• Town Watch, Town Patrol free \n\n<b>Unique Unit:<b>  \nCataphract (cavalry) \n\n<b>Unique Techs:<b>  \n• Greek Fire (Fire Galley line have +1 range, +0.4 blast radius) \n• Incendiaries (Towers do 125% more damage vs. siege weapons; Castles do 25% more damage vs. siege weapons)\n\n<b>Team Bonus:<b>  \nMonks +50% heal speed"
 
 8284 "Research Madrasah (Killed monks return 66% of their cost)"
 28284 "Research <b>Madrasah<b> (<cost>) \nKilled monks return 66% of their cost."
