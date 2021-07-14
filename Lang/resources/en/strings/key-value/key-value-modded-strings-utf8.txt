@@ -80,7 +80,7 @@
 7325 "Reconquest"
 8325 "Research Reconquest (All land military units (except Siege Weapons) +3 line of sight, +6 damage vs. Camels)"
 17325 "Reconquest"
-28325 "Research <b>Reconquest<b> (<cost>) \nAll land military units (except Siege Weapons) +3 line of sight, +6 damage vs. Camels\n."
+28325 "Research <b>Reconquest<b> (<cost>) \nAll land military units (except Siege Weapons) +3 line of sight, +6 damage vs. Camels."
 120163 "Gunpowder and Monk civilization \n\n• Builders work 33% faster \n• Blacksmith upgrades don't cost gold \n• Cannon Galleons benefit from Ballistics \n• Gunpowder units fire 18% faster\n\n<b>Unique Units:<b>  \nConquistador (mounted hand cannoneer), Missionary (mounted Monk) \n\n<b>Unique Techs:<b>  \n• Inquisition (Monks convert faster) \n• Reconquest (All land military units (except Siege Weapons) +3 line of sight, +6 damage vs. Camels)\n\n<b>Team Bonus:<b>  \nTrade units generate +33% gold"
 
 8438 "Research Shinkichon (Mangonel-line +1 range and cost -10%)"
