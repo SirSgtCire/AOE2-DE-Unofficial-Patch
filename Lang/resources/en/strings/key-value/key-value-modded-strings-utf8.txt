@@ -217,7 +217,7 @@
 28312 "Research <b>Keels<b> (<cost>) \nGalley-line +2 normal armor."
 8431 "Research Berserkergang (Berserks regenerate faster; Infantry +7 attack bonus vs. cavalry)"
 28431 "Research <b>Berserkergang<b> (<cost>) \nBerserks regenerate faster; Infantry +7 attack bonus vs. cavalry."
-120160 "Infantry and Naval civilization \n\n• Warships cost -15% Feudal, -15% Castle, -20% Imperial Age \n• Infantry +10% hit points Feudal, +15% Castle, +20% Imperial Age \n• Wheelbarrow, Hand Cart free \n\n<b>Unique Units:<b>  \nBerserk (infantry), Longboat (warship) \n\n<b>Unique Techs:<b>  \n• Keels (Galley-line +2 normal armor) \n• Berserkergang (Berserks regenerate faster; Infantry +7 attack bonus vs. cavalry)\n\n<b>Team Bonus:<b>  \nDocks cost -15%"
+120160 "Infantry and Naval civilization \n\n• Warships cost -15% Feudal, -20% Castle Age \n• Infantry +10% hit points Feudal, +15% Castle, +20% Imperial Age \n• Wheelbarrow, Hand Cart free \n\n<b>Unique Units:<b>  \nBerserk (infantry), Longboat (warship) \n\n<b>Unique Techs:<b>  \n• Keels (Galley-line +2 normal armor) \n• Berserkergang (Berserks regenerate faster; Infantry +7 attack bonus vs. cavalry)\n\n<b>Team Bonus:<b>  \nDocks cost -15%"
 
 8251 "Research Arquebus (Ballistics for gunpowder units; Hand Canoneers +1 range)"
 28251 "Research <b>Arquebus<b> (<cost>) \nBallistics for gunpowder units; Hand Canoneers +1 range."

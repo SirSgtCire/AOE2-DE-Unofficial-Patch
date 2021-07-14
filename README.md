@@ -218,3 +218,4 @@ Vietnamese:
 Vikings:
 - merged Chieftains tech effects into Berserkergang, increased bonus cavalry damage by 2
 - changed Chieftains to Keels, now gives "Galley-line receive +2 armor"
+- changed warship cost reduction civ bonus to "Warships cost -15% Feudal, -20% Castle Age"
