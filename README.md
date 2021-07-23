@@ -1,8 +1,8 @@
 ## AOE2-DE-Unofficial-Patch - by SirSgtCire
-Welcome to the Unofficial Patch Definitive Edition, Version 2.6!
+Welcome to the Unofficial Patch Definitive Edition, Version 2.7!
 
 This mod is kept up to date with the latest patches from DE, as I always try to incorporate approved dev changes into my work. 
-Therefore this mod currently operates on patch: 50292
+Therefore this mod currently operates on patch: 50700
 
 My goal with this mod is to focus on historical accuracy (as much as is possible in this game, without 
 doing a complete overhaul), diverse strategies, unique playstyles for certain civs (not every civ should 
@@ -175,7 +175,7 @@ Saracens:
 - removed transport ship civ bonus
 - added civ bonus "Trade units move 10% faster"
 - changed camel hp civ bonus to +15% hp
-- changed Zealotry to "Archers (except Skirmishers) +3 damage vs. buildings"
+- changed Zealotry to "Archers (except Skirmishers) +2 damage vs. buildings"
 - added Steppe Lancer line
 
 Sicilians:
