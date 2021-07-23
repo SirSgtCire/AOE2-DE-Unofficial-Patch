@@ -111,9 +111,9 @@
 
 8284 "Research Madrasah (Killed monks return 66% of their cost)"
 28284 "Research <b>Madrasah<b> (<cost>) \nKilled monks return 66% of their cost."
-8424 "Research Zealotry (Archers (except Skirmishers) +3 attack vs. buildings)"
-28424 "Research <b>Zealotry<b> (<cost>) \n Archers (except Skirmishers) +3 attack vs. buildings."
-120158 "Camel and Naval civilization \n\n• Market trade cost only 5% \n• Market costs -100 wood \n• Trade units move 10% faster \n• Galley-line attack 25% faster \n• Camel units +15% hit points \n\n<b>Unique Unit:<b>  \nMameluke (camel rider) \n\n<b>Unique Techs:<b>  \n• Madrasah (Killed monks return 66% of their cost) \n• Zealotry (Archers (except Skirmishers) +3 attack vs. buildings)\n\n<b>Team Bonus:<b>  \nFoot archers +2 attack vs. buildings"
+8424 "Research Zealotry (Archers (except Skirmishers) +2 attack vs. buildings)"
+28424 "Research <b>Zealotry<b> (<cost>) \n Archers (except Skirmishers) +2 attack vs. buildings."
+120158 "Camel and Naval civilization \n\n• Market trade cost only 5% \n• Market costs -100 wood \n• Trade units move 10% faster \n• Galley-line attack 25% faster \n• Camel units +15% hit points \n\n<b>Unique Unit:<b>  \nMameluke (camel rider) \n\n<b>Unique Techs:<b>  \n• Madrasah (Killed monks return 66% of their cost) \n• Zealotry (Archers (except Skirmishers) +2 attack vs. buildings)\n\n<b>Team Bonus:<b>  \nFoot archers +2 attack vs. buildings"
 
 8292 "Research Double Crossbows (Ballista Elephants and Scorpions fire two projectiles; Ballista Elephants +2 attack)"
 28292 "Research <b>Double Crossbows<b> (<cost>) \nBallista Elephants and Scorpions fire two projectiles; Ballista Elephants +2 attack."
