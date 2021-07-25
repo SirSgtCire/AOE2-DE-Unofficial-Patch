@@ -190,7 +190,7 @@ Slavs:
 
 Spanish:
 - added Heated Shot
-- changed Supremacy to Reconquest, which gives "All land military units +4 line of sight, +6 damage vs. Camels"
+- changed Supremacy to Reconquest, which gives "Militia-line and Knight-line +6 damage vs. Camels; Militia-line, Knight-line, Monks and Missionaries +3 LOS"
 - reverted team bonus to give 33% trade bonus
 - changed building speed civ bonus to "Builders construct buildings 33% faster"
 
