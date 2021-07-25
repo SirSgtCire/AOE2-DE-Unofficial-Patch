@@ -134,7 +134,7 @@ Koreans:
 - changed Shinkichon to also decrease Mangonel-line creation cost by 10%
 
 Lithuanians:
-- changed Tower Shields to "Barracks units and Skirmishers receive +1/+1P armor"
+- changed Tower Shields to "Spearman-line, Skirmishers and Hand Cannoneers receive +1/+1P armor"
 - changed Hill Forts to "Town Centers have +4 attack, +10% hit points"
 
 Magyars:

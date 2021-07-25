@@ -233,11 +233,11 @@
 28310 "Research <b>Timurid Siegecraft<b> (<cost>) \nTrebuchets +2 range, enables Flaming Camels in the Castle."
 120182 "Cavalry Archer civilization \n\n• Villagers gather +50% food from herdables \n• Town Centers spawn 2 Sheep (starting in Feudal Age) \n• Units deal +25% damage when fighting from higher elevation \n• Thumb Ring, Parthian Tactics free \n\n<b>Unique Units:<b> \nKeshik (raiding cavalry), Flaming Camel (petard)\n\n<b>Unique Techs:<b> \n• Silk Armor (Scout Cavalry line, Steppe Lancers and Cavalry Archers +1/+1P armor) \n• Timurid Siegecraft (Trebuchets +2 range, enables Flaming Camels in the Castle)\n\n<b>Team Bonus:<b> \nCavalry Archers +2 LOS"
 
-8400 "Research Tower Shields (Spearman-line and Skirmishers +1/+1P armor)"
-28400 "Research <b>Tower Shields<b> (<cost>) \nSpearman-line and Skirmishers +1/+1P armor."
+8400 "Research Tower Shields (Spearman-line, Skirmishers and Hand Cannoneers +1/+1P armor)"
+28400 "Research <b>Tower Shields<b> (<cost>) \nSpearman-line, Skirmishers and Hand Cannoneers +1/+1P armor."
 8399 "Research Hill Forts (Town Centers +4 attack, +10% hit points)"
 28399 "Research <b>Hill Forts<b> (<cost>) \nTown Centers +4 attack, +10% hit points."
-120184 "Cavalry and Monk civilization \n\n• Start with +150 food \n• Spearman-line and Skirmishers move 10% faster\n• Each garrisoned relic gives +1 attack to Knights and Leitis (maximum +4) \n\n<b>Unique Unit:<b> \nLeitis (cavalry)\n\n<b>Unique Techs:<b> \n• Hill Forts (Town Centers +4 attack, +10% hit points) \n• Tower Shields (Spearman-line and Skirmishers receive +1/+1P armor)\n\n<b>Team Bonus:<b> \nMonasteries work 20% faster"
+120184 "Cavalry and Monk civilization \n\n• Start with +150 food \n• Spearman-line and Skirmishers move 10% faster\n• Each garrisoned relic gives +1 attack to Knights and Leitis (maximum +4) \n\n<b>Unique Unit:<b> \nLeitis (cavalry)\n\n<b>Unique Techs:<b> \n• Hill Forts (Town Centers +4 attack, +10% hit points) \n• Tower Shields (Spearman-line, Skirmishers and Hand Cannoneers +1/+1P armor)\n\n<b>Team Bonus:<b> \nMonasteries work 20% faster"
 
 8280 "Research Nomads (Destroyed houses don't lose their population headroom; you receive 300 wood)"
 28280 "Research <b>Nomads<b> (<cost>) \nDestroyed houses don't lose their population headroom; you receive 300 wood."
