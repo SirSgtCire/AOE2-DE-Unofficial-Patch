@@ -78,10 +78,10 @@
 120181 "Infantry and Cavalry civilization \n\n• Militia-line upgrades free \n• Town Centers cost -50% stone (starting in Castle Age) \n• Blacksmith and Siege Workshop technologies cost -50% food\n• Can build Krepost in Castle Age \n\n<b>Unique Unit:<b> \nKonnik (cavalry)\n\n<b>Unique Techs:<b> \n• Cavalry Tactics (Cavalry attack 33% faster) \n• Bagains (Militia-line gains +5 armor) \n\n<b>Team Bonus:<b> \nBlacksmiths work 80% faster"
 
 7325 "Reconquest"
-8325 "Research Reconquest (Militia-line, Knight-line and Cannoneers +6 damage vs. Camels; Militia-line, Knight-line, Cannoneers and Monks +2 LOS)"
+8325 "Research Reconquest (Militia-line, Knight-line and Cannoneers +6 attack vs. Camels; Militia-line, Knight-line, Cannoneers and Monks +2 LOS)"
 17325 "Reconquest"
-28325 "Research <b>Reconquest<b> (<cost>) \nMilitia-line, Knight-line and Cannoneers +6 damage vs. Camels; Militia-line, Knight-line, Cannoneers and Monks +2 LOS."
-120163 "Gunpowder and Monk civilization \n\n• Builders work 33% faster \n• Blacksmith upgrades don't cost gold \n• Cannon Galleons benefit from Ballistics \n• Gunpowder units fire 18% faster\n\n<b>Unique Units:<b>  \nConquistador (mounted hand cannoneer), Missionary (mounted Monk) \n\n<b>Unique Techs:<b>  \n• Inquisition (Monks convert faster) \n• Reconquest (Militia-line, Knight-line and Cannoneers +6 damage vs. Camels; Militia-line, Knight-line, Cannoneers and Monks +2 LOS)\n\n<b>Team Bonus:<b>  \nTrade units generate +33% gold"
+28325 "Research <b>Reconquest<b> (<cost>) \nMilitia-line, Knight-line and Cannoneers +6 attack vs. Camels; Militia-line, Knight-line, Cannoneers and Monks +2 LOS."
+120163 "Gunpowder and Monk civilization \n\n• Builders work 33% faster \n• Blacksmith upgrades don't cost gold \n• Cannon Galleons benefit from Ballistics \n• Gunpowder units fire 18% faster\n\n<b>Unique Units:<b>  \nConquistador (mounted hand cannoneer), Missionary (mounted Monk) \n\n<b>Unique Techs:<b>  \n• Inquisition (Monks convert faster) \n• Reconquest (Militia-line, Knight-line and Cannoneers +6 attack vs. Camels; Militia-line, Knight-line, Cannoneers and Monks +2 LOS)\n\n<b>Team Bonus:<b>  \nTrade units generate +33% gold"
 
 8438 "Research Shinkichon (Mangonel-line +1 range and cost -10%)"
 28438 "Research <b>Shinkichon<b> (<cost>) \nMangonel-line +1 range and cost -10%."
@@ -215,9 +215,9 @@
 8312 "Research Keels (Galley-line +2 normal armor)"
 17312 "Keels"
 28312 "Research <b>Keels<b> (<cost>) \nGalley-line +2 normal armor."
-8431 "Research Berserkergang (Berserks regenerate faster; Infantry +7 damage vs. cavalry)"
-28431 "Research <b>Berserkergang<b> (<cost>) \nBerserks regenerate faster; Infantry +7 damage vs. cavalry."
-120160 "Infantry and Naval civilization \n\n• Warships cost -15% Feudal, -20% Castle Age \n• Infantry +10% hit points Feudal, +15% Castle, +20% Imperial Age \n• Wheelbarrow, Hand Cart free \n\n<b>Unique Units:<b>  \nBerserk (infantry), Longboat (warship) \n\n<b>Unique Techs:<b>  \n• Keels (Galley-line +2 normal armor) \n• Berserkergang (Berserks regenerate faster; Infantry +7 damage vs. cavalry)\n\n<b>Team Bonus:<b>  \nDocks cost -15%"
+8431 "Research Berserkergang (Berserks regenerate faster; Infantry +7 attack vs. cavalry)"
+28431 "Research <b>Berserkergang<b> (<cost>) \nBerserks regenerate faster; Infantry +7 attack vs. cavalry."
+120160 "Infantry and Naval civilization \n\n• Warships cost -15% Feudal, -20% Castle Age \n• Infantry +10% hit points Feudal, +15% Castle, +20% Imperial Age \n• Wheelbarrow, Hand Cart free \n\n<b>Unique Units:<b>  \nBerserk (infantry), Longboat (warship) \n\n<b>Unique Techs:<b>  \n• Keels (Galley-line +2 normal armor) \n• Berserkergang (Berserks regenerate faster; Infantry +7 attack vs. cavalry)\n\n<b>Team Bonus:<b>  \nDocks cost -15%"
 
 8251 "Research Arquebus (Ballistics for gunpowder units; Hand Canoneers +1 range)"
 28251 "Research <b>Arquebus<b> (<cost>) \nBallistics for gunpowder units; Hand Canoneers +1 range."
