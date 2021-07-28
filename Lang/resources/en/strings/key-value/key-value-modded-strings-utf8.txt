@@ -78,10 +78,10 @@
 120181 "Infantry and Cavalry civilization \n\n• Militia-line upgrades free \n• Town Centers cost -50% stone (starting in Castle Age) \n• Blacksmith and Siege Workshop technologies cost -50% food\n• Can build Krepost in Castle Age \n\n<b>Unique Unit:<b> \nKonnik (cavalry)\n\n<b>Unique Techs:<b> \n• Cavalry Tactics (Cavalry attack 33% faster) \n• Bagains (Militia-line gains +5 armor) \n\n<b>Team Bonus:<b> \nBlacksmiths work 80% faster"
 
 7325 "Reconquest"
-8325 "Research Reconquest (Militia-line, Knight-line and Gunpowder units +6 damage vs. Camels; Militia-line, Knight-line, Gunpowder units and Monks +2 LOS)"
+8325 "Research Reconquest (Militia-line, Knight-line and Cannoneers +6 damage vs. Camels; Militia-line, Knight-line, Cannoneers and Monks +2 LOS)"
 17325 "Reconquest"
 28325 "Research <b>Reconquest<b> (<cost>) \nMilitia-line, Knight-line and Gunpowder units +6 damage vs. Camels; Militia-line, Knight-line, Gunpowder units and Monks +2 LOS."
-120163 "Gunpowder and Monk civilization \n\n• Builders work 33% faster \n• Blacksmith upgrades don't cost gold \n• Cannon Galleons benefit from Ballistics \n• Gunpowder units fire 18% faster\n\n<b>Unique Units:<b>  \nConquistador (mounted hand cannoneer), Missionary (mounted Monk) \n\n<b>Unique Techs:<b>  \n• Inquisition (Monks convert faster) \n• Reconquest (Militia-line, Knight-line and Gunpowder units +6 damage vs. Camels; Militia-line, Knight-line, Gunpowder units and Monks +2 LOS)\n\n<b>Team Bonus:<b>  \nTrade units generate +33% gold"
+120163 "Gunpowder and Monk civilization \n\n• Builders work 33% faster \n• Blacksmith upgrades don't cost gold \n• Cannon Galleons benefit from Ballistics \n• Gunpowder units fire 18% faster\n\n<b>Unique Units:<b>  \nConquistador (mounted hand cannoneer), Missionary (mounted Monk) \n\n<b>Unique Techs:<b>  \n• Inquisition (Monks convert faster) \n• Reconquest (Militia-line, Knight-line and Cannoneers +6 damage vs. Camels; Militia-line, Knight-line, Gunpowder units and Monks +2 LOS)\n\n<b>Team Bonus:<b>  \nTrade units generate +33% gold"
 
 8438 "Research Shinkichon (Mangonel-line +1 range and cost -10%)"
 28438 "Research <b>Shinkichon<b> (<cost>) \nMangonel-line +1 range and cost -10%."
