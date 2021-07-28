@@ -151,7 +151,7 @@
 
 8427 "Research Anarchy (create Huskarls at Barracks)"
 28427 "Research <b>Anarchy<b> (<cost>) \ncreate Huskarls at Barracks."
-120152 "Infantry civilization \n\n• Infantry cost -20% in Dark, -25% in Feudal, -30% in Castle, -35% in Imperial Age \n• Infantry +1 attack vs. buildings per age (starting in Feudal Age) \n• Villagers +5 attack vs. wild boar; hunters carry +15 meat \n• Loom free \n• Receive +5 population headroom per age (starting in Feudal Age) \n\n<b>Unique Unit:<b>  \nHuskarl (infantry) \n\n<b>Unique Techs:<b>  \n• Anarchy (create Huskarls at Barracks) \n• Perfusion (Barracks work 100% faster) \n\n<b>Team Bonus:<b>  \nBarracks work 20% faster"
+120152 "Infantry civilization \n\n• Infantry cost -20% in Dark, -25% in Feudal, -30% in Castle, -35% in Imperial Age \n• Infantry +1 attack vs. buildings per age (starting in Feudal Age) \n• Villagers +5 attack vs. wild boar; hunters carry +15 meat \n• Loom free \n• Receive +5 population headroom and maximum per age (starting in Feudal Age) \n\n<b>Unique Unit:<b>  \nHuskarl (infantry) \n\n<b>Unique Techs:<b>  \n• Anarchy (create Huskarls at Barracks) \n• Perfusion (Barracks work 100% faster) \n\n<b>Team Bonus:<b>  \nBarracks work 20% faster"
 
 8324 "Research Bearded Axe (Throwing Axemen +1 range, +1P armor)"
 28324 "Research <b>Bearded Axe<b> (<cost>) \nThrowing Axemen +1 range, +1P armor."
@@ -188,12 +188,12 @@
 120164 "Infantry and Monk civilization \n\n• Villagers carry +5 \n• Military units created 15% faster \n• +5 Monk hit points for each Monastery technology \n• Start with +50 gold\n\n<b>Unique Unit:<b>  \nJaguar Warrior (infantry) \n\n<b>Unique Techs:<b>  \n• Atlatl (Skirmishers +1 attack, +1 range) \n• Garland Wars (Infantry and Xolotl Warriors +4 attack)\n\n<b>Team Bonus:<b>  \nRelics generate +33% gold"
 
 7273 "Hourglass"
-8273 "Research Hourglass (All land units (villagers, trade, military, monks) train 11% faster)"
+8273 "Research Hourglass (All land units (villagers, trade, military, monks) train 10% faster)"
 17273 "Hourglass"
-28273 "Research <b>Hourglass<b> (<cost>) \nAll land units (villagers, trade, military, monks) train 11% faster."
+28273 "Research <b>Hourglass<b> (<cost>) \nAll land units (villagers, trade, military, monks) train 10% faster."
 8272 "Research Pavise (Foot Archers and Condottieri +2P armor)"
 28272 "Research <b>Pavise<b> (<cost>) \nFoot Archers and Condottieri +2P armor."
-120168 "Archer and Naval civilization \n\n• Advancing to the next age costs -15% \n• Dock and University technologies cost -33% \n• Fishing Ships cost -15%\n• Gunpowder units cost -20%\n• Trade units cost -25%\n\n<b>Unique Units:<b>  \nGenoese Crossbowman (archer), Condottiero (infantry)\n\n<b>Unique Techs:<b>  \n• Pavise (Foot Archers and Condottieri +2P armor) \n• Hourglass (All land units (villagers, trade, military, monks) train 11% faster)\n\n<b>Team Bonus:<b>  \nCondottiero available in the Barracks starting in the Imperial Age"
+120168 "Archer and Naval civilization \n\n• Advancing to the next age costs -15% \n• Dock and University technologies cost -33% \n• Fishing Ships cost -15%\n• Gunpowder units cost -20%\n• Trade units cost -25%\n\n<b>Unique Units:<b>  \nGenoese Crossbowman (archer), Condottiero (infantry)\n\n<b>Unique Techs:<b>  \n• Pavise (Foot Archers and Condottieri +2P armor) \n• Hourglass (All land units (villagers, trade, military, monks) train 10% faster)\n\n<b>Team Bonus:<b>  \nCondottiero available in the Barracks starting in the Imperial Age"
 
 7285 "Yaya"
 8285 "Research Yaya (Cavalry Archers +20 hit points; Skirmishers and Spearman-line +10 hit points)"
@@ -215,9 +215,9 @@
 8312 "Research Keels (Galley-line +2 normal armor)"
 17312 "Keels"
 28312 "Research <b>Keels<b> (<cost>) \nGalley-line +2 normal armor."
-8431 "Research Berserkergang (Berserks regenerate faster; Infantry +7 attack bonus vs. cavalry)"
-28431 "Research <b>Berserkergang<b> (<cost>) \nBerserks regenerate faster; Infantry +7 attack bonus vs. cavalry."
-120160 "Infantry and Naval civilization \n\n• Warships cost -15% Feudal, -20% Castle Age \n• Infantry +10% hit points Feudal, +15% Castle, +20% Imperial Age \n• Wheelbarrow, Hand Cart free \n\n<b>Unique Units:<b>  \nBerserk (infantry), Longboat (warship) \n\n<b>Unique Techs:<b>  \n• Keels (Galley-line +2 normal armor) \n• Berserkergang (Berserks regenerate faster; Infantry +7 attack bonus vs. cavalry)\n\n<b>Team Bonus:<b>  \nDocks cost -15%"
+8431 "Research Berserkergang (Berserks regenerate faster; Infantry +7 damage vs. cavalry)"
+28431 "Research <b>Berserkergang<b> (<cost>) \nBerserks regenerate faster; Infantry +7 damage vs. cavalry."
+120160 "Infantry and Naval civilization \n\n• Warships cost -15% Feudal, -20% Castle Age \n• Infantry +10% hit points Feudal, +15% Castle, +20% Imperial Age \n• Wheelbarrow, Hand Cart free \n\n<b>Unique Units:<b>  \nBerserk (infantry), Longboat (warship) \n\n<b>Unique Techs:<b>  \n• Keels (Galley-line +2 normal armor) \n• Berserkergang (Berserks regenerate faster; Infantry +7 damage vs. cavalry)\n\n<b>Team Bonus:<b>  \nDocks cost -15%"
 
 8251 "Research Arquebus (Ballistics for gunpowder units; Hand Canoneers +1 range)"
 28251 "Research <b>Arquebus<b> (<cost>) \nBallistics for gunpowder units; Hand Canoneers +1 range."
