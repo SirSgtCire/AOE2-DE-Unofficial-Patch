@@ -78,10 +78,10 @@
 120181 "Infantry and Cavalry civilization \n\n• Militia-line upgrades free \n• Town Centers cost -50% stone (starting in Castle Age) \n• Blacksmith and Siege Workshop technologies cost -50% food\n• Can build Krepost in Castle Age \n\n<b>Unique Unit:<b> \nKonnik (cavalry)\n\n<b>Unique Techs:<b> \n• Cavalry Tactics (Cavalry attack 33% faster) \n• Bagains (Militia-line gains +5 armor) \n\n<b>Team Bonus:<b> \nBlacksmiths work 80% faster"
 
 7325 "Reconquest"
-8325 "Research Reconquest (Militia-line, Knight-line and Cannoneers +6 attack vs. Camels; Militia-line, Knight-line, Cannoneers and Monks +2 LOS)"
+8325 "Research Reconquest (Militia-line, Knight-line and Cannoneers +6 attack vs. Camels; Militia-line, Knight-line, Cannoneers and Monks +2 line of sight)"
 17325 "Reconquest"
-28325 "Research <b>Reconquest<b> (<cost>) \nMilitia-line, Knight-line and Cannoneers +6 attack vs. Camels; Militia-line, Knight-line, Cannoneers and Monks +2 LOS."
-120163 "Gunpowder and Monk civilization \n\n• Builders work 33% faster \n• Blacksmith upgrades don't cost gold \n• Cannon Galleons benefit from Ballistics \n• Gunpowder units fire 18% faster\n\n<b>Unique Units:<b>  \nConquistador (mounted hand cannoneer), Missionary (mounted Monk) \n\n<b>Unique Techs:<b>  \n• Inquisition (Monks convert faster) \n• Reconquest (Militia-line, Knight-line and Cannoneers +6 attack vs. Camels; Militia-line, Knight-line, Cannoneers and Monks +2 LOS)\n\n<b>Team Bonus:<b>  \nTrade units generate +33% gold"
+28325 "Research <b>Reconquest<b> (<cost>) \nMilitia-line, Knight-line and Cannoneers +6 attack vs. Camels; Militia-line, Knight-line, Cannoneers and Monks +2 line of sight."
+120163 "Gunpowder and Monk civilization \n\n• Builders work 33% faster \n• Blacksmith upgrades don't cost gold \n• Cannon Galleons benefit from Ballistics \n• Gunpowder units fire 18% faster\n\n<b>Unique Units:<b>  \nConquistador (mounted hand cannoneer), Missionary (mounted Monk) \n\n<b>Unique Techs:<b>  \n• Inquisition (Monks convert faster) \n• Reconquest (Militia-line, Knight-line and Cannoneers +6 attack vs. Camels; Militia-line, Knight-line, Cannoneers and Monks +2 line of sight)\n\n<b>Team Bonus:<b>  \nTrade units generate +33% gold"
 
 8438 "Research Shinkichon (Mangonel-line +1 range and cost -10%)"
 28438 "Research <b>Shinkichon<b> (<cost>) \nMangonel-line +1 range and cost -10%."
@@ -89,7 +89,7 @@
 
 8275 "Research Corvinian Army (Magyar Huszars don't cost gold)"
 28275 "Research <b>Corvinian Army<b> (<cost>) \nMagyar Huszars don't cost gold."
-120171 "Cavalry civilization \n\n• Villagers kill wolves with 1 strike \n• Forging, Iron Casting, Blast Furnace free\n• Scout Cavalry line cost -15% \n\n<b>Unique Unit:<b>  \nMagyar Huszar (cavalry)\n\n<b>Unique Techs:<b>  \n• Corvinian Army (Magyar Huszars don't cost gold) \n• Recurve Bow (Cavalry archers +1 range, +1 attack)\n\n<b>Team Bonus:<b>  \nFoot archers +2 LOS"
+120171 "Cavalry civilization \n\n• Villagers kill wolves with 1 strike \n• Forging, Iron Casting, Blast Furnace free\n• Scout Cavalry line cost -15% \n\n<b>Unique Unit:<b>  \nMagyar Huszar (cavalry)\n\n<b>Unique Techs:<b>  \n• Corvinian Army (Magyar Huszars don't cost gold) \n• Recurve Bow (Cavalry archers +1 range, +1 attack)\n\n<b>Team Bonus:<b>  \nFoot archers +2 line of sight"
 
 7271 "Rajputs"
 8271 "Research Rajputs (Cavalry +1 attack, +1/+1P armor)"
@@ -121,7 +121,7 @@
 
 8252 "Research Royal Heirs (Shotel Warriors trained nearly instantly)"
 28252 "Research <b>Royal Heirs<b> (<cost>) \nShotel Warriors trained nearly instantly."
-120174 "Archer and Siege civilization \n\n• Archers fire 18% faster \n• Receive +100 food and +100 gold after advancing to each age \n• Pikeman, Halberdier upgrades free\n\n<b>Unique Unit:<b>  \nShotel Warrior (infantry)\n\n<b>Unique Techs:<b>  \n• Royal Heirs (Shotel Warriors trained nearly instantly) \n• Torsion Engines (increases blast radius of Siege Workshop units)\n\n<b>Team Bonus:<b>  \nTowers and Outposts +4 LOS"
+120174 "Archer and Siege civilization \n\n• Archers fire 18% faster \n• Receive +100 food and +100 gold after advancing to each age \n• Pikeman, Halberdier upgrades free\n\n<b>Unique Unit:<b>  \nShotel Warrior (infantry)\n\n<b>Unique Techs:<b>  \n• Royal Heirs (Shotel Warriors trained nearly instantly) \n• Torsion Engines (increases blast radius of Siege Workshop units)\n\n<b>Team Bonus:<b>  \nTowers and Outposts +4 line of sight"
 
 8254 "Research Tigui (Town Centers fire arrows when ungarrisoned)"
 28254 "Research <b>Tigui<b> (<cost>) \nTown Centers fire arrows when ungarrisoned."
@@ -129,7 +129,7 @@
 
 8421 "Research Furor Celtica (Siege Worskhop units +40% hit points)"
 28421 "Research <b>Furor Celtica<b> (<cost>) \nSiege Worskhop units +40% hit points."
-120162 "Infantry and Siege civilization \n\n• Infantry move 15% faster (starting in Feudal Age) \n• Lumberjacks work 15% faster \n• Siege weapons fire 25% faster \n• Can steal sheep, and sheep within one Celt unit's LoS cannot be stolen \n\n<b>Unique Unit:<b>  \nWoad Raider (infantry) \n\n<b>Unique Techs:<b>  \n• Stronghold (Castles and towers fire 25% faster) \n• Furor Celtica (Siege Worskhop units +40% hit points)\n\n<b>Team Bonus:<b>  \nSiege Workshops work 20% faster"
+120162 "Infantry and Siege civilization \n\n• Infantry move 15% faster (starting in Feudal Age) \n• Lumberjacks work 15% faster \n• Siege weapons fire 25% faster \n• Can steal sheep, and sheep within one Celt unit's line of sight cannot be stolen \n\n<b>Unique Unit:<b>  \nWoad Raider (infantry) \n\n<b>Unique Techs:<b>  \n• Stronghold (Castles and towers fire 25% faster) \n• Furor Celtica (Siege Worskhop units +40% hit points)\n\n<b>Team Bonus:<b>  \nSiege Workshops work 20% faster"
 
 8268 "Research Orthodoxy (Monks +4/+4P armor)"
 28268 "Research <b>Orthodoxy<b> (<cost>) \nMonks +4/+4P armor."
@@ -147,7 +147,7 @@
 28368 "Research <b>Great Wall<b> (<cost>) \nWalls and towers +35% hit points."
 8432 "Research Rocketry (Scorpions +4 attack, Archer-line +2 attack; Scorpions +1 range)"
 28432 "Research <b>Rocketry<b> (<cost>) \nScorpions +4 attack, Archer-line +2 attack; Scorpions +1 range."
-120155 "Archer civilization \n\n• Start with +3 villagers, -50 wood, -200 food \n• Technologies cost -10% Feudal, -15% Castle, -20% Imperial Age \n• Town Centers support 10 population and +5 LOS\n• Demolition ships +50% hit points \n\n<b>Unique Unit:<b>  \nChu Ko Nu (archer) \n\n<b>Unique Techs:<b>  \n• Great Wall (Walls and towers +35% hit points) \n• Rocketry (Scorpions +4 attack, Archer-line +2 attack; Scorpions +1 range)\n\n<b>Team Bonus:<b>  \nFarms +60 food"
+120155 "Archer civilization \n\n• Start with +3 villagers, -50 wood, -200 food \n• Technologies cost -10% Feudal, -15% Castle, -20% Imperial Age \n• Town Centers support 10 population and +5 line of sight\n• Demolition ships +50% hit points \n\n<b>Unique Unit:<b>  \nChu Ko Nu (archer) \n\n<b>Unique Techs:<b>  \n• Great Wall (Walls and towers +35% hit points) \n• Rocketry (Scorpions +4 attack, Archer-line +2 attack; Scorpions +1 range)\n\n<b>Team Bonus:<b>  \nFarms +60 food"
 
 8427 "Research Anarchy (create Huskarls at Barracks)"
 28427 "Research <b>Anarchy<b> (<cost>) \ncreate Huskarls at Barracks."
@@ -225,13 +225,13 @@
 
 8294 "Research Forced Levy (Militia-line gold cost is replaced by 20 food cost)"
 28294 "Research <b>Forced Levy<b> (<cost>) \nMilitia-line gold cost is replaced by 20 food cost."
-120178 "Naval civilization \n\n• Advancing to the next age 66% faster \n• Fish Traps cost -33%\n• Fish Traps provide 3X food \n• Battle Elephants cost -30% Castle, -40% Imperial Age \n\n<b>Unique Unit:<b> \nKarambit Warrior (infantry)\n\n<b>Unique Techs:<b> \n• Thalassocracy (upgrades Docks to Harbors, which fire arrows) \n• Forced Levy (Militia-line gold cost is replaced by 20 food cost)\n\n<b>Team Bonus:<b> \nDocks +100% LOS"
+120178 "Naval civilization \n\n• Advancing to the next age 66% faster \n• Fish Traps cost -33%\n• Fish Traps provide 3X food \n• Battle Elephants cost -30% Castle, -40% Imperial Age \n\n<b>Unique Unit:<b> \nKarambit Warrior (infantry)\n\n<b>Unique Techs:<b> \n• Thalassocracy (upgrades Docks to Harbors, which fire arrows) \n• Forced Levy (Militia-line gold cost is replaced by 20 food cost)\n\n<b>Team Bonus:<b> \nDocks +100% line of sight"
 
 8309 "Research Silk Armor (Scout Cavalry line, Steppe Lancers and Cavalry Archers +1/+1P armor)"
 28309 "Research <b>Silk Armor<b> (<cost>) \nScout Cavalry line, Steppe Lancers and Cavalry Archers +1/+1P armor."
 8310 "Research Timurid Siegecraft (Trebuchets +2 range, enables Flaming Camels in the Castle)"
 28310 "Research <b>Timurid Siegecraft<b> (<cost>) \nTrebuchets +2 range, enables Flaming Camels in the Castle."
-120182 "Cavalry Archer civilization \n\n• Villagers gather +50% food from herdables \n• Town Centers spawn 2 Sheep (starting in Feudal Age) \n• Units deal +25% damage when fighting from higher elevation \n• Thumb Ring, Parthian Tactics free \n\n<b>Unique Units:<b> \nKeshik (raiding cavalry), Flaming Camel (petard)\n\n<b>Unique Techs:<b> \n• Silk Armor (Scout Cavalry line, Steppe Lancers and Cavalry Archers +1/+1P armor) \n• Timurid Siegecraft (Trebuchets +2 range, enables Flaming Camels in the Castle)\n\n<b>Team Bonus:<b> \nCavalry Archers +2 LOS"
+120182 "Cavalry Archer civilization \n\n• Villagers gather +50% food from herdables \n• Town Centers spawn 2 Sheep (starting in Feudal Age) \n• Units deal +25% damage when fighting from higher elevation \n• Thumb Ring, Parthian Tactics free \n\n<b>Unique Units:<b> \nKeshik (raiding cavalry), Flaming Camel (petard)\n\n<b>Unique Techs:<b> \n• Silk Armor (Scout Cavalry line, Steppe Lancers and Cavalry Archers +1/+1P armor) \n• Timurid Siegecraft (Trebuchets +2 range, enables Flaming Camels in the Castle)\n\n<b>Team Bonus:<b> \nCavalry Archers +2 line of sight"
 
 8400 "Research Tower Shields (Spearman-line, Skirmishers and Hand Cannoneers +1/+1P armor)"
 28400 "Research <b>Tower Shields<b> (<cost>) \nSpearman-line, Skirmishers and Hand Cannoneers +1/+1P armor."
