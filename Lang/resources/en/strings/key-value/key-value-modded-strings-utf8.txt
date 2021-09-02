@@ -270,7 +270,7 @@
 120159 "Gunpowder civilization \n\n• Gunpowder units +25% hit points; researching gunpowder technologies costs -50%; Chemistry free \n• Gold miners work 20% faster \n• Light Cavalry, Hussar upgrades free \n\n<b>Unique Unit:<b>  \nJanissary (hand cannoneer) \n\n<b>Unique Techs:<b>  \n• Yaya (Cavalry Archers +20 hit points; Skirmishers and Spearman-line +10 hit points) \n• Artillery (Bombard Towers, Bombard Cannons, Cannon Galleons +2 range)\n\n<b>Team Bonus:<b>  \nGunpowder units created 25% faster"
 
 //Vietnamese
-120180 "Archer civilization \n\n• Enemy positions are revealed at the start of the game \n• Economic upgrades don't cost wood \n• Archery Range units +20% hit points (starting in Feudal Age) \n• Transport Ships 2x hitpoints, +5 carry capacity \n• Conscription free \n\n<b>Unique Units:<b> \nRattan Archer (foot archer) \n\n<b>Unique Techs:<b> \n• Chatras (Battle Elephants +50 hit points) \n• Paper Money (Each team member receives 500 gold)\n\n<b>Team Bonus:<b> \nImperial Skirmisher upgrade available in the Imperial Age"
+120180 "Archer civilization \n\n• Enemy positions are revealed at the start of the game \n• Economic upgrades don't cost wood \n• Archers +20% hit points (starting in Feudal Age) \n• Transport Ships 2x hitpoints, +5 carry capacity \n• Conscription free \n\n<b>Unique Units:<b> \nRattan Archer (foot archer) \n\n<b>Unique Techs:<b> \n• Chatras (Battle Elephants +50 hit points) \n• Paper Money (Each team member receives 500 gold)\n\n<b>Team Bonus:<b> \nImperial Skirmisher upgrade available in the Imperial Age"
 
 //Vikings
 7312 "Keels"
