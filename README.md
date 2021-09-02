@@ -60,7 +60,7 @@ Burmese:
 - increased accuracy of (Elite) Arambai by (5%) 5%
 
 Byzantines:
-- NO CHANGES
+- changed Greek Fire to also increase blast width of Fire Galley-line by 0.2
 
 Celts:
 - NO CHANGES

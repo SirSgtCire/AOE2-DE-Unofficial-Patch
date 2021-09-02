@@ -93,7 +93,9 @@
 
 
 //Byzantines
-
+8313 "Research Greek Fire (Fire Ships +1 range and increased blast width)"
+28313 "Research <b>Greek Fire<b> (<cost>) \nFire Ships +1 range and increased blast width."
+120156 "Defensive civilization \n\n• Buildings +10% HPs Dark, +20% Feudal, +30% Castle, +40% Imperial Age \n• Camel Riders, Skirmishers, Spearman-line cost -25% \n• Fire ships attack 25% faster \n• Advance to Imperial Age costs -33% \n• Town Watch, Town Patrol free \n\n<b>Unique Unit:<b>  \nCataphract (cavalry) \n\n<b>Unique Techs:<b>  \n• Greek Fire (Fire Ships +1 range and increased blast width) \n• Logistica (Cataphracts cause trample damage)\n\n<b>Team Bonus:<b>  \nMonks +50% heal speed"
 
 //Celts
 8421 "Research Furor Celtica (Siege Worskhop units +40% hit points)"
@@ -227,7 +229,7 @@
 120158 "Camel and Naval civilization \n\n• Market trade cost only 5% \n• Market costs -100 wood \n• Trade units move 10% faster \n• Galley-line attack 25% faster \n• Camel units +15% hit points \n\n<b>Unique Unit:<b>  \nMameluke (camel rider) \n\n<b>Unique Techs:<b>  \n• Madrasah (Killed monks return 66% of their cost) \n• Zealotry (Archers (except Skirmishers) +2 attack vs. buildings)\n\n<b>Team Bonus:<b>  \nFoot archers +2 attack vs. buildings"
 
 //Sicilians
-120186 "Infantry and Cavalry civilization \n\n• Start with +100 stone \n• Castles and Town Centers built 100% faster \n• Land military units (except siege weapons) receive 50% less bonus damage \n• Farm upgrades provide +100% additional food \n• Transport Ships +5 carry capacity and +10 armor versus anti-ship bonus damage \n• Donjon replaces Watch Tower-line \n\n<b>Unique Unit:<b> \nSerjeant (infantry)\n\n<b>Unique Techs:<b> \n• First Crusade (Each Town Center (maximum 5) spawns a one-time batch of 7 Serjeants; units more resistant to conversion) \n• Hauberk (Knights +1/+2P armor)\n\n<b>Team Bonus:<b> \nTransport ships created 50% faster and cost -50%"
+120186 "Infantry and Cavalry civilization \n\n• Start with +100 stone \n• Castles and Town Centers built 100% faster \n• Land military units (except siege weapons) receive 50% less bonus damage \n• Farm upgrades provide +100% additional food \n• Transport Ships +5 carry capacity and +10 armor versus anti-ship bonus damage \n• Donjon replaces Watch Tower-line \n\n<b>Unique Unit:<b> \nSerjeant (infantry)\n\n<b>Unique Techs:<b> \n• First Crusade (Each Town Center (maximum 5) spawns a one-time batch of 7 Serjeants; units more resistant to conversion) \n• Hauberk (Knights +1/+2P armor)\n\n<b>Team Bonus:<b> \nFirst Transport Ship free"
 
 //Slavs
 8268 "Research Orthodoxy (Monks +4/+4P armor)"
