@@ -101,6 +101,7 @@ Indians:
 - changed Shatagni to Rajputs, now gives "Cavalry +1 attack, +1/+1P armor"
 - changed fisherman civ bonus to "Fishermen work 10% faster, carry +10"
 - (Elite) Elephant Archers do (4) 3 bonus damage to infantry
+- removed cavalry pierce armor civ bonus
 
 Italians:
 - increased Elite Genoese Crossbowman anti-cavalry damage by 1
