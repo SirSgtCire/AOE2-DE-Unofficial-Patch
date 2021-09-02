@@ -179,9 +179,9 @@
 //Lithuanians
 8400 "Research Tower Shields (Spearman-line, Skirmishers and Hand Cannoneers +1/+1P armor)"
 28400 "Research <b>Tower Shields<b> (<cost>) \nSpearman-line, Skirmishers and Hand Cannoneers +1/+1P armor."
-8399 "Research Hill Forts (Town Centers +4 attack, +10% hit points)"
-28399 "Research <b>Hill Forts<b> (<cost>) \nTown Centers +4 attack, +10% hit points."
-120184 "Cavalry and Monk civilization \n\n• Start with +150 food \n• Spearman-line and Skirmishers move 10% faster\n• Each garrisoned relic gives +1 attack to Knights and Leitis (maximum +4) \n\n<b>Unique Unit:<b> \nLeitis (cavalry)\n\n<b>Unique Techs:<b> \n• Hill Forts (Town Centers +4 attack, +10% hit points) \n• Tower Shields (Spearman-line, Skirmishers and Hand Cannoneers +1/+1P armor)\n\n<b>Team Bonus:<b> \nMonasteries work 20% faster"
+8399 "Research Hill Forts (Town Centers +4 attack)"
+28399 "Research <b>Hill Forts<b> (<cost>) \nTown Centers +4 attack."
+120184 "Cavalry and Monk civilization \n\n• Start with +150 food \n• Spearman-line and Skirmishers move 10% faster\n• Each garrisoned relic gives +1 attack to Knights and Leitis (maximum +4) \n\n<b>Unique Unit:<b> \nLeitis (cavalry)\n\n<b>Unique Techs:<b> \n• Hill Forts (Town Centers +4 attack) \n• Tower Shields (Spearman-line, Skirmishers and Hand Cannoneers +1/+1P armor)\n\n<b>Team Bonus:<b> \nMonasteries work 20% faster"
 
 //Magyars
 8275 "Research Corvinian Army (Magyar Huszars don't cost gold)"
