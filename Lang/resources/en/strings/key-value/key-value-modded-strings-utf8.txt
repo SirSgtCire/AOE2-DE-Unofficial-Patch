@@ -255,9 +255,10 @@
 //Teutons
 8283 "Research Ironclad (Siege weapons +4 normal armor)"
 28283 "Research <b>Ironclad<b> (<cost>) \nSiege weapons +4 normal armor."
-8426 "Research Crenellations (Castles and Town Centers +3 range; Castles, Towers and Town Centers +20% hit points)"
-28426 "Research <b>Crenellations<b> (<cost>) \nCastles and Town Centers +3 range; Castles, Towers and Town Centers +20% hit points."
-120153 "Defensive civilization \n\n• Garrisoned infantry can fire extra arrows; Towers garrison +5 units, Town Centers garrison +10 units; Murder Holes free \n• Monks heal range 2x \n• Barracks and Stable units +1 armor per age (starting in Castle Age) \n• Farms cost -40% \n\n<b>Unique Unit:<b>  \nTeutonic Knight (infantry) \n\n<b>Unique Techs:<b>  \n• Ironclad (Siege weapons +4 normal armor) \n• Crenellations (Castles and Town Centers +3 range; Castles, Towers and Town Centers +20% hit points)\n\n<b>Team Bonus:<b>  \nUnits resist conversion"
+8426 "Research Crenellations (Castles and Town Centers +3 range; Garrisoned infantry fire arrows)"
+28426 "Research <b>Crenellations<b> (<cost>) \nCastles and Town Centers +3 range; Garrisoned infantry fire arrows."
+120153 "Defensive civilization \n\n• Monks healing range 2x \n• Town Centers garrison +10, Towers garrison +5 units \n• Murder Holes, Herbal Medicine free \n• Farms cost -40% \n• Barracks and Stable units +1 normal armor per age (starting in Castle Age) \n\n<b>Unique Unit:<b>  \nTeutonic Knight (infantry) \n\n<b>Unique Techs:<b>  \n• Ironclad (Siege weapons +4 normal armor) \n• Crenellations (Castles and Town Centers +3 range; Garrisoned infantry fire arrows)\n\n<b>Team Bonus:<b>  \nUnits resist conversion"
+
 
 //Turks
 7285 "Yaya"
