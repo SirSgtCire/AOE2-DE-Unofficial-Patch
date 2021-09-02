@@ -107,9 +107,9 @@
 //Chinese
 8368 "Research Great Wall (Walls and towers +35% hit points)"
 28368 "Research <b>Great Wall<b> (<cost>) \nWalls and towers +35% hit points."
-8432 "Research Rocketry (Scorpions +4 attack, Archer-line +2 attack; Scorpions +1 range)"
-28432 "Research <b>Rocketry<b> (<cost>) \nScorpions +4 attack, Archer-line +2 attack; Scorpions +1 range."
-120155 "Archer civilization \n\n• Start with +3 villagers, -50 wood, -200 food \n• Technologies cost -10% Feudal, -15% Castle, -20% Imperial Age \n• Town Centers support 10 population and +5 line of sight\n• Demolition ships +50% hit points \n\n<b>Unique Unit:<b>  \nChu Ko Nu (archer) \n\n<b>Unique Techs:<b>  \n• Great Wall (Walls and towers +35% hit points) \n• Rocketry (Scorpions +4 attack, Archer-line +2 attack; Scorpions +1 range)\n\n<b>Team Bonus:<b>  \nFarms +10% food"
+8432 "Research Rocketry (Archer-line +2 attack; Scorpions +4 attack and +1 range)"
+28432 "Research <b>Rocketry<b> (<cost>) \nArcher-line +2 attack; Scorpions +4 attack and +1 range."
+120155 "Archer civilization \n\n• Start with +3 villagers, -50 wood, -200 food \n• Technologies cost -10% Feudal, -15% Castle, -20% Imperial Age \n• Town Centers support 10 population and +5 line of sight\n• Demolition ships +50% hit points \n\n<b>Unique Unit:<b>  \nChu Ko Nu (archer) \n\n<b>Unique Techs:<b>  \n• Great Wall (Walls and towers +35% hit points) \n• Rocketry (Archer-line +2 attack; Scorpions +4 attack and +1 range)\n\n<b>Team Bonus:<b>  \nFarms +10% food"
 
 //Cumans
 8311 "Research Steppe Husbandry (Scout Cavalry line, Steppe Lancers and Cavalry Archers trained 100% faster)"
