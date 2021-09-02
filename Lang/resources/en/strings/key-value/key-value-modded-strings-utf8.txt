@@ -79,7 +79,9 @@
 120188 "Gunpowder and Monk civilization \n\n• Blacksmiths, Monasteries and Universities cost -100 wood \n• Chemistry and Hand Cannoneer available in Castle Age \n• Spearman-line deals +25% bonus damage \n• Fervor and Sanctity affect Villagers \n• Mining Camp technologies free \n\n<b>Unique Units:<b> \nHussite Wagon (siege weapon), Houfnice (bombard cannon)\n\n<b>Unique Techs:<b> \n• Wagenburg Tactics (Gunpowder units move 15% faster) \n• Hussite Reforms (Monastery upgrades have their gold cost replaced by food)\n\n<b>Team Bonus:<b> \nMarkets work 80% faster"
 
 //Britons
-120150 "Foot Archer civilization \n\n• Town Centers cost -50% wood (starting in Castle Age) \n• Foot archers (except skirmishers) have +1 range per age (starting in Castle Age) \n• Shepherds work 25% faster \n\n<b>Unique Unit:<b>  \nLongbowman (archer) \n\n<b>Unique Techs:<b>  \n• Yeomen (foot archers +1 range; towers +2 attack) \n• Warwolf (Trebuchets do blast damage)\n\n<b>Team Bonus:<b>  \nArchery Ranges work 20% faster"
+8419 "Research Yeomen (Foot Archers +1 range; Towers +2 attack)"
+28419 "Research <b>Yeomen<b> (<cost>) \nFoot Archers +1 range; Towers +2 attack."
+120150 "Foot Archer civilization \n\n• Town Centers cost -50% wood (starting in Castle Age) \n• Foot archers (except skirmishers) have +1 range per age (starting in Castle Age) \n• Shepherds work 25% faster \n\n<b>Unique Unit:<b>  \nLongbowman (archer) \n\n<b>Unique Techs:<b>  \n• Yeomen (Foot Archers +1 range; Towers +2 attack) \n• Warwolf (Trebuchets do blast damage)\n\n<b>Team Bonus:<b>  \nArchery Ranges work 20% faster"
 
 //Bulgarians
 120181 "Infantry and Cavalry civilization \n\n• Militia-line upgrades free \n• Town Centers cost -50% stone (starting in Castle Age) \n• Blacksmith and Siege Workshop technologies cost -50% food\n• Can build Krepost \n\n<b>Unique Unit:<b> \nKonnik (cavalry)\n\n<b>Unique Techs:<b> \n• Stirrups (Cavalry attack 33% faster) \n• Bagains (Militia-line gains +5 armor) \n\n<b>Team Bonus:<b> \nBlacksmiths work 80% faster"
