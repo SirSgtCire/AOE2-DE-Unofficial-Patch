@@ -98,10 +98,9 @@ Indians:
 - removed Hussar, Heavy Demolition Ship, Champion, Gold Shaft Mining, Redemption
 - added Architecture, Atonement, Keep, Bombard Tower, Battle Elephant Line
 - changed Sultans tech to increase all gold production by 15%
-- changed Shatagni to Rajputs, now gives "Cavalry +1 attack, +1/+1P armor"
+- changed Shatagni to Rajputs, now gives "Cavalry +1 attack, +1 normal armor, +10 hit points"
 - changed fisherman civ bonus to "Fishermen work 10% faster, carry +10"
 - (Elite) Elephant Archers do (4) 3 bonus damage to infantry
-- removed cavalry pierce armor civ bonus
 
 Italians:
 - increased Elite Genoese Crossbowman anti-cavalry damage by 1

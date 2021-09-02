@@ -143,12 +143,12 @@
 
 //Indians
 7271 "Rajputs"
-8271 "Research Rajputs (Cavalry +1 attack, +1/+1P armor)"
+8271 "Research Rajputs (Cavalry +1 attack, +1 normal armor, +10 hit points)"
 17271 "Rajputs"
-28271 "Research <b>Rajputs<b> (<cost>) \nCavalry +1 attack, +1/+1P armor."
+28271 "Research <b>Rajputs<b> (<cost>) \nCavalry +1 attack, +1 normal armor, +10 hit points."
 8270 "Research Sultans (All gold income (Trade, mines, relics) +15% faster)"
 28270 "Research <b>Sultans<b> (<cost>) \nAll gold income (Trade, mines, relics) +15% faster."
-120169 "Archer and Cavalry civilization \n\n• Villagers cost -10% Dark, -15% Feudal, -20% Castle, -25% Imperial Age \n• Fishermen work 10% faster and carry +10 \n\n<b>Unique Units:<b>  \nElephant Archer (cavalry archer), Imperial Camel Rider (camel rider)\n\n<b>Unique Techs:<b>  \n• Sultans (All gold income (Trade, mines, relics) +15% faster) \n• Rajputs (Cavalry +1 attack, +1/+1P armor)\n\n<b>Team Bonus:<b>  \nCamel units +4 attack vs. buildings"
+120169 "Archer and Cavalry civilization \n\n• Villagers cost -10% Dark, -15% Feudal, -20% Castle, -25% Imperial Age \n• Fishermen work 10% faster and carry +10 \n• Stable units +1P armor per age (starting in Castle Age)\n\n<b>Unique Units:<b>  \nElephant Archer (cavalry archer), Imperial Camel Rider (camel rider)\n\n<b>Unique Techs:<b>  \n• Sultans (All gold income (Trade, mines, relics) +15% faster) \n• Rajputs (Cavalry +1 attack, +1 normal armor, +10 hit points)\n\n<b>Team Bonus:<b>  \nCamel units +4 attack vs. buildings"
 
 //Italians
 7273 "Hourglass"
