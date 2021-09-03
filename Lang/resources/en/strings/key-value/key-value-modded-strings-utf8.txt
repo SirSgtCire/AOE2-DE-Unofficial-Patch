@@ -11,198 +11,127 @@
 //the strings you wish to modify into this file, and do not
 //delete them from the original file.
 
+//Generic Units
 26070 "Create <b>Cavalier<b> (<cost>) \nPowerful all-purpose cavalry. Strong vs. infantry and archers. Weak vs. Pikemen, Camel Riders, and Monks.<i> Upgrades: attack, armor (Blacksmith); speed, hit points, to Paladin 1000F, 750G (Stable); creation speed (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
 26167 "Create <b>Battle Elephant<b> (<cost>) \nSlow and heavy cavalry. Strong vs. cavalry, infantry, and archers. Weak vs. Monks and Pikemen.<i> Upgrades: attack, armor (Blacksmith); speed, hit points, to Elite Battle Elephant 1200F, 750G (Stable); creation speed (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
 26417 "Create <b>Heavy Camel Rider<b> (<cost>) \nFast anti-cavalry unit. Strong vs. cavalry. Weak vs. Pikemen, Monks, and archers.<i> Upgrades: attack, armor (Blacksmith); speed, hit points, to Imperial Camel Rider 1000F, 750G  (Stable); creation speed (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
 26448 "Build <b>Onager<b> (<cost>) \nRanged siege weapon with area of effect attack, but cannot attack enemies at close range. Strong vs. tight groups of units. Can attack ground and destroy trees.<i> Upgrades: attack, range (University); to Siege Onager 1200F, 900G (Siege Workshop); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
 
-26102 "Create <b>Chu Ko Nu<b> (<cost>) \nChinese unique archer with rapid-fire attack. Strong vs. infantry. Weak vs. archers and siege weapons. <i> Upgrades: attack, range (Blacksmith); accuracy (Archery Range); attack, accuracy (University); creation speed, to Elite Chu Ko Nu 1000W, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
-26103 "Create <b>Mameluke<b> (<cost>) \nSaracen unique camel unit with ranged melee attack. Strong vs. cavalry. Weak vs. archers and Pikemen. <i> Upgrades: attack, armor (Blacksmith); speed, hit points  (Stable); creation speed, to Elite Mameluke 1000F, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
-26104 "Create <b>Huskarl<b> (<cost>) \nGothic unique infantry unit with high pierce armor. Strong vs. archers and buildings. Weak vs. cavalry. <i> Upgrades: attack, armor (Blacksmith); speed (Barracks); creation speed, to Elite Huskarl 1000F, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
-26105 "Create <b>Janissary<b> (<cost>) \nTurkish unique hand cannoneer with longer range and no minimum range. Strong vs. infantry. Weak vs. archers.<i> Upgrades: armor (Blacksmith); creation speed, to Elite Janissary 1000F, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
-26106 "Build <b>Longboat<b> (<cost>) \nViking unique ship that fires multiple arrows. Strong vs. War Galleys, land units, and buildings. <i> Upgrades: armor, cost, speed, to Elite Longboat 1000W, 500G (Dock); attack, range (Blacksmith); attack, accuracy (University); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
-26107 "Create <b>Longbowman<b> (<cost>) \nBritish unique archer with very long range. Strong vs. infantry. Weak vs. cavalry and Skirmishers. <i> Upgrades: attack, range, armor (Blacksmith); attack, accuracy (University); creation speed, to Elite Longbowman 1000W, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
-26108 "Create <b>Mangudai<b> (<cost>) \nMongol unique cavalry archer with fast-firing attack. Strong vs. siege weapons and infantry. Weak vs. Skirmishers, Pikemen, and Camel Riders. <i> Upgrades: attack, range, armor (Blacksmith); speed, hit points (Stable); accuracy, armor (Archery Range); attack, accuracy (University); creation speed, to Elite Mangudai 1000W, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
-26109 "Create <b>War Elephant<b> (<cost>) \nPersian unique unit. Slow and powerful cavalry. Strong vs. buildings and units at close range. Weak vs. Monks. <i> Upgrades: attack, armor (Blacksmith); speed, hit points  (Stable); creation speed, to Elite War Elephant 1000F, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
-26110 "Create <b>Samurai<b> (<cost>) \nJapanese unique infantry unit with fast attack. Strong vs. unique units and infantry. Weak vs. archers. <i> Upgrades: attack, armor (Blacksmith); speed (Barracks); creation speed, to Elite Samurai 1000F, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
-26111 "Create <b>Throwing Axeman<b> (<cost>) \nFrankish unique infantry unit with ranged melee attack. Strong vs. infantry. Weak vs. archers and siege weapons. <i> Upgrades: attack, armor (Blacksmith); speed (Barracks); creation speed, to Elite Throwing Axeman 1000F, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
-26112 "Create <b>Teutonic Knight<b> (<cost>) \nTeutonic unique infantry unit. Slow and powerful. Strong vs. melee units. Weak vs. archers and Scorpions. <i> Upgrades: attack, armor (Blacksmith); speed (Barracks); creation speed, to Elite Teutonic Knight 1000F, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
-26113 "Create <b>Woad Raider<b> (<cost>) \nCeltic unique infantry unit. Fast-moving. Strong vs. infantry and siege weapons. Weak vs. archers and cavalry. <i> Upgrades: attack, armor (Blacksmith); speed (Barracks); creation speed, to Elite Woad Raider 1000F, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
-26129 "Create <b>Organ Gun<b> (<cost>) \nPortuguese unique siege unit. Fires a volley of bullets. Strong vs. large groups of units. Weak vs. cavalry and Mangonels.<i> Upgrades: attack, range (University); creation speed, to Elite Organ Gun 1000F, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
-26132 "Build <b>Caravel<b> (<cost>) \nPortuguese unique ship that fires bolts that pierce multiple units. Strong vs. large groups of ships. Weak vs. Fire Ships.<i> Upgrades: armor, cost, speed, to Elite Caravel 1000w, 500G (Dock); attack, range (Blacksmith); attack, accuracy (University); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
+//Unique Units
+26102 "Create <b>Chu Ko Nu<b> (<cost>) \nChinese unique archer with rapid-fire attack. Strong vs. infantry. Weak vs. archers and siege weapons. <i> Upgrades: attack, range (Blacksmith); accuracy (Archery Range); attack, accuracy (University); creation speed, to Elite Chu Ko Nu 800W, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
+26103 "Create <b>Mameluke<b> (<cost>) \nSaracen unique camel unit with ranged melee attack. Strong vs. cavalry. Weak vs. archers and Pikemen. <i> Upgrades: attack, armor (Blacksmith); speed, hit points  (Stable); creation speed, to Elite Mameluke 800F, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
+26104 "Create <b>Huskarl<b> (<cost>) \nGothic unique infantry unit with high pierce armor. Strong vs. archers and buildings. Weak vs. cavalry. <i> Upgrades: attack, armor (Blacksmith); speed (Barracks); creation speed, to Elite Huskarl 800F, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
+26105 "Create <b>Janissary<b> (<cost>) \nTurkish unique hand cannoneer with longer range and no minimum range. Strong vs. infantry. Weak vs. archers.<i> Upgrades: armor (Blacksmith); creation speed, to Elite Janissary 800F, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
+26106 "Build <b>Longboat<b> (<cost>) \nViking unique ship that fires multiple arrows. Strong vs. War Galleys, land units, and buildings. <i> Upgrades: armor, cost, speed, to Elite Longboat 800W, 500G (Dock); attack, range (Blacksmith); attack, accuracy (University); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
+26107 "Create <b>Longbowman<b> (<cost>) \nBritish unique archer with very long range. Strong vs. infantry. Weak vs. cavalry and Skirmishers. <i> Upgrades: attack, range, armor (Blacksmith); attack, accuracy (University); creation speed, to Elite Longbowman 800W, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
+26108 "Create <b>Mangudai<b> (<cost>) \nMongol unique cavalry archer with fast-firing attack. Strong vs. siege weapons and infantry. Weak vs. Skirmishers, Pikemen, and Camel Riders. <i> Upgrades: attack, range, armor (Blacksmith); speed, hit points (Stable); accuracy, armor (Archery Range); attack, accuracy (University); creation speed, to Elite Mangudai 800W, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
+26109 "Create <b>War Elephant<b> (<cost>) \nPersian unique unit. Slow and powerful cavalry. Strong vs. buildings and units at close range. Weak vs. Monks. <i> Upgrades: attack, armor (Blacksmith); speed, hit points  (Stable); creation speed, to Elite War Elephant 800F, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
+26110 "Create <b>Samurai<b> (<cost>) \nJapanese unique infantry unit with fast attack. Strong vs. unique units and infantry. Weak vs. archers. <i> Upgrades: attack, armor (Blacksmith); speed (Barracks); creation speed, to Elite Samurai 800F, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
+26111 "Create <b>Throwing Axeman<b> (<cost>) \nFrankish unique infantry unit with ranged melee attack. Strong vs. infantry. Weak vs. archers and siege weapons. <i> Upgrades: attack, armor (Blacksmith); speed (Barracks); creation speed, to Elite Throwing Axeman 800F, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
+26112 "Create <b>Teutonic Knight<b> (<cost>) \nTeutonic unique infantry unit. Slow and powerful. Strong vs. melee units. Weak vs. archers and Scorpions. <i> Upgrades: attack, armor (Blacksmith); speed (Barracks); creation speed, to Elite Teutonic Knight 800F, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
+26113 "Create <b>Woad Raider<b> (<cost>) \nCeltic unique infantry unit. Fast-moving. Strong vs. infantry and siege weapons. Weak vs. archers and cavalry. <i> Upgrades: attack, armor (Blacksmith); speed (Barracks); creation speed, to Elite Woad Raider 800F, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
+26129 "Create <b>Organ Gun<b> (<cost>) \nPortuguese unique siege unit. Fires a volley of bullets. Strong vs. large groups of units. Weak vs. cavalry and Mangonels.<i> Upgrades: attack, range (University); creation speed, to Elite Organ Gun 800F, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
+26132 "Build <b>Caravel<b> (<cost>) \nPortuguese unique ship that fires bolts that pierce multiple units. Strong vs. large groups of ships. Weak vs. Fire Ships.<i> Upgrades: armor, cost, speed, to Elite Caravel 800w, 500G (Dock); attack, range (Blacksmith); attack, accuracy (University); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
 26133 "Build <b>Elite Caravel<b> (<cost>) \nPortuguese unique ship that fires bolts that pierce multiple units. Strong vs. large groups of ships. Weak vs. Fire Ships.<i> Upgrades: armor, speed, cost (Dock); attack, range (Blacksmith); attack, accuracy (University); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
-26134 "Create <b>Camel Archer<b> (<cost>) \nBerber unique mounted archer. Strong vs. Cavalry Archers and infantry. Weak vs. Pikemen, Skirmishers, and Camel Riders.<i> Upgrades: attack, range, armor (Blacksmith); speed, hit points (Stable); accuracy, armor (Archery Range); attack, accuracy (University); creation speed, to Elite Camel Archer 1000W, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
-26140 "Create <b>Gbeto<b> (<cost>) \nMalian unique infantry unit with ranged melee attack. Fast-moving. Strong vs. infantry. Weak vs. archers and siege weapons.<i> Upgrades: armor (Blacksmith); creation speed, to Elite Gbeto 1000F, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
-26143 "Create <b>Shotel Warrior<b> (<cost>) \nEthiopian unique infantry with high attack and fast training speed. Fast-moving. Strong vs. infantry. Weak vs. archers.<i> Upgrades: attack, armor (Blacksmith); speed (Barracks); creation speed, to Elite Shotel Warrior 1000F, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
-26447 "Create <b>Boyar<b> (<cost>) \nSlavic unique cavalry unit. Resistant to melee attack.<i> Upgrades: attack, armor (Blacksmith); speed, hit points (Stable); creation speed, to Elite Boyar 1000F, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range> "
-26574 "Create <b>Berserk<b> (<cost>) \nViking unique infantry unit that slowly heals itself. Strong vs. infantry and siege weapons. Weak vs. archers.<i> Upgrades: attack, armor (Blacksmith); speed (Barracks); creation speed, to Elite Berserk 1000F, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
-26667 "Create <b>Jaguar Warrior<b> (<cost>) \nAztec unique infantry unit. Strong vs. infantry. Weak vs. cavalry and archers.<i> Upgrades: attack, armor (Blacksmith); speed (Barracks); creation speed, to Elite Jaguar Warrior 1000F, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
-26675 "Create <b>Tarkan<b> (<cost>) \nHunnic unique cavalry unit with attack bonus vs. buildings. Strong vs. buildings and archers. Weak vs. Pikemen and Camel Riders.<i> Upgrades: attack, armor (Blacksmith); speed, hit points (Stable); creation speed, to Elite Tarkan 1000F, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
-26679 "Create <b>Huskarl<b> (<cost>) \nGothic unique infantry unit with high pierce armor. Strong vs. archers and buildings. Weak vs. cavalry.<i> Upgrades: attack, armor (Blacksmith); speed (Barracks); creation speed, to Elite Huskarl 1000F, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
-26682 "Create <b>Elephant Archer<b> (<cost>) \nIndian unique mounted archer unit. Strong vs. archers and infantry. Weak vs. Pikemen, Skirmishers, and Camel Riders.<i> Upgrades: attack, range, armor (Blacksmith); speed, hit points (Stable); accuracy (Archery Range); attack,accuracy (University); creation speed, to Elite Elephant Archer 1000F, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
-26683 "Create <b>Plumed Archer<b> (<cost>) \nMayan unique fast-moving archer. Strong vs. archers and infantry. Weak vs. cavalry.<i> Upgrades: attack, range, armor (Blacksmith); accuracy (Archery Range); attack, accuracy (University); creation speed, to Elite Plumed Archer 1000W, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
-26686 "Create <b>Kamayuk<b> (<cost>) \nInca unique spearman with increased attack range. Strong vs. cavalry and infantry. Weak vs. archers.<i> Upgrades: attack, armor (Blacksmith); speed (Barracks); creation speed, to Elite Kamayuk 1000F, 500G  (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
-26687 "Create <b>Conquistador<b> (<cost>) \nSpanish unique mounted hand cannoneer. Strong vs. infantry. Weak vs. Pikemen, Skirmishers, and Monks.<i> Upgrades: armor (Blacksmith); speed, hit points (Stable); creation speed, to Elite Conquistador 1000F, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
-26723 "Create <b>Genoese Crossbowman<b> (<cost>) \nItalian unique archer. Strong vs. cavalry and infantry. Weak vs. archers and siege weapons.<i> Upgrades: attack, range, armor (Blacksmith); accuracy (Archery Range); attack, accuracy (University); creation speed, to Elite Genoese Crossbowman 1000W, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
-26727 "Create <b>War Wagon<b> (<cost>) \nKorean unique cavalry archer unit. Strong vs. infantry and archers. Weak vs. Pikemen, Skirmishers, and Camel Riders.<i> Upgrades: attack, range, armor (Blacksmith); speed (Stable); accuracy (Archery Range); attack, accuracy (University); creation speed, to Elite War Wagon 1000W, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
-26728 "Create <b>Magyar Huszar<b> (<cost>) \nMagyar unique light cavalry unit. Strong vs. siege weapons. Weak vs. Pikemen and Camel Riders.<i> Upgrades: attack, armor (Blacksmith); speed, hit points (Stable); creation speed, to Elite Magyar Huszar 1000F, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
-26731 "Build <b>Turtle Ship<b> (<cost>) \nKorean unique ship. Slow and ironclad. Strong vs. warships and buildings.<i> Upgrades: armor, speed, cost, to Elite Turtle Ship 1000W, 500G (Dock); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
-26151 "Create <b>Arambai<b> (<cost>) \nBurmese unique cavalry archer with a powerful but inaccurate dart attack. Strong vs. infantry and cavalry. Weak vs. archers.<i> Upgrades: armor (Blacksmith); speed, hit points (Stable); accuracy (University); creation speed, to Elite Arambai 1000F, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
-26165 "Create <b>Rattan Archer<b> (<cost>) \nVietnamese unique archer with high pierce armor. Strong vs. archers and infantry. Weak vs. cavalry and Skirmishers.<i> Upgrades: attack, range, armor (Blacksmith); accuracy, armor (Archery Range); attack, accuracy (University); creation speed, to Elite Rattan Archer 1000W, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
-26148 "Create <b>Karambit Warrior<b> (<cost>) \nMalay unique infantry unit. Cheap and only takes half a population unit. Strong in high numbers. Weak vs. cavalry and archers.<i> Upgrades: attack, armor (Blacksmith); speed (Barracks); creation speed, to Elite Karambit Warrior 1000F, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
-26146 "Create <b>Ballista Elephant<b> (<cost>) \nKhmer unique elephant equipped with a Scorpion. Can destroy trees. Strong vs. infantry and archers. Weak vs. cavalry and siege weapons.<i> Upgrades: armor (Blacksmith); speed, hit points (Stable); attack, range (University); creation speed, to Elite Ballista Elephant 1000F, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
-26288 "Create <b>Konnik<b> (<cost>) \nBulgarian unique cavalry unit that fights on as infantry when felled. Strong vs. infantry and archers. Weak vs. Camel Riders and Monks.<i> Upgrades: attack, armor (Blacksmith); speed, hit points (Stable); creation speed, to Elite Konnik 1000F, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
-26313 "Create <b>Keshik<b> (<cost>) \nTatar unique cavalry unit that generates gold when fighting other units.<i> Upgrades: attack, armor (Blacksmith); speed, hit points (Stable); creation speed, to Elite Keshik 1000F, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
-26315 "Create <b>Kipchak<b> (<cost>) \nCuman unique cavalry archer with rapid-fire attack. Strong vs. infantry. Weak vs. Skirmishers.<i> Upgrades: attack, range, armor (Blacksmith); speed, hit points (Stable); accuracy, armor (Archery Range); attack, accuracy (University); creation speed, to Elite Kipchak 1000W, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
-26328 "Create <b>Leitis<b> (<cost>) \nLithuanian unique cavalry unit with attack that ignores armor. Strong vs. armored units.<i> Upgrades: attack, armor (Blacksmith); speed, hit points (Stable); creation speed, to Elite Leitis 1000F, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
-26534 "Create <b>Coustillier<b> (<cost>) \nBurgundian unique cavalry unit which can charge its attack. Strong vs. infantry and archers. Weak vs. Camel Riders and Monks.<i> Upgrades: attack, armor (Blacksmith); speed, hit points (Stable); creation speed, to Elite Coustillier 1000F, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
-26538 "Create <b>Serjeant<b> (<cost>) \nSicilian unique infantry unit which can construct Donjons.<i> Upgrades: attack, armor (Blacksmith); speed (Barracks); creation speed, to Elite Serjeant 1000F, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
+26134 "Create <b>Camel Archer<b> (<cost>) \nBerber unique mounted archer. Strong vs. Cavalry Archers and infantry. Weak vs. Pikemen, Skirmishers, and Camel Riders.<i> Upgrades: attack, range, armor (Blacksmith); speed, hit points (Stable); accuracy, armor (Archery Range); attack, accuracy (University); creation speed, to Elite Camel Archer 800W, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
+26140 "Create <b>Gbeto<b> (<cost>) \nMalian unique infantry unit with ranged melee attack. Fast-moving. Strong vs. infantry. Weak vs. archers and siege weapons.<i> Upgrades: armor (Blacksmith); creation speed, to Elite Gbeto 800F, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
+26143 "Create <b>Shotel Warrior<b> (<cost>) \nEthiopian unique infantry with high attack and fast training speed. Fast-moving. Strong vs. infantry. Weak vs. archers.<i> Upgrades: attack, armor (Blacksmith); speed (Barracks); creation speed, to Elite Shotel Warrior 800F, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
+26447 "Create <b>Boyar<b> (<cost>) \nSlavic unique cavalry unit. Resistant to melee attack.<i> Upgrades: attack, armor (Blacksmith); speed, hit points (Stable); creation speed, to Elite Boyar 800F, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range> "
+26574 "Create <b>Berserk<b> (<cost>) \nViking unique infantry unit that slowly heals itself. Strong vs. infantry and siege weapons. Weak vs. archers.<i> Upgrades: attack, armor (Blacksmith); speed (Barracks); creation speed, to Elite Berserk 800F, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
+26667 "Create <b>Jaguar Warrior<b> (<cost>) \nAztec unique infantry unit. Strong vs. infantry. Weak vs. cavalry and archers.<i> Upgrades: attack, armor (Blacksmith); speed (Barracks); creation speed, to Elite Jaguar Warrior 800F, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
+26675 "Create <b>Tarkan<b> (<cost>) \nHunnic unique cavalry unit with attack bonus vs. buildings. Strong vs. buildings and archers. Weak vs. Pikemen and Camel Riders.<i> Upgrades: attack, armor (Blacksmith); speed, hit points (Stable); creation speed, to Elite Tarkan 800F, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
+26679 "Create <b>Huskarl<b> (<cost>) \nGothic unique infantry unit with high pierce armor. Strong vs. archers and buildings. Weak vs. cavalry.<i> Upgrades: attack, armor (Blacksmith); speed (Barracks); creation speed, to Elite Huskarl 800F, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
+26682 "Create <b>Elephant Archer<b> (<cost>) \nIndian unique mounted archer unit. Strong vs. archers and infantry. Weak vs. Pikemen, Skirmishers, and Camel Riders.<i> Upgrades: attack, range, armor (Blacksmith); speed, hit points (Stable); accuracy (Archery Range); attack,accuracy (University); creation speed, to Elite Elephant Archer 800W, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
+26683 "Create <b>Plumed Archer<b> (<cost>) \nMayan unique fast-moving archer. Strong vs. archers and infantry. Weak vs. cavalry.<i> Upgrades: attack, range, armor (Blacksmith); accuracy (Archery Range); attack, accuracy (University); creation speed, to Elite Plumed Archer 800W, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
+26686 "Create <b>Kamayuk<b> (<cost>) \nInca unique spearman with increased attack range. Strong vs. cavalry and infantry. Weak vs. archers.<i> Upgrades: attack, armor (Blacksmith); speed (Barracks); creation speed, to Elite Kamayuk 800F, 500G  (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
+26687 "Create <b>Conquistador<b> (<cost>) \nSpanish unique mounted hand cannoneer. Strong vs. infantry. Weak vs. Pikemen, Skirmishers, and Monks.<i> Upgrades: armor (Blacksmith); speed, hit points (Stable); creation speed, to Elite Conquistador 800F, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
+26723 "Create <b>Genoese Crossbowman<b> (<cost>) \nItalian unique archer. Strong vs. cavalry and infantry. Weak vs. archers and siege weapons.<i> Upgrades: attack, range, armor (Blacksmith); accuracy (Archery Range); attack, accuracy (University); creation speed, to Elite Genoese Crossbowman 800W, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
+26727 "Create <b>War Wagon<b> (<cost>) \nKorean unique cavalry archer unit. Strong vs. infantry and archers. Weak vs. Pikemen, Skirmishers, and Camel Riders.<i> Upgrades: attack, range, armor (Blacksmith); speed (Stable); accuracy (Archery Range); attack, accuracy (University); creation speed, to Elite War Wagon 800W, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
+26728 "Create <b>Magyar Huszar<b> (<cost>) \nMagyar unique light cavalry unit. Strong vs. siege weapons. Weak vs. Pikemen and Camel Riders.<i> Upgrades: attack, armor (Blacksmith); speed, hit points (Stable); creation speed, to Elite Magyar Huszar 800F, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
+26731 "Build <b>Turtle Ship<b> (<cost>) \nKorean unique ship. Slow and ironclad. Strong vs. warships and buildings.<i> Upgrades: armor, speed, cost, to Elite Turtle Ship 800W, 500G (Dock); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
+26151 "Create <b>Arambai<b> (<cost>) \nBurmese unique cavalry archer with a powerful but inaccurate dart attack. Strong vs. infantry and cavalry. Weak vs. archers.<i> Upgrades: armor (Blacksmith); speed, hit points (Stable); accuracy (University); creation speed, to Elite Arambai 800F, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
+26165 "Create <b>Rattan Archer<b> (<cost>) \nVietnamese unique archer with high pierce armor. Strong vs. archers and infantry. Weak vs. cavalry and Skirmishers.<i> Upgrades: attack, range, armor (Blacksmith); accuracy, armor (Archery Range); attack, accuracy (University); creation speed, to Elite Rattan Archer 800W, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
+26148 "Create <b>Karambit Warrior<b> (<cost>) \nMalay unique infantry unit. Cheap and only takes half a population unit. Strong in high numbers. Weak vs. cavalry and archers.<i> Upgrades: attack, armor (Blacksmith); speed (Barracks); creation speed, to Elite Karambit Warrior 800F, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
+26146 "Create <b>Ballista Elephant<b> (<cost>) \nKhmer unique elephant equipped with a Scorpion. Can destroy trees. Strong vs. infantry and archers. Weak vs. cavalry and siege weapons.<i> Upgrades: armor (Blacksmith); speed, hit points (Stable); attack, range (University); creation speed, to Elite Ballista Elephant 800F, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
+26288 "Create <b>Konnik<b> (<cost>) \nBulgarian unique cavalry unit that fights on as infantry when felled. Strong vs. infantry and archers. Weak vs. Camel Riders and Monks.<i> Upgrades: attack, armor (Blacksmith); speed, hit points (Stable); creation speed, to Elite Konnik 800F, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
+26313 "Create <b>Keshik<b> (<cost>) \nTatar unique cavalry unit that generates gold when fighting other units.<i> Upgrades: attack, armor (Blacksmith); speed, hit points (Stable); creation speed, to Elite Keshik 800F, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
+26315 "Create <b>Kipchak<b> (<cost>) \nCuman unique cavalry archer with rapid-fire attack. Strong vs. infantry. Weak vs. Skirmishers.<i> Upgrades: attack, range, armor (Blacksmith); speed, hit points (Stable); accuracy, armor (Archery Range); attack, accuracy (University); creation speed, to Elite Kipchak 800W, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
+26328 "Create <b>Leitis<b> (<cost>) \nLithuanian unique cavalry unit with attack that ignores armor. Strong vs. armored units.<i> Upgrades: attack, armor (Blacksmith); speed, hit points (Stable); creation speed, to Elite Leitis 800F, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
+26534 "Create <b>Coustillier<b> (<cost>) \nBurgundian unique cavalry unit which can charge its attack. Strong vs. infantry and archers. Weak vs. Camel Riders and Monks.<i> Upgrades: attack, armor (Blacksmith); speed, hit points (Stable); creation speed, to Elite Coustillier 800F, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
+26538 "Create <b>Serjeant<b> (<cost>) \nSicilian unique infantry unit which can construct Donjons.<i> Upgrades: attack, armor (Blacksmith); speed (Barracks); creation speed, to Elite Serjeant 800F, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
+26561 "Build <b>Hussite Wagon<b> (<cost>) \nBohemian unique siege unit. Units behind it receive 50% less damage from incoming projectiles. Strong vs. archers. Weak vs. siege weapons.<i> Upgrades: attack, range (University); creation speed, to Elite Hussite Wagon 800W, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
+26558 "Create <b>Obuch<b> (<cost>) \nPolish unique infantry unit which can damage the armor of units it is fighting. Strong vs. buildings and infantry. Weak vs. archers at long range.<i> Upgrades: attack, armor (Blacksmith); speed (Barracks); creation speed, to Elite Obuch 800F, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
 
+//Aztecs
+8429 "Research Garland Wars (Infantry and Xolotl Warriors +4 attack)"
+28429 "Research <b>Garland Wars<b> (<cost>) \nInfantry and Xolotl Warriors +4 attack."
+120164 "Infantry and Monk civilization \n\n• Villagers carry +5 \n• Military units created 15% faster \n• +5 Monk hit points for each Monastery technology \n• Start with +50 gold\n\n<b>Unique Unit:<b>  \nJaguar Warrior (infantry) \n\n<b>Unique Techs:<b>  \n• Atlatl (Skirmishers +1 attack, +1 range) \n• Garland Wars (Infantry and Xolotl Warriors +4 attack)\n\n<b>Team Bonus:<b>  \nRelics generate +33% gold"
+
+//Berbers
 8257 "Research Maghrebi Camels (Camel units regenerate and move 10% faster)"
 28257 "Research <b>Maghrebi Camels<b> (<cost>) \nCamel units regenerate and move 10% faster."
 120176 "Cavalry and Naval civilization \n\n• Villagers move 10% faster \n• Stable units cost -15% Castle, -20% Imperial Age \n• Ships move 10% faster \n\n<b>Unique Units:<b>  \nCamel Archer (cavalry archer), Genitour (mounted skirmisher)\n\n<b>Unique Techs:<b>  \n• Kasbah (team castles work 25% faster) \n• Maghrebi Camels (Camel units regenerate and move 10% faster)\n\n<b>Team Bonus:<b>  \nGenitour available in the Archery Range starting in the Castle Age"
 26137 "Create <b>Genitour<b> (<cost>) \nMounted skirmisher. Strong vs. archers. Weak vs. units at close range. Trainable by Berbers and their allies.<i> Upgrades: speed, hit points (Stable); attack, range, armor (Blacksmith); attack, accuracy (University); accuracy, armor, (Archery Range); creation speed (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
 
-8311 "Research Steppe Husbandry (Scout Cavalry line, Steppe Lancers and Cavalry Archers trained 100% faster)"
-28311 "Research <b>Steppe Husbandry<b> (<cost>) \nScout Cavalry line, Steppe Lancers and Cavalry Archers trained 100% faster."
-120183 "Cavalry civilization \n\n• Additional Town Center can be built in the Feudal Age \n• Siege Workshop and Battering Ram available in the Feudal Age; Capped Ram upgrade available in Castle Age\n• Cavalry 5% faster each age (starting in Feudal Age) \n\n<b>Unique Unit:<b> \nKipchak (cavalry archer)\n\n<b>Unique Techs:<b> \n• Steppe Husbandry (Scout Cavalry line, Steppe Lancers and Cavalry Archers trained 100% faster) \n• Cuman Mercenaries (team members can create 10 free Elite Kipchaks in the Castle)\n\n<b>Team Bonus:<b> \nPalisade Walls +33% HP"
+//Bohemians
+8351 "Research Hussite Reforms (Monastery upgrades have their gold cost replaced by food)"
+28351 "Research <b>Hussite Reforms<b> (<cost>) \nMonastery upgrades have their gold cost replaced by food."
+120188 "Gunpowder and Monk civilization \n\n• Blacksmiths, Monasteries and Universities cost -100 wood \n• Chemistry and Hand Cannoneer available in Castle Age \n• Spearman-line deals +25% bonus damage \n• Fervor and Sanctity affect Villagers \n• Mining Camp technologies free \n\n<b>Unique Units:<b> \nHussite Wagon (siege weapon), Houfnice (bombard cannon)\n\n<b>Unique Techs:<b> \n• Wagenburg Tactics (Gunpowder units move 15% faster) \n• Hussite Reforms (Monastery upgrades have their gold cost replaced by food)\n\n<b>Team Bonus:<b> \nMarkets work 80% faster"
 
-120150 "Foot Archer civilization \n\n• Town Centers cost -50% wood (starting in Castle Age) \n• Foot archers (except skirmishers) have +1 range per age (starting in Castle Age) \n• Shepherds work 25% faster \n\n<b>Unique Unit:<b>  \nLongbowman (archer) \n\n<b>Unique Techs:<b>  \n• Yeomen (foot archers +1 range; towers +2 attack) \n• Warwolf (Trebuchets do blast damage)\n\n<b>Team Bonus:<b>  \nArchery Ranges work 20% faster"
+//Britons
+8419 "Research Yeomen (Foot Archers +1 range; Towers +2 attack)"
+28419 "Research <b>Yeomen<b> (<cost>) \nFoot Archers +1 range; Towers +2 attack."
+120150 "Foot Archer civilization \n\n• Town Centers cost -50% wood (starting in Castle Age) \n• Foot archers (except skirmishers) have +1 range per age (starting in Castle Age) \n• Shepherds work 25% faster \n\n<b>Unique Unit:<b>  \nLongbowman (archer) \n\n<b>Unique Techs:<b>  \n• Yeomen (Foot Archers +1 range; Towers +2 attack) \n• Warwolf (Trebuchets do blast damage)\n\n<b>Team Bonus:<b>  \nArchery Ranges work 20% faster"
 
-120154 "Infantry civilization \n\n• Fishing Ships 2x hit points, +2P armor; work rate +5% Dark, +10% Feudal, +15% Castle, +20% Imperial Age \n• Mill, Lumber/Mining Camps cost -50% \n• Infantry attack 33% faster (starting in Feudal Age) \n\n<b>Unique Unit:<b>  \nSamurai (infantry) \n\n<b>Unique Techs:<b>  \n• Yasama (Towers shoot extra arrows) \n• Kataparuto (Trebuchets fire, pack faster)\n\n<b>Team Bonus:<b>  \nGalley-line +50% line of sight"
+//Bulgarians
+120181 "Infantry and Cavalry civilization \n\n• Militia-line upgrades free \n• Town Centers cost -50% stone (starting in Castle Age) \n• Blacksmith and Siege Workshop technologies cost -50% food\n• Can build Krepost \n\n<b>Unique Unit:<b> \nKonnik (cavalry)\n\n<b>Unique Techs:<b> \n• Stirrups (Cavalry attack 33% faster) \n• Bagains (Militia-line gains +5 armor) \n\n<b>Team Bonus:<b> \nBlacksmiths work 80% faster"
 
-7307 "Cavalry Tactics"
-8307 "Research Cavalry Tactics (Cavalry attack 33% faster)"
-17307 "Cavalry Tactics"
-28307 "Research <b>Cavalry Tactics<b> (<cost>) \nCavalry attack 33% faster."
-120181 "Infantry and Cavalry civilization \n\n• Militia-line upgrades free \n• Town Centers cost -50% stone (starting in Castle Age) \n• Blacksmith and Siege Workshop technologies cost -50% food\n• Can build Krepost in Castle Age \n\n<b>Unique Unit:<b> \nKonnik (cavalry)\n\n<b>Unique Techs:<b> \n• Cavalry Tactics (Cavalry attack 33% faster) \n• Bagains (Militia-line gains +5 armor) \n\n<b>Team Bonus:<b> \nBlacksmiths work 80% faster"
+//Burgundians
+8343 "Research Flemish Revolution (Villagers +40 hit points, +4 attack, +2/+2P armor; create Flemish Militia at Town Centers)"
+28343 "Research <b>Flemish Revolution<b> (<cost>) \nVillagers +40 hit points, +4 attack, +2/+2P armor; create Flemish Militia at Town Centers."
+120185 "Cavalry civilization \n\n• Economic upgrades available one age earlier and cost -50% food \n• Stable technologies cost -50% \n• Cavalier upgrade available in Castle Age \n• Gunpowder units +25% attack \n\n<b>Unique Units:<b> \nCoustillier (cavalry), Flemish Militia (infantry)\n\n<b>Unique Techs:<b> \n• Burgundian Vineyards (Convert half of the food into gold; Farmers slowly generate gold in addition to food) \n• Flemish Revolution (Villagers +40 hit points, +4 attack, +2/+2P armor; create Flemish Militia at Town Centers)\n\n<b>Team Bonus:<b> \nRelics generate both Gold & Food"
 
-7325 "Reconquest"
-8325 "Research Reconquest (Militia-line, Knight-line and Cannoneers +6 attack vs. Camels; Militia-line, Knight-line, Cannoneers and Monks +2 line of sight)"
-17325 "Reconquest"
-28325 "Research <b>Reconquest<b> (<cost>) \nMilitia-line, Knight-line and Cannoneers +6 attack vs. Camels; Militia-line, Knight-line, Cannoneers and Monks +2 line of sight."
-120163 "Gunpowder and Monk civilization \n\n• Builders work 33% faster \n• Blacksmith upgrades don't cost gold \n• Cannon Galleons benefit from Ballistics \n• Gunpowder units fire 18% faster\n\n<b>Unique Units:<b>  \nConquistador (mounted hand cannoneer), Missionary (mounted Monk) \n\n<b>Unique Techs:<b>  \n• Inquisition (Monks convert faster) \n• Reconquest (Militia-line, Knight-line and Cannoneers +6 attack vs. Camels; Militia-line, Knight-line, Cannoneers and Monks +2 line of sight)\n\n<b>Team Bonus:<b>  \nTrade units generate +33% gold"
+//Burmese
 
-8438 "Research Shinkichon (Mangonel-line +1 range and cost -10%)"
-28438 "Research <b>Shinkichon<b> (<cost>) \nMangonel-line +1 range and cost -10%."
-120167 "Archer and Naval civilization \n\n• Villagers +3 line of sight \n• Stone miners work 20% faster \n• Tower upgrades free (Bombard Tower requires Chemistry) \n• Archer armor upgrades free \n• Military units (except siege weapons) cost -20% wood \n\n<b>Unique Units:<b>  \nWar Wagon (cavalry archer), Turtle Ship (war ship)\n\n<b>Unique Techs:<b>  \n• Eupseong (Watch Towers, Guard Towers and Keeps +2 range) \n• Shinkichon (Mangonel-line +1 range and cost -10%)\n\n<b>Team Bonus:<b>  \nMangonel-line minimum range reduced to 1"
 
-8275 "Research Corvinian Army (Magyar Huszars don't cost gold)"
-28275 "Research <b>Corvinian Army<b> (<cost>) \nMagyar Huszars don't cost gold."
-120171 "Cavalry civilization \n\n• Villagers kill wolves with 1 strike \n• Forging, Iron Casting, Blast Furnace free\n• Scout Cavalry line cost -15% \n\n<b>Unique Unit:<b>  \nMagyar Huszar (cavalry)\n\n<b>Unique Techs:<b>  \n• Corvinian Army (Magyar Huszars don't cost gold) \n• Recurve Bow (Cavalry archers +1 range, +1 attack)\n\n<b>Team Bonus:<b>  \nFoot archers +2 line of sight"
+//Byzantines
+8313 "Research Greek Fire (Fire Ships +1 range and do blast damage)"
+28313 "Research <b>Greek Fire<b> (<cost>) \nFire Ships +1 range and do blast damage."
+120156 "Defensive civilization \n\n• Buildings +10% hit points Dark, +20% Feudal, +30% Castle, +40% Imperial Age \n• Camel Riders, Skirmishers, Spearman-line cost -25% \n• Fire ships attack 25% faster \n• Advance to Imperial Age costs -33% \n• Town Watch, Town Patrol free \n\n<b>Unique Unit:<b>  \nCataphract (cavalry) \n\n<b>Unique Techs:<b>  \n• Greek Fire (Fire Ships +1 range and do blast damage) \n• Logistica (Cataphracts cause trample damage)\n\n<b>Team Bonus:<b>  \nMonks +50% heal speed"
 
-7271 "Rajputs"
-8271 "Research Rajputs (Cavalry +1 attack, +1/+1P armor)"
-17271 "Rajputs"
-28271 "Research <b>Rajputs<b> (<cost>) \nCavalry +1 attack, +1/+1P armor."
-8270 "Research Sultans (All gold income (Trade, mines, relics) +15% faster)"
-28270 "Research <b>Sultans<b> (<cost>) \nAll gold income (Trade, mines, relics) +15% faster."
-120169 "Archer and Cavalry civilization \n\n• Villagers cost -10% Dark, -15% Feudal, -20% Castle, -25% Imperial Age \n• Fishermen work 10% faster and carry +10 \n\n<b>Unique Units:<b>  \nElephant Archer (cavalry archer), Imperial Camel Rider (camel rider)\n\n<b>Unique Techs:<b>  \n• Sultans (All gold income (Trade, mines, relics) +15% faster) \n• Rajputs (Cavalry +1 attack, +1/+1P armor)\n\n<b>Team Bonus:<b>  \nCamel units +4 attack vs. buildings"
-
-8313 "Research Greek Fire (Fire Galley line have +1 range and increased blast radius)"
-28313 "Research <b>Greek Fire<b> (<cost>) \nFire Galley line have +1 range and increased blast radius."
-7318 "Incendiaries"
-8318 "Research Incendiaries (Towers do 125% more damage vs. siege weapons; Castles do 25% more damage vs. siege weapons)"
-17318 "Incendiaries"
-28318 "Research <b>Incendiaries<b> (<cost>) \nTowers do 125% more damage vs. siege weapons; Castles do 25% more damage vs. siege weapons."
-26101 "Create <b>Cataphract<b> (<cost>) \nByzantine unique cavalry unit. Deals trample damage. Strong vs. infantry. Weak vs. archers. <i> Upgrades: attack, armor (Blacksmith); speed, hit points (Stable); creation speed, to Elite Cataphract 1000F, 500G (Castle); more resistant to Monks.<i> \n<hp> <attack> <armor> <piercearmor> <range>"
-26451 "Create <b>Elite Cataphract<b> (<cost>) \nByzantine unique cavalry unit. Deals trample damage. Strong vs. infantry. Weak vs. archers.<i> Upgrades: attack, armor (Blacksmith); speed, hit points (Stable); creation speed (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
-120156 "Defensive civilization \n\n• Buildings +10% hit points Dark, +20% Feudal, +30% Castle, +40% Imperial Age \n• Camel Riders, Skirmishers, Spearman-line cost -25% \n• Fire ships attack 25% faster \n• Advance to Imperial Age costs -33% \n• Town Watch, Town Patrol free \n\n<b>Unique Unit:<b>  \nCataphract (cavalry) \n\n<b>Unique Techs:<b>  \n• Greek Fire (Fire Galley line have +1 range and increased blast radius) \n• Incendiaries (Towers do 125% more damage vs. siege weapons; Castles do 25% more damage vs. siege weapons)\n\n<b>Team Bonus:<b>  \nMonks +50% heal speed"
-
-8284 "Research Madrasah (Killed monks return 66% of their cost)"
-28284 "Research <b>Madrasah<b> (<cost>) \nKilled monks return 66% of their cost."
-8424 "Research Zealotry (Archers (except Skirmishers) +2 attack vs. buildings)"
-28424 "Research <b>Zealotry<b> (<cost>) \n Archers (except Skirmishers) +2 attack vs. buildings."
-120158 "Camel and Naval civilization \n\n• Market trade cost only 5% \n• Market costs -100 wood \n• Trade units move 10% faster \n• Galley-line attack 25% faster \n• Camel units +15% hit points \n\n<b>Unique Unit:<b>  \nMameluke (camel rider) \n\n<b>Unique Techs:<b>  \n• Madrasah (Killed monks return 66% of their cost) \n• Zealotry (Archers (except Skirmishers) +2 attack vs. buildings)\n\n<b>Team Bonus:<b>  \nFoot archers +2 attack vs. buildings"
-
-8292 "Research Double Crossbows (Ballista Elephants and Scorpions fire two projectiles; Ballista Elephants +2 attack)"
-28292 "Research <b>Double Crossbows<b> (<cost>) \nBallista Elephants and Scorpions fire two projectiles; Ballista Elephants +2 attack."
-120177 "Siege and Elephant civilization \n\n• No buildings required to advance to the next age or to unlock other buildings \n• Farmers don't require Mills/Town Centers to drop off food \n• Battle Elephants, Ballista Elephants move 10% faster\n• Villagers can garrison in Houses \n\n<b>Unique Unit:<b> \nBallista Elephant (mounted scorpion)\n\n<b>Unique Techs:<b> \n• Tusk Swords (Battle Elephants +3 attack) \n• Double Crossbow (Ballista Elephants and Scorpions fire two projectiles; Ballista Elephants +2 attack) \n\n<b>Team Bonus:<b> \nScorpions minimum range reduced to 0"
-
-8252 "Research Royal Heirs (Shotel Warriors trained nearly instantly)"
-28252 "Research <b>Royal Heirs<b> (<cost>) \nShotel Warriors trained nearly instantly."
-120174 "Archer and Siege civilization \n\n• Archers fire 18% faster \n• Receive +100 food and +100 gold after advancing to each age \n• Pikeman, Halberdier upgrades free\n\n<b>Unique Unit:<b>  \nShotel Warrior (infantry)\n\n<b>Unique Techs:<b>  \n• Royal Heirs (Shotel Warriors trained nearly instantly) \n• Torsion Engines (increases blast radius of Siege Workshop units)\n\n<b>Team Bonus:<b>  \nTowers and Outposts +4 line of sight"
-
-8254 "Research Tigui (Town Centers fire arrows when ungarrisoned)"
-28254 "Research <b>Tigui<b> (<cost>) \nTown Centers fire arrows when ungarrisoned."
-120175 "Infantry civilization \n\n• Buildings cost -15% wood \n• Barracks units +1P armor per age (starting in Feudal Age)\n• Gold Mining, Gold Shaft Mining free \n\n<b>Unique Unit:<b>  \nGbeto (infantry)\n\n<b>Unique Techs:<b>  \n• Tigui (Town Centers fire arrows when ungarrisoned) \n• Farimba (Cavalry +5 attack)\n\n<b>Team Bonus:<b>  \nUniversities work 80% faster"
-
+//Celts
 8421 "Research Furor Celtica (Siege Worskhop units +40% hit points)"
 28421 "Research <b>Furor Celtica<b> (<cost>) \nSiege Worskhop units +40% hit points."
 120162 "Infantry and Siege civilization \n\n• Infantry move 15% faster (starting in Feudal Age) \n• Lumberjacks work 15% faster \n• Siege weapons fire 25% faster \n• Can steal sheep, and sheep within one Celt unit's line of sight cannot be stolen \n\n<b>Unique Unit:<b>  \nWoad Raider (infantry) \n\n<b>Unique Techs:<b>  \n• Stronghold (Castles and towers fire 25% faster) \n• Furor Celtica (Siege Worskhop units +40% hit points)\n\n<b>Team Bonus:<b>  \nSiege Workshops work 20% faster"
 
-8268 "Research Orthodoxy (Monks +4/+4P armor)"
-28268 "Research <b>Orthodoxy<b> (<cost>) \nMonks +4/+4P armor."
-120172 "Infantry and Siege civilization \n\n• Farmers work 15% faster \n• Supplies free \n• Siege Workshop units 15% cheaper\n\n<b>Unique Unit:<b>  \nBoyar (cavalry)\n\n<b>Unique Techs:<b>  \n• Orthodoxy (Monks +4/+4P armor) \n• Druzhina (Infantry damage adjacent units)\n\n<b>Team Bonus:<b>  \nMilitary buildings provide +5 population headroom"
-
-8297 "Research Chatras (Battle Elephants +60 hit points)"
-28297 "Research <b>Chatras<b> (<cost>) \nBattle Elephants +60 hit points."
-7298 "Monetary Reform"
-8298 "Research Monetary Reform (Everyone on your team (including you) receives 750 gold)"
-17298 "Monetary Reform"
-28298 "Research <b>Monetary Reform<b> (<cost>) \nEveryone on your team (including you) receives 750 Gold."
-120180 "Archer civilization \n\n• Enemy positions are revealed at the start of the game \n• Economic upgrades don't cost wood \n• Archery Range units +10% hit points Feudal, +15% Castle, +20% Imperial Age \n• Transport Ships 2x hitpoints, +5 carry capacity \n• Conscription free \n\n<b>Unique Units:<b> \nRattan Archer (foot archer) \n\n<b>Unique Techs:<b> \n• Chatras (Battle Elephants +60 hit points) \n• Monetary Reform (Everyone on your team (including you) receives 750 gold)\n\n<b>Team Bonus:<b> \nImperial Skirmisher upgrade available in the Imperial Age"
-
+//Chinese
 8368 "Research Great Wall (Walls and towers +35% hit points)"
 28368 "Research <b>Great Wall<b> (<cost>) \nWalls and towers +35% hit points."
-8432 "Research Rocketry (Scorpions +4 attack, Archer-line +2 attack; Scorpions +1 range)"
-28432 "Research <b>Rocketry<b> (<cost>) \nScorpions +4 attack, Archer-line +2 attack; Scorpions +1 range."
-120155 "Archer civilization \n\n• Start with +3 villagers, -50 wood, -200 food \n• Technologies cost -10% Feudal, -15% Castle, -20% Imperial Age \n• Town Centers support 10 population and +5 line of sight\n• Demolition ships +50% hit points \n\n<b>Unique Unit:<b>  \nChu Ko Nu (archer) \n\n<b>Unique Techs:<b>  \n• Great Wall (Walls and towers +35% hit points) \n• Rocketry (Scorpions +4 attack, Archer-line +2 attack; Scorpions +1 range)\n\n<b>Team Bonus:<b>  \nFarms +60 food"
+8432 "Research Rocketry (Archer-line +2 attack; Scorpions +4 attack and +1 range)"
+28432 "Research <b>Rocketry<b> (<cost>) \nArcher-line +2 attack; Scorpions +4 attack and +1 range."
+120155 "Archer civilization \n\n• Start with +3 villagers, -50 wood, -200 food \n• Technologies cost -10% Feudal, -15% Castle, -20% Imperial Age \n• Town Centers support 10 population and +5 line of sight\n• Demolition ships +50% hit points \n\n<b>Unique Unit:<b>  \nChu Ko Nu (archer) \n\n<b>Unique Techs:<b>  \n• Great Wall (Walls and towers +35% hit points) \n• Rocketry (Archer-line +2 attack; Scorpions +4 attack and +1 range)\n\n<b>Team Bonus:<b>  \nFarms +10% food"
 
+//Cumans
+8311 "Research Steppe Husbandry (Scout Cavalry line, Steppe Lancers and Cavalry Archers trained 100% faster)"
+28311 "Research <b>Steppe Husbandry<b> (<cost>) \nScout Cavalry line, Steppe Lancers and Cavalry Archers trained 100% faster."
+120183 "Cavalry civilization \n\n• Additional Town Center can be built in the Feudal Age \n• Siege Workshop and Battering Ram available in the Feudal Age; Capped Ram upgrade available in Castle Age \n• Archery Ranges and Stables cost -100 wood \n• Cavalry 5% faster each age (starting in Feudal Age) \n\n<b>Unique Unit:<b> \nKipchak (cavalry archer)\n\n<b>Unique Techs:<b> \n• Steppe Husbandry (Scout Cavalry line, Steppe Lancers and Cavalry Archers trained 100% faster) \n• Cuman Mercenaries (team members can create 10 free Elite Kipchaks in the Castle)\n\n<b>Team Bonus:<b> \nPalisade Walls +33% HP"
+
+//Ethiopians
+8252 "Research Royal Heirs (Shotel Warriors trained nearly instantly)"
+28252 "Research <b>Royal Heirs<b> (<cost>) \nShotel Warriors trained nearly instantly."
+120174 "Archer and Siege civilization \n\n• Archers fire 18% faster \n• Receive +100 food and +100 gold after advancing to each age \n• Pikeman, Halberdier upgrades free\n\n<b>Unique Unit:<b>  \nShotel Warrior (infantry)\n\n<b>Unique Techs:<b>  \n• Royal Heirs (Shotel Warriors trained nearly instantly) \n• Torsion Engines (increases blast radius of Siege Workshop units)\n\n<b>Team Bonus:<b>  \nTowers and Outposts +4 line of sight"
+
+//Franks
+8324 "Research Bearded Axe (Throwing Axemen +1 range, +1P armor)"
+28324 "Research <b>Bearded Axe<b> (<cost>) \nThrowing Axemen +1 range, +1P armor."
+120151 "Cavalry civilization \n\n• Castles cost -25% \n• Cavalry +20% hit points Feudal, +25% Castle Age \n• Farm upgrades free (Mill required)\n• Foragers work 20% faster \n\n<b>Unique Unit:<b>  \nThrowing Axeman (infantry) \n\n<b>Unique Techs:<b>  \n• Bearded Axe (Throwing Axemen +1 range, +1P armor) \n• Chivalry (Stables work 40% faster)\n\n<b>Team Bonus:<b>  \nKnights +2 line of sight"
+
+//Goths
 8427 "Research Anarchy (create Huskarls at Barracks)"
 28427 "Research <b>Anarchy<b> (<cost>) \ncreate Huskarls at Barracks."
 120152 "Infantry civilization \n\n• Infantry cost -20% in Dark, -25% in Feudal, -30% in Castle, -35% in Imperial Age \n• Infantry +1 attack vs. buildings per age (starting in Feudal Age) \n• Villagers +5 attack vs. wild boar; hunters carry +15 meat \n• Loom free \n• Receive +5 population headroom and maximum per age (starting in Feudal Age) \n\n<b>Unique Unit:<b>  \nHuskarl (infantry) \n\n<b>Unique Techs:<b>  \n• Anarchy (create Huskarls at Barracks) \n• Perfusion (Barracks work 100% faster) \n\n<b>Team Bonus:<b>  \nBarracks work 20% faster"
 
-8324 "Research Bearded Axe (Throwing Axemen +1 range, +1P armor)"
-28324 "Research <b>Bearded Axe<b> (<cost>) \nThrowing Axemen +1 range, +1P armor."
-8287 "Research Chivalry (Stables work 50% faster)"
-28287 "Research <b>Chivalry<b> (<cost>) \nStables work 50% faster."
-120151 "Cavalry civilization \n\n• Castles cost -25% \n• Cavalry +20% hit points Feudal, +25% Castle Age \n• Farm upgrades free (Mill required)\n• Foragers work 20% faster \n\n<b>Unique Unit:<b>  \nThrowing Axeman (infantry) \n\n<b>Unique Techs:<b>  \n• Bearded Axe (Throwing Axemen +1 range, +1P armor) \n• Chivalry (Stables work 50% faster)\n\n<b>Team Bonus:<b>  \nKnights +2 line of sight"
-
-8423 "Research Mahouts (Elephant units move +30% faster, attack 18% faster)"
-28423 "Research <b>Mahouts<b> (<cost>) \nElephant units move 30% faster, attack 18% faster."
-8281 "Research Kamandaran (Archer-line gold cost is replaced by 45 wood cost)"
-28281 "Research <b>Kamandaran<b> (<cost>) \nArcher-line gold cost is replaced by 45 wood cost."
-120157 "Cavalry civilization \n\n• Start with +50 wood, +50 food \n• Town Center, Dock 2x hit points; work rate +5% Dark, +10% Feudal, +15% Castle, +20% Imperial Age \n\n<b>Unique Unit:<b>  \nWar Elephant (cavalry) \n\n<b>Unique Techs:<b>  \n• Mahouts (Elephant units move 30% faster, attack 18% faster) \n• Kamandaran (Archer-line gold cost is replaced by 45 wood cost)\n\n<b>Team Bonus:<b>  \nKnights +2 attack vs. Archers"
-
-8295 "Research Howdah (Elephant units +2/+2P armor)"
-28295 "Research <b>Howdah<b> (<cost>) \nElephant units +2/+2P armor."
-120179 "Monk and Elephant civilization \n\n• Lumber Camp upgrades free \n• Infantry +1 attack per age (starting in Feudal Age)\n• Monastery techs cost -50% \n\n<b>Unique Unit:<b> \nArambai (ranged cavalry)\n\n<b>Unique Techs:<b> \n• Howdah (Elephant units +2/+2P armor) \n• Manipur Cavalry (Cavalry and Arambai +6 attack vs. buildings)\n\n<b>Team Bonus:<b> \nRelics visible on the map at the start of the game"
-
-8267 "Research Fabric Shields (Kamayuks, Slingers, Eagles, Monks and Xolotl Warriors +1/+2P armor)"
-28267 "Research <b>Fabric Shields<b> (<cost>) \nKamayuks, Slingers, Eagles, Monks and Xolotl Warriors +1/+2P armor."
-120170 "Infantry civilization \n\n• Start with a free Llama \n• Villagers affected by Blacksmith upgrades (starting in Castle Age) \n• Houses support 10 population \n• Buildings cost -15% stone\n\n<b>Unique Units:<b>  \nKamayuk (infantry), Slinger (archer)\n\n<b>Unique Techs:<b>  \n• Andean Sling (Skirmishers and Slingers no minimum range) \n• Fabric Shields (Kamayuks, Slingers, Eagles, Monks and Xolotl Warriors +1/+2P armor)\n\n<b>Team Bonus:<b>  \nFarms +33% hit points, built 100% faster"
-
-8283 "Research Ironclad (Siege weapons +4 normal armor)"
-28283 "Research <b>Ironclad<b> (<cost>) \nSiege weapons +4 normal armor."
-8426 "Research Crenellations (Castles and Town Centers +3 range; Castles, Towers and Town Centers +20% hit points)"
-28426 "Research <b>Crenellations<b> (<cost>) \nCastles and Town Centers +3 range; Castles, Towers and Town Centers +20% hit points."
-120153 "Defensive civilization \n\n• Garrisoned infantry can fire extra arrows; Towers garrison +5 units, Town Centers garrison +10 units; Murder Holes free \n• Monks heal range 2x \n• Barracks and Stable units +1 armor per age (starting in Castle Age) \n• Farms cost -40% \n\n<b>Unique Unit:<b>  \nTeutonic Knight (infantry) \n\n<b>Unique Techs:<b>  \n• Ironclad (Siege weapons +4 normal armor) \n• Crenellations (Castles and Town Centers +3 range; Castles, Towers and Town Centers +20% hit points)\n\n<b>Team Bonus:<b>  \nUnits resist conversion"
-
-8420 "Research El Dorado (Eagle Warriors and Xolotl Warriors +40 hit points)"
-28420 "Research <b>El Dorado<b> (<cost>) \nEagle Warriors and Xolotl Warriors +40 hit points."
-120165 "Archer civilization \n\n• Start with +1 villager, -50 food \n• Resources last 15% longer \n• Archers cost -10% Feudal, -20% Castle, -30% Imperial Age \n\n<b>Unique Unit:<b>  \nPlumed Archer (archer) \n\n<b>Unique Techs:<b>  \n• Hul'che Javelineers (Skirmishers throw a second projectile) \n• El Dorado (Eagle Warriors and Xolotl Warriors +40 hit points)\n\n<b>Team Bonus:<b>  \nWalls cost -50%"
-
-8429 "Research Garland Wars (Infantry and Xolotl Warriors +4 attack)"
-28429 "Research <b>Garland Wars<b> (<cost>) \nInfantry and Xolotl Warriors +4 attack."
-120164 "Infantry and Monk civilization \n\n• Villagers carry +5 \n• Military units created 15% faster \n• +5 Monk hit points for each Monastery technology \n• Start with +50 gold\n\n<b>Unique Unit:<b>  \nJaguar Warrior (infantry) \n\n<b>Unique Techs:<b>  \n• Atlatl (Skirmishers +1 attack, +1 range) \n• Garland Wars (Infantry and Xolotl Warriors +4 attack)\n\n<b>Team Bonus:<b>  \nRelics generate +33% gold"
-
-7273 "Hourglass"
-8273 "Research Hourglass (All land units (villagers, trade, military, monks) train 10% faster)"
-17273 "Hourglass"
-28273 "Research <b>Hourglass<b> (<cost>) \nAll land units (villagers, trade, military, monks) train 10% faster."
-8272 "Research Pavise (Foot Archers and Condottieri +2P armor)"
-28272 "Research <b>Pavise<b> (<cost>) \nFoot Archers and Condottieri +2P armor."
-120168 "Archer and Naval civilization \n\n• Advancing to the next age costs -15% \n• Dock and University technologies cost -33% \n• Fishing Ships cost -15%\n• Gunpowder units cost -20%\n• Trade units cost -25%\n\n<b>Unique Units:<b>  \nGenoese Crossbowman (archer), Condottiero (infantry)\n\n<b>Unique Techs:<b>  \n• Pavise (Foot Archers and Condottieri +2P armor) \n• Hourglass (All land units (villagers, trade, military, monks) train 10% faster)\n\n<b>Team Bonus:<b>  \nCondottiero available in the Barracks starting in the Imperial Age"
-
-7285 "Yaya"
-8285 "Research Yaya (Cavalry Archers +20 hit points; Skirmishers and Spearman-line +10 hit points)"
-17285 "Yaya"
-28285 "Research <b>Yaya<b> (<cost>) \nCavalry Archers +20 hit points; Skirmishers and Spearman-line +10 hit points."
-8425 "Research Artillery (Bombard Towers, Bombard Cannons, Cannon Galleons +2 range)"
-28425 "Research <b>Artillery<b> (<cost>) \n Bombard Towers, Bombard Cannons, Cannon Galleons +2 range."
-120159 "Gunpowder civilization \n\n• Gunpowder units +25% hit points; researching gunpowder technologies costs -50%; Chemistry free \n• Gold miners work 20% faster \n• Light Cavalry, Hussar upgrades free \n\n<b>Unique Unit:<b>  \nJanissary (hand cannoneer) \n\n<b>Unique Techs:<b>  \n• Yaya (Cavalry Archers +20 hit points; Skirmishers and Spearman-line +10 hit points) \n• Artillery (Bombard Towers, Bombard Cannons, Cannon Galleons +2 range)\n\n<b>Team Bonus:<b>  \nGunpowder units created 25% faster"
-
+//Huns
 8370 "Research Marauders (create Tarkans at Stables)"
 28370 "Research <b>Marauders<b> (<cost>) \ncreate Tarkans at Stables."
 7428 "Paganism"
@@ -211,40 +140,143 @@
 28428 "Research <b>Paganism<b> (<cost>) \nMonk gold cost is replaced by 100 food cost."
 120166 "Cavalry civilization \n\n• Do not need houses, but start with -100 wood \n• Cavalry Archers cost -15% Castle, -20% Imperial Age \n• Trebuchets have 100% accuracy \n• +100 years Relic, Wonder victories; Spies/Treason costs -50%\n\n<b>Unique Unit:<b>  \nTarkan (cavalry) \n\n<b>Unique Techs:<b>  \n• Marauders (create Tarkans at Stables) \n• Paganism (Monk gold cost is replaced by 100 food cost)\n\n<b>Team Bonus:<b>  \nStables work 20% faster"
 
-7312 "Keels"
-8312 "Research Keels (Galley-line +2 normal armor)"
-17312 "Keels"
-28312 "Research <b>Keels<b> (<cost>) \nGalley-line +2 normal armor."
-8431 "Research Berserkergang (Berserks regenerate faster; Infantry +7 attack vs. cavalry)"
-28431 "Research <b>Berserkergang<b> (<cost>) \nBerserks regenerate faster; Infantry +7 attack vs. cavalry."
-120160 "Infantry and Naval civilization \n\n• Warships cost -15% Feudal, -20% Castle Age \n• Infantry +10% hit points Feudal, +15% Castle, +20% Imperial Age \n• Wheelbarrow, Hand Cart free \n\n<b>Unique Units:<b>  \nBerserk (infantry), Longboat (warship) \n\n<b>Unique Techs:<b>  \n• Keels (Galley-line +2 normal armor) \n• Berserkergang (Berserks regenerate faster; Infantry +7 attack vs. cavalry)\n\n<b>Team Bonus:<b>  \nDocks cost -15%"
+//Incas
+8267 "Research Fabric Shields (Kamayuks, Slingers, Eagles, Monks and Xolotl Warriors +1/+2P armor)"
+28267 "Research <b>Fabric Shields<b> (<cost>) \nKamayuks, Slingers, Eagles, Monks and Xolotl Warriors +1/+2P armor."
+120170 "Infantry civilization \n\n• Start with a free Llama \n• Villagers affected by Blacksmith upgrades (starting in Castle Age) \n• Houses support 10 population \n• Buildings cost -15% stone\n\n<b>Unique Units:<b>  \nKamayuk (infantry), Slinger (archer)\n\n<b>Unique Techs:<b>  \n• Andean Sling (Skirmishers and Slingers no minimum range) \n• Fabric Shields (Kamayuks, Slingers, Eagles, Monks and Xolotl Warriors +1/+2P armor)\n\n<b>Team Bonus:<b>  \nFarms +33% hit points, built 100% faster"
 
+//Indians
+7271 "Rajputs"
+8271 "Research Rajputs (Cavalry +1 attack, +1 normal armor, +10 hit points)"
+17271 "Rajputs"
+28271 "Research <b>Rajputs<b> (<cost>) \nCavalry +1 attack, +1 normal armor, +10 hit points."
+8270 "Research Sultans (All gold income (Trade, mines, relics) +15% faster)"
+28270 "Research <b>Sultans<b> (<cost>) \nAll gold income (Trade, mines, relics) +15% faster."
+120169 "Archer and Cavalry civilization \n\n• Villagers cost -10% Dark, -15% Feudal, -20% Castle, -25% Imperial Age \n• Fishermen work 10% faster and carry +10 \n• Stable units +1P armor per age (starting in Castle Age)\n\n<b>Unique Units:<b>  \nElephant Archer (cavalry archer), Imperial Camel Rider (camel rider)\n\n<b>Unique Techs:<b>  \n• Sultans (All gold income (Trade, mines, relics) +15% faster) \n• Rajputs (Cavalry +1 attack, +1 normal armor, +10 hit points)\n\n<b>Team Bonus:<b>  \nCamel units +4 attack vs. buildings"
+
+//Italians
+7273 "Hourglass"
+8273 "Research Hourglass (All land units (villagers, trade, military, monks) train 11% faster)"
+17273 "Hourglass"
+28273 "Research <b>Hourglass<b> (<cost>) \nAll land units (villagers, trade, military, monks) train 11% faster."
+8272 "Research Pavise (Foot Archers and Condottieri +2P armor)"
+28272 "Research <b>Pavise<b> (<cost>) \nFoot Archers and Condottieri +2P armor."
+120168 "Archer and Naval civilization \n\n• Advancing to the next age costs -15% \n• Dock and University technologies cost -33% \n• Fishing Ships cost -15%\n• Gunpowder units cost -20%\n• Trade units cost -25%\n\n<b>Unique Units:<b>  \nGenoese Crossbowman (archer), Condottiero (infantry)\n\n<b>Unique Techs:<b>  \n• Pavise (Foot Archers and Condottieri +2P armor) \n• Hourglass (All land units (villagers, trade, military, monks) train 11% faster)\n\n<b>Team Bonus:<b>  \nCondottiero available in the Barracks starting in the Imperial Age"
+
+//Japanese
+120154 "Infantry civilization \n\n• Fishing Ships 2x hit points, +2P armor; work rate +5% Dark, +10% Feudal, +15% Castle, +20% Imperial Age \n• Mill, Lumber/Mining Camps cost -50% \n• Infantry attack 33% faster (starting in Feudal Age) \n\n<b>Unique Unit:<b>  \nSamurai (infantry) \n\n<b>Unique Techs:<b>  \n• Yasama (Towers shoot extra arrows) \n• Kataparuto (Trebuchets fire, pack faster)\n\n<b>Team Bonus:<b>  \nGalley-line +50% line of sight"
+
+//Khmer
+8292 "Research Double Crossbows (Ballista Elephants and Scorpions fire two projectiles; Ballista Elephants +2 attack)"
+28292 "Research <b>Double Crossbows<b> (<cost>) \nBallista Elephants and Scorpions fire two projectiles; Ballista Elephants +2 attack."
+120177 "Siege and Elephant civilization \n\n• No buildings required to advance to the next age or to unlock other buildings \n• Farmers don't require Mills/Town Centers to drop off food \n• Battle Elephants, Ballista Elephants move 10% faster\n• Villagers can garrison in Houses \n\n<b>Unique Unit:<b> \nBallista Elephant (mounted scorpion)\n\n<b>Unique Techs:<b> \n• Tusk Swords (Battle Elephants +3 attack) \n• Double Crossbow (Ballista Elephants and Scorpions fire two projectiles; Ballista Elephants +2 attack) \n\n<b>Team Bonus:<b> \nScorpions minimum range reduced to 0"
+
+//Koreans
+8438 "Research Shinkichon (Mangonel-line +1 range and cost -10%)"
+28438 "Research <b>Shinkichon<b> (<cost>) \nMangonel-line +1 range and cost -10%."
+120167 "Archer and Naval civilization \n\n• Villagers +3 line of sight \n• Stone miners work 20% faster \n• Tower upgrades free (Bombard Tower requires Chemistry) \n• Archer armor upgrades free \n• Military units (except siege weapons) cost -20% wood \n\n<b>Unique Units:<b>  \nWar Wagon (cavalry archer), Turtle Ship (war ship)\n\n<b>Unique Techs:<b>  \n• Eupseong (Watch Towers, Guard Towers and Keeps +2 range) \n• Shinkichon (Mangonel-line +1 range and cost -10%)\n\n<b>Team Bonus:<b>  \nMangonel-line minimum range reduced to 1"
+
+//Lithuanians
+8400 "Research Tower Shields (Spearman-line, Skirmishers and Hand Cannoneers +1/+1P armor)"
+28400 "Research <b>Tower Shields<b> (<cost>) \nSpearman-line, Skirmishers and Hand Cannoneers +1/+1P armor."
+8399 "Research Hill Forts (Town Centers +4 attack)"
+28399 "Research <b>Hill Forts<b> (<cost>) \nTown Centers +4 attack."
+120184 "Cavalry and Monk civilization \n\n• Start with +150 food \n• Spearman-line and Skirmishers move 10% faster\n• Each garrisoned relic gives +1 attack to Knights and Leitis (maximum +4) \n\n<b>Unique Unit:<b> \nLeitis (cavalry)\n\n<b>Unique Techs:<b> \n• Hill Forts (Town Centers +4 attack) \n• Tower Shields (Spearman-line, Skirmishers and Hand Cannoneers +1/+1P armor)\n\n<b>Team Bonus:<b> \nMonasteries work 20% faster"
+
+//Magyars
+8275 "Research Corvinian Army (Magyar Huszars don't cost gold)"
+28275 "Research <b>Corvinian Army<b> (<cost>) \nMagyar Huszars don't cost gold."
+120171 "Cavalry civilization \n\n• Villagers kill wolves with 1 strike \n• Forging, Iron Casting, Blast Furnace free\n• Scout Cavalry line cost -15% \n\n<b>Unique Unit:<b>  \nMagyar Huszar (cavalry)\n\n<b>Unique Techs:<b>  \n• Corvinian Army (Magyar Huszars don't cost gold) \n• Recurve Bow (Cavalry archers +1 range, +1 attack)\n\n<b>Team Bonus:<b>  \nFoot archers +2 line of sight"
+
+//Malay
+8294 "Research Forced Levy (Militia-line gold cost is replaced by 20 food cost)"
+28294 "Research <b>Forced Levy<b> (<cost>) \nMilitia-line gold cost is replaced by 20 food cost."
+120178 "Naval civilization \n\n• Advancing to the next age 66% faster \n• Fish Traps cost -33% and provide 10X food \n• Battle Elephants cost -30% Castle, -40% Imperial Age \n\n<b>Unique Unit:<b> \nKarambit Warrior (infantry)\n\n<b>Unique Techs:<b> \n• Thalassocracy (upgrades Docks to Harbors, which fire arrows) \n• Forced Levy (Militia-line gold cost is replaced by 20 food cost)\n\n<b>Team Bonus:<b> \nDocks +100% line of sight"
+
+//Malians
+8254 "Research Tigui (Town Centers fire arrows when ungarrisoned)"
+28254 "Research <b>Tigui<b> (<cost>) \nTown Centers fire arrows when ungarrisoned."
+120175 "Infantry civilization \n\n• Buildings cost -15% wood \n• Barracks units +1P armor per age (starting in Feudal Age)\n• Gold Mines last 30% longer \n\n<b>Unique Unit:<b>  \nGbeto (infantry)\n\n<b>Unique Techs:<b>  \n• Tigui (Town Centers fire arrows when ungarrisoned) \n• Farimba (Cavalry +5 attack)\n\n<b>Team Bonus:<b>  \nUniversities work 80% faster"
+
+//Mayans
+8420 "Research El Dorado (Eagle Warriors and Xolotl Warriors +40 hit points)"
+28420 "Research <b>El Dorado<b> (<cost>) \nEagle Warriors and Xolotl Warriors +40 hit points."
+120165 "Archer civilization \n\n• Start with +1 villager, -50 food \n• Resources last 15% longer \n• Archers cost -10% Feudal, -20% Castle, -30% Imperial Age \n\n<b>Unique Unit:<b>  \nPlumed Archer (archer) \n\n<b>Unique Techs:<b>  \n• Hul'che Javelineers (Skirmishers throw a second projectile) \n• El Dorado (Eagle Warriors and Xolotl Warriors +40 hit points)\n\n<b>Team Bonus:<b>  \nWalls cost -50%"
+
+//Mongols
+8280 "Research Nomads (Destroyed houses don't lose their population headroom; you receive 300 wood)"
+28280 "Research <b>Nomads<b> (<cost>) \nDestroyed houses don't lose their population headroom; you receive 300 wood."
+120161 "Cavalry Archer civilization \n\n• Cavalry archers fire 25% faster \n• Light Cavalry, Hussars, Steppe Lancers +30% hit points\n• Hunters work 40% faster \n\n<b>Unique Unit:<b>  \nMangudai (cavalry archer) \n\n<b>Unique Techs:<b>  \n• Nomads (Destroyed houses don't lose their population headroom; you receive 300 wood) \n• Drill (Siege Workshop units move 50% faster)\n\n<b>Team Bonus:<b>  \nScout Cavalry line +2 line of sight"
+
+//Persians
+8281 "Research Kamandaran (Archer-line gold cost is replaced by 45 wood cost)"
+28281 "Research <b>Kamandaran<b> (<cost>) \nArcher-line gold cost is replaced by 45 wood cost."
+8423 "Research Mahouts (Elephant units move +30% faster, attack 18% faster)"
+28423 "Research <b>Mahouts<b> (<cost>) \nElephant units move 30% faster, attack 18% faster."
+120157 "Cavalry civilization \n\n• Start with +50 wood, +50 food \n• Town Center, Dock 2x hit points; work rate +5% Dark, +10% Feudal, +15% Castle, +20% Imperial Age \n\n<b>Unique Unit:<b>  \nWar Elephant (cavalry) \n\n<b>Unique Techs:<b>  \n• Kamandaran (Archer-line gold cost is replaced by 45 wood cost) \n• Mahouts (Elephant units move 30% faster, attack 18% faster)\n\n<b>Team Bonus:<b>  \nKnights +2 attack vs. Archers"
+
+//Poles
+
+
+//Portuguese
 8251 "Research Arquebus (Ballistics for gunpowder units; Hand Canoneers +1 range)"
 28251 "Research <b>Arquebus<b> (<cost>) \nBallistics for gunpowder units; Hand Canoneers +1 range."
 120173 "Naval and Gunpowder civilization \n\n• All units cost -20% gold \n• Technologies researched 30% faster \n• Ships +10% HP \n• Can build Feitoria in Imperial Age \n\n<b>Unique Units:<b>  \nOrgan Gun (siege), Caravel (war ship)\n\n<b>Unique Techs:<b>  \n• Carrack (Ships +1/+1 armor) \n• Arquebus (Ballistics for gunpowder units; Hand Canoneers +1 range)\n\n<b>Team Bonus:<b>  \nLine of sight is shared with the team starting in the Dark Age"
 
-8294 "Research Forced Levy (Militia-line gold cost is replaced by 20 food cost)"
-28294 "Research <b>Forced Levy<b> (<cost>) \nMilitia-line gold cost is replaced by 20 food cost."
-120178 "Naval civilization \n\n• Advancing to the next age 66% faster \n• Fish Traps cost -33%\n• Fish Traps provide 3X food \n• Battle Elephants cost -30% Castle, -40% Imperial Age \n\n<b>Unique Unit:<b> \nKarambit Warrior (infantry)\n\n<b>Unique Techs:<b> \n• Thalassocracy (upgrades Docks to Harbors, which fire arrows) \n• Forced Levy (Militia-line gold cost is replaced by 20 food cost)\n\n<b>Team Bonus:<b> \nDocks +100% line of sight"
+//Saracens
+8284 "Research Madrasah (Killed monks return 66% of their cost)"
+28284 "Research <b>Madrasah<b> (<cost>) \nKilled monks return 66% of their cost."
+8424 "Research Zealotry (Archers (except Skirmishers) +2 attack vs. buildings)"
+28424 "Research <b>Zealotry<b> (<cost>) \n Archers (except Skirmishers) +2 attack vs. buildings."
+120158 "Camel and Naval civilization \n\n• Market trade cost only 5% \n• Market costs -100 wood \n• Trade units move 10% faster \n• Galley-line attack 25% faster \n• Camel units +15% hit points \n\n<b>Unique Unit:<b>  \nMameluke (camel rider) \n\n<b>Unique Techs:<b>  \n• Madrasah (Killed monks return 66% of their cost) \n• Zealotry (Archers (except Skirmishers) +2 attack vs. buildings)\n\n<b>Team Bonus:<b>  \nFoot archers +2 attack vs. buildings"
 
+//Sicilians
+120186 "Infantry and Cavalry civilization \n\n• Start with +100 stone \n• Castles and Town Centers built 100% faster \n• Land military units (except siege weapons) receive 50% less bonus damage \n• Farm upgrades provide +100% additional food \n• Transport Ships +5 carry capacity and +10 armor versus anti-ship bonus damage \n• Donjon replaces Watch Tower-line \n\n<b>Unique Unit:<b> \nSerjeant (infantry)\n\n<b>Unique Techs:<b> \n• First Crusade (Each Town Center (maximum 5) spawns a one-time batch of 7 Serjeants; units more resistant to conversion) \n• Hauberk (Knights +1/+2P armor)\n\n<b>Team Bonus:<b> \nFirst Transport Ship free"
+
+//Slavs
+8268 "Research Orthodoxy (Monks +4/+4P armor)"
+28268 "Research <b>Orthodoxy<b> (<cost>) \nMonks +4/+4P armor."
+120172 "Infantry and Siege civilization \n\n• Farmers work 15% faster \n• Supplies free \n• Siege Workshop units 15% cheaper\n\n<b>Unique Unit:<b>  \nBoyar (cavalry)\n\n<b>Unique Techs:<b>  \n• Orthodoxy (Monks +4/+4P armor) \n• Druzhina (Infantry damage adjacent units)\n\n<b>Team Bonus:<b>  \nMilitary buildings provide +5 population headroom"
+
+//Spanish
+7325 "Reconquest"
+8325 "Research Reconquest (Militia-line and Knight-line +6 attack vs. Camels; Militia-line, Knight-line, and Monks +2 line of sight)"
+17325 "Reconquest"
+28325 "Research <b>Reconquest<b> (<cost>) \nMilitia-line and Knight-line +6 attack vs. Camels; Militia-line, Knight-line, and Monks +2 line of sight."
+120163 "Gunpowder and Monk civilization \n\n• Builders work 33% faster \n• Blacksmith upgrades don't cost gold \n• Cannon Galleons benefit from Ballistics \n• Gunpowder units fire 18% faster\n\n<b>Unique Units:<b>  \nConquistador (mounted hand cannoneer), Missionary (mounted Monk) \n\n<b>Unique Techs:<b>  \n• Inquisition (Monks convert faster) \n• Reconquest (Militia-line and Knight-line +6 attack vs. Camels; Militia-line, Knight-line, and Monks +2 line of sight)\n\n<b>Team Bonus:<b>  \nTrade units generate +33% gold"
+
+//Tatars
 8309 "Research Silk Armor (Scout Cavalry line, Steppe Lancers and Cavalry Archers +1/+1P armor)"
 28309 "Research <b>Silk Armor<b> (<cost>) \nScout Cavalry line, Steppe Lancers and Cavalry Archers +1/+1P armor."
 8310 "Research Timurid Siegecraft (Trebuchets +2 range, enables Flaming Camels in the Castle)"
 28310 "Research <b>Timurid Siegecraft<b> (<cost>) \nTrebuchets +2 range, enables Flaming Camels in the Castle."
 120182 "Cavalry Archer civilization \n\n• Villagers gather +50% food from herdables \n• Town Centers spawn 2 Sheep (starting in Feudal Age) \n• Units deal +25% damage when fighting from higher elevation \n• Thumb Ring, Parthian Tactics free \n\n<b>Unique Units:<b> \nKeshik (raiding cavalry), Flaming Camel (petard)\n\n<b>Unique Techs:<b> \n• Silk Armor (Scout Cavalry line, Steppe Lancers and Cavalry Archers +1/+1P armor) \n• Timurid Siegecraft (Trebuchets +2 range, enables Flaming Camels in the Castle)\n\n<b>Team Bonus:<b> \nCavalry Archers +2 line of sight"
 
-8400 "Research Tower Shields (Spearman-line, Skirmishers and Hand Cannoneers +1/+1P armor)"
-28400 "Research <b>Tower Shields<b> (<cost>) \nSpearman-line, Skirmishers and Hand Cannoneers +1/+1P armor."
-8399 "Research Hill Forts (Town Centers +4 attack, +10% hit points)"
-28399 "Research <b>Hill Forts<b> (<cost>) \nTown Centers +4 attack, +10% hit points."
-120184 "Cavalry and Monk civilization \n\n• Start with +150 food \n• Spearman-line and Skirmishers move 10% faster\n• Each garrisoned relic gives +1 attack to Knights and Leitis (maximum +4) \n\n<b>Unique Unit:<b> \nLeitis (cavalry)\n\n<b>Unique Techs:<b> \n• Hill Forts (Town Centers +4 attack, +10% hit points) \n• Tower Shields (Spearman-line, Skirmishers and Hand Cannoneers +1/+1P armor)\n\n<b>Team Bonus:<b> \nMonasteries work 20% faster"
+//Teutons
+8283 "Research Ironclad (Siege weapons +4 normal armor)"
+28283 "Research <b>Ironclad<b> (<cost>) \nSiege weapons +4 normal armor."
+8426 "Research Crenellations (Castles and Town Centers +3 range; Garrisoned infantry fire arrows)"
+28426 "Research <b>Crenellations<b> (<cost>) \nCastles and Town Centers +3 range; Garrisoned infantry fire arrows."
+120153 "Defensive civilization \n\n• Monks healing range 2x \n• Town Centers garrison +10, Towers garrison +5 units \n• Murder Holes, Herbal Medicine free \n• Farms cost -40% \n• Barracks and Stable units +1 normal armor per age (starting in Castle Age) \n\n<b>Unique Unit:<b>  \nTeutonic Knight (infantry) \n\n<b>Unique Techs:<b>  \n• Ironclad (Siege weapons +4 normal armor) \n• Crenellations (Castles and Town Centers +3 range; Garrisoned infantry fire arrows)\n\n<b>Team Bonus:<b>  \nUnits resist conversion"
 
-8280 "Research Nomads (Destroyed houses don't lose their population headroom; you receive 300 wood)"
-28280 "Research <b>Nomads<b> (<cost>) \nDestroyed houses don't lose their population headroom; you receive 300 wood."
-120161 "Cavalry Archer civilization \n\n• Cavalry archers fire 25% faster \n• Light Cavalry, Hussars, Steppe Lancers +30% hit points\n• Hunters work 40% faster \n\n<b>Unique Unit:<b>  \nMangudai (cavalry archer) \n\n<b>Unique Techs:<b>  \n• Nomads (Destroyed houses don't lose their population headroom; you receive 300 wood) \n• Drill (Siege Workshop units move 50% faster)\n\n<b>Team Bonus:<b>  \nScout Cavalry line +2 line of sight"
 
-8343 "Research Flemish Revolution (Villagers +40 hit points, +4 attack, +2/+2P armor; create Flemish Militia at Town Centers)"
-28343 "Research <b>Flemish Revolution<b> (<cost>) \nVillagers +40 hit points, +4 attack, +2/+2P armor; create Flemish Militia at Town Centers."
-120185 "Cavalry civilization \n\n• Economic upgrades available one age earlier and cost -50% food \n• Stable technologies cost -50% \n• Cavalier upgrade available in Castle Age \n• Gunpowder units +25% attack \n\n<b>Unique Units:<b> \nCoustillier (cavalry), Flemish Militia (infantry)\n\n<b>Unique Techs:<b> \n• Burgundian Vineyards (Convert half of the food into gold; Farmers slowly generate gold in addition to food) \n• Flemish Revolution (Villagers +40 hit points, +4 attack, +2/+2P armor; create Flemish Militia at Town Centers)\n\n<b>Team Bonus:<b> \nRelics generate both Gold & Food"
+//Turks
+7285 "Yaya"
+8285 "Research Yaya (Cavalry Archers +20 hit points; Skirmishers and Spearman-line +10 hit points)"
+17285 "Yaya"
+28285 "Research <b>Yaya<b> (<cost>) \nCavalry Archers +20 hit points; Skirmishers and Spearman-line +10 hit points."
+8425 "Research Artillery (Bombard Towers, Bombard Cannons, Cannon Galleons +2 range)"
+28425 "Research <b>Artillery<b> (<cost>) \n Bombard Towers, Bombard Cannons, Cannon Galleons +2 range."
+120159 "Gunpowder civilization \n\n• Gunpowder units +25% hit points; researching gunpowder technologies costs -50%; Chemistry free \n• Gold miners work 20% faster \n• Light Cavalry, Hussar upgrades free \n\n<b>Unique Unit:<b>  \nJanissary (hand cannoneer) \n\n<b>Unique Techs:<b>  \n• Yaya (Cavalry Archers +20 hit points; Skirmishers and Spearman-line +10 hit points) \n• Artillery (Bombard Towers, Bombard Cannons, Cannon Galleons +2 range)\n\n<b>Team Bonus:<b>  \nGunpowder units created 25% faster"
 
-120186 "Infantry civilization \n\n• Castles and Town Centers built 100% faster \n• Land military units (except siege weapons) receive 50% less bonus damage \n• Farm upgrades provide +100% additional food \n• Can build Donjon \n\n<b>Unique Unit:<b> \nSerjeant (infantry)\n\n<b>Unique Techs:<b> \n• Scutage (Each team member receives a one-time payment of 15 gold for each military unit that they own) \n• First Crusade (Each Town Center (maximum 5) spawns a one-time batch of 7 Serjeants; units are more resistant to conversion)\n\n<b>Team Bonus:<b> \nTransport ships +5 carry capacity and +10 armor against anti-ship attacks"
+//Vietnamese
+120180 "Archer civilization \n\n• Enemy positions are revealed at the start of the game \n• Economic upgrades don't cost wood \n• Archers +20% hit points (starting in Feudal Age) \n• Transport Ships 2x hitpoints, +5 carry capacity \n• Conscription free \n\n<b>Unique Units:<b> \nRattan Archer (foot archer) \n\n<b>Unique Techs:<b> \n• Chatras (Battle Elephants +50 hit points) \n• Paper Money (Each team member receives 500 gold)\n\n<b>Team Bonus:<b> \nImperial Skirmisher upgrade available in the Imperial Age"
+
+//Vikings
+7312 "Keels"
+8312 "Research Keels (Galley-line +2 normal armor)"
+17312 "Keels"
+28312 "Research <b>Keels<b> (<cost>) \nGalley-line +2 normal armor."
+8431 "Research Berserkergang (Berserks regenerate faster; Infantry +7 attack vs. cavalry)"
+28431 "Research <b>Berserkergang<b> (<cost>) \nBerserks regenerate faster; Infantry +7 attack vs. cavalry."
+120160 "Infantry and Naval civilization \n\n• Warships cost -15% Feudal, -20% Castle Age \n• Infantry +20% hit points (starting in Feudal Age) \n• Wheelbarrow, Hand Cart free \n\n<b>Unique Units:<b>  \nBerserk (infantry), Longboat (warship) \n\n<b>Unique Techs:<b>  \n• Keels (Galley-line +2 normal armor) \n• Berserkergang (Berserks regenerate faster; Infantry +7 attack vs. cavalry)\n\n<b>Team Bonus:<b>  \nDocks cost -15%"
