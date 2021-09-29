@@ -261,7 +261,6 @@
 28426 "Research <b>Crenellations<b> (<cost>) \nCastles and Town Centers +3 range; Garrisoned infantry fire arrows."
 120153 "Defensive civilization \n\n• Monks healing range 2x \n• Town Centers garrison +10, Towers garrison +5 units \n• Murder Holes, Herbal Medicine free \n• Farms cost -40% \n• Barracks and Stable units +1 normal armor per age (starting in Castle Age) \n\n<b>Unique Unit:<b>  \nTeutonic Knight (infantry) \n\n<b>Unique Techs:<b>  \n• Ironclad (Siege weapons +4 normal armor) \n• Crenellations (Castles and Town Centers +3 range; Garrisoned infantry fire arrows)\n\n<b>Team Bonus:<b>  \nUnits resist conversion"
 
-
 //Turks
 7285 "Yaya"
 8285 "Research Yaya (Cavalry Archers +20 hit points; Skirmishers and Spearman-line +10 hit points)"
@@ -272,7 +271,9 @@
 120159 "Gunpowder civilization \n\n• Gunpowder units +25% hit points; researching gunpowder technologies costs -50%; Chemistry free \n• Gold miners work 20% faster \n• Light Cavalry, Hussar upgrades free \n\n<b>Unique Unit:<b>  \nJanissary (hand cannoneer) \n\n<b>Unique Techs:<b>  \n• Yaya (Cavalry Archers +20 hit points; Skirmishers and Spearman-line +10 hit points) \n• Artillery (Bombard Towers, Bombard Cannons, Cannon Galleons +2 range)\n\n<b>Team Bonus:<b>  \nGunpowder units created 25% faster"
 
 //Vietnamese
-120180 "Archer civilization \n\n• Enemy positions are revealed at the start of the game \n• Economic upgrades don't cost wood \n• Archers +20% hit points (starting in Feudal Age) \n• Transport Ships 2x hitpoints, +5 carry capacity \n• Conscription free \n\n<b>Unique Units:<b> \nRattan Archer (foot archer) \n\n<b>Unique Techs:<b> \n• Chatras (Battle Elephants +50 hit points) \n• Paper Money (Each team member receives 500 gold)\n\n<b>Team Bonus:<b> \nImperial Skirmisher upgrade available in the Imperial Age"
+8297 "Research Chatras (Battle Elephants +80 hit points)"
+28297 "Research <b>Chatras<b> (<cost>) \nBattle Elephants +80 hit points."
+120180 "Archer civilization \n\n• Enemy positions are revealed at the start of the game \n• Economic upgrades don't cost wood \n• Archers +20% hit points (starting in Feudal Age) \n• Transport Ships 2x hitpoints, +5 carry capacity \n• Conscription free \n\n<b>Unique Units:<b> \nRattan Archer (foot archer) \n\n<b>Unique Techs:<b> \n• Chatras (Battle Elephants +80 hit points) \n• Paper Money (Each team member receives 500 gold)\n\n<b>Team Bonus:<b> \nImperial Skirmisher upgrade available in the Imperial Age"
 
 //Vikings
 7312 "Keels"
