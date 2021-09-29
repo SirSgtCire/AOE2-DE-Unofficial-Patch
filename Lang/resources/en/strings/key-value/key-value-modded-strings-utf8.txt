@@ -87,9 +87,11 @@
 120181 "Infantry and Cavalry civilization \n\n• Militia-line upgrades free \n• Town Centers cost -50% stone (starting in Castle Age) \n• Blacksmith and Siege Workshop technologies cost -50% food\n• Can build Krepost \n\n<b>Unique Unit:<b> \nKonnik (cavalry)\n\n<b>Unique Techs:<b> \n• Stirrups (Cavalry attack 33% faster) \n• Bagains (Militia-line gains +5 armor) \n\n<b>Team Bonus:<b> \nBlacksmiths work 80% faster"
 
 //Burgundians
+8342 "Research Burgundian Vineyards (Farmers slowly generate gold in addition to food)"
+28342 "Research <b>Burgundian Vineyards<b> (<cost>) \nFarmers slowly generate gold in addition to food."
 8343 "Research Flemish Revolution (Villagers +40 hit points, +4 attack, +2/+2P armor; create Flemish Militia at Town Centers)"
 28343 "Research <b>Flemish Revolution<b> (<cost>) \nVillagers +40 hit points, +4 attack, +2/+2P armor; create Flemish Militia at Town Centers."
-120185 "Cavalry civilization \n\n• Economic upgrades available one age earlier and cost -50% food \n• Stable technologies cost -50% \n• Cavalier upgrade available in Castle Age \n• Gunpowder units +25% attack \n\n<b>Unique Units:<b> \nCoustillier (cavalry), Flemish Militia (infantry)\n\n<b>Unique Techs:<b> \n• Burgundian Vineyards (Convert half of the food into gold; Farmers slowly generate gold in addition to food) \n• Flemish Revolution (Villagers +40 hit points, +4 attack, +2/+2P armor; create Flemish Militia at Town Centers)\n\n<b>Team Bonus:<b> \nRelics generate both Gold & Food"
+120185 "Cavalry civilization \n\n• Economic upgrades available one age earlier and cost -50% food \n• Stable technologies cost -50% \n• Cavalier upgrade available in Castle Age \n• Gunpowder units +25% attack \n\n<b>Unique Units:<b> \nCoustillier (cavalry), Flemish Militia (infantry)\n\n<b>Unique Techs:<b> \n• Burgundian Vineyards (Farmers slowly generate gold in addition to food) \n• Flemish Revolution (Villagers +40 hit points, +4 attack, +2/+2P armor; create Flemish Militia at Town Centers)\n\n<b>Team Bonus:<b> \nRelics generate both Gold & Food"
 
 //Burmese
 
@@ -138,7 +140,7 @@
 8428 "Research Paganism (Monk gold cost is replaced by 100 food cost)"
 17428 "Paganism"
 28428 "Research <b>Paganism<b> (<cost>) \nMonk gold cost is replaced by 100 food cost."
-120166 "Cavalry civilization \n\n• Do not need houses, but start with -100 wood \n• Cavalry Archers cost -15% Castle, -20% Imperial Age \n• Trebuchets have 100% accuracy \n• +100 years Relic, Wonder victories; Spies/Treason costs -50%\n\n<b>Unique Unit:<b>  \nTarkan (cavalry) \n\n<b>Unique Techs:<b>  \n• Marauders (create Tarkans at Stables) \n• Paganism (Monk gold cost is replaced by 100 food cost)\n\n<b>Team Bonus:<b>  \nStables work 20% faster"
+120166 "Cavalry civilization \n\n• Do not need houses, but start with -100 wood \n• Cavalry Archers cost -15% Castle, -20% Imperial Age \n• Trebuchets have 100% accuracy \n• +100 years Relic, Wonder victories; Spies/Treason costs -50%; Enemy relics generate 50% less resources\n\n<b>Unique Unit:<b>  \nTarkan (cavalry) \n\n<b>Unique Techs:<b>  \n• Marauders (create Tarkans at Stables) \n• Paganism (Monk gold cost is replaced by 100 food cost)\n\n<b>Team Bonus:<b>  \nStables work 20% faster"
 
 //Incas
 8267 "Research Fabric Shields (Kamayuks, Slingers, Eagles, Monks and Xolotl Warriors +1/+2P armor)"
@@ -231,7 +233,7 @@
 120158 "Camel and Naval civilization \n\n• Market trade cost only 5% \n• Market costs -100 wood \n• Trade units move 10% faster \n• Galley-line attack 25% faster \n• Camel units +15% hit points \n\n<b>Unique Unit:<b>  \nMameluke (camel rider) \n\n<b>Unique Techs:<b>  \n• Madrasah (Killed monks return 66% of their cost) \n• Zealotry (Archers (except Skirmishers) +2 attack vs. buildings)\n\n<b>Team Bonus:<b>  \nFoot archers +2 attack vs. buildings"
 
 //Sicilians
-120186 "Infantry and Cavalry civilization \n\n• Start with +100 stone \n• Castles and Town Centers built 100% faster \n• Land military units (except siege weapons) receive 50% less bonus damage \n• Farm upgrades provide +100% additional food \n• Transport Ships +5 carry capacity and +10 armor versus anti-ship bonus damage \n• Donjon replaces Watch Tower-line \n\n<b>Unique Unit:<b> \nSerjeant (infantry)\n\n<b>Unique Techs:<b> \n• First Crusade (Each Town Center (maximum 5) spawns a one-time batch of 7 Serjeants; units more resistant to conversion) \n• Hauberk (Knights +1/+2P armor)\n\n<b>Team Bonus:<b> \nFirst Transport Ship free"
+120186 "Infantry and Cavalry civilization \n\n• Start with +100 stone \n• Castles and Town Centers built 100% faster \n• Land military units (except siege weapons) receive 50% less bonus damage \n• Farm upgrades provide +100% additional food \n• Transport Ships +5 carry capacity and +10 armor versus anti-ship bonus damage \n• Donjon replaces Watch Tower-line \n\n<b>Unique Unit:<b> \nSerjeant (infantry)\n\n<b>Unique Techs:<b> \n• First Crusade (Each Town Center (maximum 5) spawns a one-time batch of 7 Serjeants; units more resistant to conversion) \n• Hauberk (Knights +1/+2P armor)\n\n<b>Team Bonus:<b> \nTransport ships +5 line of sight and cost -50%"
 
 //Slavs
 8268 "Research Orthodoxy (Monks +4/+4P armor)"
