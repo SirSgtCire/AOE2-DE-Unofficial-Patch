@@ -1,5 +1,5 @@
 ## AOE2-DE-Unofficial-Patch - by SirSgtCire
-Welcome to the Unofficial Patch Definitive Edition, Version 2.8!
+Welcome to the Unofficial Patch Definitive Edition, Version 2.9!
 
 This mod is kept up to date with the latest patches from DE, as I always try to incorporate approved dev changes into my work. 
 Therefore this mod currently operates on patch: 53347
@@ -87,7 +87,7 @@ Goths:
 
 Huns:
 - changed treb accuracy bonus to 100%
-- added civ bonus "+100 years relic/wonder victories; Spies/Treason costs 50% less"
+- added civ bonus "+100 years relic/wonder victories; Spies/Treason costs 50% less; Enemy Relic gold generation reduced by 50%"
 - changed Atheism to Paganism, which makes Monks cost 100 food instead of 100 gold
 
 Incas:
@@ -170,7 +170,6 @@ Saracens:
 
 Sicilians:
 - added Architecture
-- added civ bonus "Transport Ships +5 carry capacity and +10 armor versus anti-ship bonus damage"
 
 Slavs:
 - reverted farmer work rate bonus to 15% faster
@@ -197,6 +196,7 @@ Turks:
 
 Vietnamese:
 - added civ bonus "Transport Ships 2x hitpoints, +5 carry capacity"
+- changed Chatras to "Battle Elephants +80 hit points"
 
 Vikings:
 - changed infantry hp civ bonus to "Infantry +20% hit points (starting in Feudal Age)"
