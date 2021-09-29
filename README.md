@@ -87,7 +87,7 @@ Goths:
 
 Huns:
 - changed treb accuracy bonus to 100%
-- added civ bonus "+100 years relic/wonder victories; Spies/Treason costs 50% less; Enemy relics generate less resources"
+- added civ bonus "+100 years relic/wonder victories; Spies/Treason costs 50% less; Enemy Relic gold generation reduced by 50%"
 - changed Atheism to Paganism, which makes Monks cost 100 food instead of 100 gold
 
 Incas:
@@ -196,6 +196,7 @@ Turks:
 
 Vietnamese:
 - added civ bonus "Transport Ships 2x hitpoints, +5 carry capacity"
+- changed Chatras to "Battle Elephants +80 hit points"
 
 Vikings:
 - changed infantry hp civ bonus to "Infantry +20% hit points (starting in Feudal Age)"

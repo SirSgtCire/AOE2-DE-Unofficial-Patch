@@ -140,7 +140,7 @@
 8428 "Research Paganism (Monk gold cost is replaced by 100 food cost)"
 17428 "Paganism"
 28428 "Research <b>Paganism<b> (<cost>) \nMonk gold cost is replaced by 100 food cost."
-120166 "Cavalry civilization \n\n• Do not need houses, but start with -100 wood \n• Cavalry Archers cost -15% Castle, -20% Imperial Age \n• Trebuchets have 100% accuracy \n• +100 years Relic, Wonder victories; Spies/Treason costs -50%; Enemy relics generate 50% less resources\n\n<b>Unique Unit:<b>  \nTarkan (cavalry) \n\n<b>Unique Techs:<b>  \n• Marauders (create Tarkans at Stables) \n• Paganism (Monk gold cost is replaced by 100 food cost)\n\n<b>Team Bonus:<b>  \nStables work 20% faster"
+120166 "Cavalry civilization \n\n• Do not need houses, but start with -100 wood \n• Cavalry Archers cost -15% Castle, -20% Imperial Age \n• Trebuchets have 100% accuracy \n• +100 years Relic, Wonder victories; Spies/Treason costs -50%; Enemy Relic resource generation reduced by 50%\n\n<b>Unique Unit:<b>  \nTarkan (cavalry) \n\n<b>Unique Techs:<b>  \n• Marauders (create Tarkans at Stables) \n• Paganism (Monk gold cost is replaced by 100 food cost)\n\n<b>Team Bonus:<b>  \nStables work 20% faster"
 
 //Incas
 8267 "Research Fabric Shields (Kamayuks, Slingers, Eagles, Monks and Xolotl Warriors +1/+2P armor)"
