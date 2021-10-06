@@ -171,6 +171,7 @@ Saracens:
 
 Sicilians:
 - added Architecture
+- added Archer-line to Hauberk
 
 Slavs:
 - reverted farmer work rate bonus to 15% faster
