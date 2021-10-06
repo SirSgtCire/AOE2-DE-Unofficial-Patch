@@ -187923,7 +187923,7 @@
 "Name":"Siege Onager",
 "Name String ID":14493,
 "Node ID":588,
-"Node Status":"NotAvailable",
+"Node Status":"ResearchedCompleted",
 "Node Type":"UnitUpgrade",
 "Picture Index":102,
 "Prerequisite IDs":[
