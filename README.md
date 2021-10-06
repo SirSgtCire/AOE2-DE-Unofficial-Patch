@@ -160,6 +160,7 @@ Portuguese:
 - increased projectile speed increase from Arquebus tech by 0.1
 - changed Arquebus to also increase hand cannon range by +1
 - increased blast radius of (Elite) Organ Guns by 0.2
+- reverted Feitoria hit points back to 5200
 
 Saracens:
 - changed Madrasah effect to "Monks return 66% of their cost when killed"
