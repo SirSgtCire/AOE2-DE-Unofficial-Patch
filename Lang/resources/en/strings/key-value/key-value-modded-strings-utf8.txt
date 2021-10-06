@@ -235,7 +235,9 @@
 //Sicilians
 8344 "Research First Crusade (Each Town Center (maximum 5) spawns 7 Serjeants once; units more resistant to conversion)"
 28344 "Research <b>First Crusade<b> (<cost>) \nEach Town Center (maximum 5) spawns 7 Serjeants once; units more resistant to conversion."
-120186 "Infantry and Cavalry civilization \n\n• Start with +100 stone \n• Castles and Town Centers built 100% faster \n• Land military units (except siege weapons) receive 50% less bonus damage \n• Farm upgrades provide +100% additional food \n• Transport Ships +5 carry capacity and +10 anti-ship armor \n• Donjon replaces Watch Tower-line \n\n<b>Unique Unit:<b> \nSerjeant (infantry)\n\n<b>Unique Techs:<b> \n• First Crusade (Each Town Center (maximum 5) spawns 7 Serjeants once; units more resistant to conversion) \n• Hauberk (Knights +1/+2P armor)\n\n<b>Team Bonus:<b> \nTransport ships +5 line of sight and cost -50%"
+8345 "Research Hauberk (Knight-line, Archer-line +1/+2P armor)"
+28345 "Research <b>Hauberk<b> (<cost>) \nKnight-line, Archer-line +1/+2P armor."
+120186 "Infantry and Cavalry civilization \n\n• Start with +100 stone \n• Castles and Town Centers built 100% faster \n• Land military units (except siege weapons) receive 50% less bonus damage \n• Farm upgrades provide +100% additional food \n• Transport Ships +5 carry capacity and +10 anti-ship armor \n• Donjon replaces Watch Tower-line \n\n<b>Unique Unit:<b> \nSerjeant (infantry)\n\n<b>Unique Techs:<b> \n• First Crusade (Each Town Center (maximum 5) spawns 7 Serjeants once; units more resistant to conversion) \n• Hauberk (Knight-line, Archer-line +1/+2P armor)\n\n<b>Team Bonus:<b> \nTransport ships +5 line of sight and cost -50%"
 
 //Slavs
 8268 "Research Orthodoxy (Monks +4/+4P armor)"
