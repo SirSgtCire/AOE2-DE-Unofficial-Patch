@@ -233,7 +233,9 @@
 120158 "Camel and Naval civilization \n\n• Market trade cost only 5% \n• Market costs -100 wood \n• Trade units move 10% faster \n• Galley-line attack 25% faster \n• Camel units +15% hit points \n\n<b>Unique Unit:<b>  \nMameluke (camel rider) \n\n<b>Unique Techs:<b>  \n• Madrasah (Killed monks return 66% of their cost) \n• Zealotry (Archers (except Skirmishers) +2 attack vs. buildings)\n\n<b>Team Bonus:<b>  \nFoot archers +2 attack vs. buildings"
 
 //Sicilians
-120186 "Infantry and Cavalry civilization \n\n• Start with +100 stone \n• Castles and Town Centers built 100% faster \n• Land military units (except siege weapons) receive 50% less bonus damage \n• Farm upgrades provide +100% additional food \n• Transport Ships +5 carry capacity and +10 anti-ship armor \n• Donjon replaces Watch Tower-line \n\n<b>Unique Unit:<b> \nSerjeant (infantry)\n\n<b>Unique Techs:<b> \n• First Crusade (Each Town Center (maximum 5) spawns a one-time batch of 7 Serjeants; units more resistant to conversion) \n• Hauberk (Knights +1/+2P armor)\n\n<b>Team Bonus:<b> \nTransport ships +5 line of sight and cost -50%"
+8344 "Research First Crusade (Each Town Center (maximum 5) spawns 7 Serjeants once; units more resistant to conversion)"
+28344 "Research <b>First Crusade<b> (<cost>) \nEach Town Center (maximum 5) spawns 7 Serjeants once; units more resistant to conversion."
+120186 "Infantry and Cavalry civilization \n\n• Start with +100 stone \n• Castles and Town Centers built 100% faster \n• Land military units (except siege weapons) receive 50% less bonus damage \n• Farm upgrades provide +100% additional food \n• Transport Ships +5 carry capacity and +10 anti-ship armor \n• Donjon replaces Watch Tower-line \n\n<b>Unique Unit:<b> \nSerjeant (infantry)\n\n<b>Unique Techs:<b> \n• First Crusade (Each Town Center (maximum 5) spawns 7 Serjeants once; units more resistant to conversion) \n• Hauberk (Knights +1/+2P armor)\n\n<b>Team Bonus:<b> \nTransport ships +5 line of sight and cost -50%"
 
 //Slavs
 8268 "Research Orthodoxy (Monks +4/+4P armor)"
