@@ -1,8 +1,8 @@
 ## AOE2-DE-Unofficial-Patch - by SirSgtCire
-Welcome to the Unofficial Patch Definitive Edition, Version 2.9!
+Welcome to the Unofficial Patch Definitive Edition, Version 3.0!
 
 This mod is kept up to date with the latest patches from DE, as I always try to incorporate approved dev changes into my work. 
-Therefore this mod currently operates on patch: 53347
+Therefore this mod currently operates on patch: 54480
 
 My goal with this mod is to focus on diverse strategies, unique playstyles for certain civs (not every civ should 
 be able to do everything well), some historical accuracy (as much as is possible in this game, without 
