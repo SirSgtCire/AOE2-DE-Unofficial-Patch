@@ -70,7 +70,7 @@
 //Berbers
 8257 "Research Maghrebi Camels (Camel units regenerate and move 10% faster)"
 28257 "Research <b>Maghrebi Camels<b> (<cost>) \nCamel units regenerate and move 10% faster."
-120176 "Cavalry and Naval civilization \n\n• Villagers move 10% faster \n• Stable units cost -15% Castle, -20% Imperial Age \n• Ships move 10% faster \n\n<b>Unique Units:<b>  \nCamel Archer (cavalry archer), Genitour (mounted skirmisher)\n\n<b>Unique Techs:<b>  \n• Kasbah (team castles work 25% faster) \n• Maghrebi Camels (Camel units regenerate and move 10% faster)\n\n<b>Team Bonus:<b>  \nGenitour available in the Archery Range starting in the Castle Age"
+120176 "Cavalry and Naval civilization \n\n• Villagers move 10% faster \n• Stable units cost -15% Castle, -20% Imperial Age \n• Ships move 10% faster \n\n<b>Unique Units:<b>  \nCamel Archer (cavalry archer), Genitour (mounted skirmisher)\n\n<b>Unique Techs:<b>  \n• Kasbah (Team castles work 25% faster) \n• Maghrebi Camels (Camel units regenerate and move 10% faster)\n\n<b>Team Bonus:<b>  \nGenitour available in the Archery Range starting in the Castle Age"
 26137 "Create <b>Genitour<b> (<cost>) \nMounted skirmisher. Strong vs. archers. Weak vs. units at close range. Trainable by Berbers and their allies.<i> Upgrades: speed, hit points (Stable); attack, range, armor (Blacksmith); attack, accuracy (University); accuracy, armor, (Archery Range); creation speed (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
 
 //Bohemians
