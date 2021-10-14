@@ -101,6 +101,7 @@ Indians:
 - changed Shatagni to Rajputs, now gives "Cavalry +1 attack, +1 normal armor, +10 hit points"
 - changed fisherman civ bonus to "Fishermen work 10% faster, carry +10"
 - (Elite) Elephant Archers do (4) 3 bonus damage to infantry
+- reduced Imperial Camel Rider melee attack by 1
 
 Italians:
 - increased Elite Genoese Crossbowman anti-cavalry damage by 1
@@ -127,7 +128,7 @@ Lithuanians:
 - added Plate Mail Armor
 
 Magyars:
-- increased range of (Elite) Magyar Huszar units to (1) 1
+- increased range of Elite Magyar Huszar to 1
 
 Malay:
 - added Architecture
