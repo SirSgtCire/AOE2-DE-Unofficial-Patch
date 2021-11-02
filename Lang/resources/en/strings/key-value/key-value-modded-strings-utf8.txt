@@ -208,7 +208,9 @@
 //Mongols
 8280 "Research Nomads (Destroyed houses don't lose their population headroom; you receive 300 wood)"
 28280 "Research <b>Nomads<b> (<cost>) \nDestroyed houses don't lose their population headroom; you receive 300 wood."
-120161 "Cavalry Archer civilization \n\n• Cavalry archers fire 25% faster \n• Light Cavalry, Hussars, Steppe Lancers +30% hit points\n• Hunters work 40% faster \n\n<b>Unique Unit:<b>  \nMangudai (cavalry archer) \n\n<b>Unique Techs:<b>  \n• Nomads (Destroyed houses don't lose their population headroom; you receive 300 wood) \n• Drill (Siege Workshop units move 50% faster)\n\n<b>Team Bonus:<b>  \nScout Cavalry line +2 line of sight"
+8422 "Research Drill (Siege Workshop units move 40% faster)"
+28422 "Research <b>Drill<b> (<cost>) \nSiege Workshop units move 40% faster."
+120161 "Cavalry Archer civilization \n\n• Cavalry archers fire 25% faster \n• Light Cavalry, Hussars, Steppe Lancers +30% hit points\n• Hunters work 40% faster \n\n<b>Unique Unit:<b>  \nMangudai (cavalry archer) \n\n<b>Unique Techs:<b>  \n• Nomads (Destroyed houses don't lose their population headroom; you receive 300 wood) \n• Drill (Siege Workshop units move 40% faster)\n\n<b>Team Bonus:<b>  \nScout Cavalry line +2 line of sight"
 
 //Persians
 8281 "Research Kamandaran (Archer-line gold cost is replaced by 45 wood cost)"
