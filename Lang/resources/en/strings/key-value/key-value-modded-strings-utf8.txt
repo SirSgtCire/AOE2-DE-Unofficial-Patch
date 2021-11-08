@@ -76,7 +76,7 @@
 //Bohemians
 8351 "Research Hussite Reforms (Monastery upgrades have their gold cost replaced by food)"
 28351 "Research <b>Hussite Reforms<b> (<cost>) \nMonastery upgrades have their gold cost replaced by food."
-120188 "Gunpowder and Monk civilization \n\n• Blacksmiths, Monasteries and Universities cost -100 wood \n• Chemistry and Hand Cannoneer available in Castle Age \n• Spearman-line deals +25% bonus damage \n• Fervor and Sanctity affect Villagers \n• Mining Camp technologies free \n\n<b>Unique Units:<b> \nHussite Wagon (siege weapon), Houfnice (bombard cannon)\n\n<b>Unique Techs:<b> \n• Wagenburg Tactics (Gunpowder units move 15% faster) \n• Hussite Reforms (Monastery upgrades have their gold cost replaced by food)\n\n<b>Team Bonus:<b> \nMarkets work 80% faster"
+120188 "Gunpowder and Monk civilization \n\n• Blacksmiths, Monasteries and Universities cost -75 wood \n• Chemistry and Hand Cannoneer available in Castle Age \n• Spearman-line deals +25% bonus damage \n• Fervor and Sanctity affect Villagers \n• Mining Camp technologies free \n\n<b>Unique Units:<b> \nHussite Wagon (siege weapon), Houfnice (bombard cannon)\n\n<b>Unique Techs:<b> \n• Wagenburg Tactics (Gunpowder units move 15% faster) \n• Hussite Reforms (Monastery upgrades have their gold cost replaced by food)\n\n<b>Team Bonus:<b> \nMarkets work 80% faster"
 
 //Britons
 8419 "Research Yeomen (Foot Archers +1 range; Towers +2 attack)"
@@ -99,7 +99,7 @@
 //Byzantines
 8313 "Research Greek Fire (Fire Ships +1 range and do blast damage)"
 28313 "Research <b>Greek Fire<b> (<cost>) \nFire Ships +1 range and do blast damage."
-120156 "Defensive civilization \n\n• Buildings +10% hit points Dark, +20% Feudal, +30% Castle, +40% Imperial Age \n• Camel Riders, Skirmishers, Spearman-line cost -25% \n• Fire ships attack 25% faster \n• Advance to Imperial Age costs -33% \n• Town Watch, Town Patrol free \n\n<b>Unique Unit:<b>  \nCataphract (cavalry) \n\n<b>Unique Techs:<b>  \n• Greek Fire (Fire Ships +1 range and do blast damage) \n• Logistica (Cataphracts cause trample damage)\n\n<b>Team Bonus:<b>  \nMonks +50% heal speed"
+120156 "Defensive civilization \n\n• Buildings +10% hit points Dark, +20% Feudal, +30% Castle, +40% Imperial Age \n• Camel Riders, Skirmishers, Spearman-line cost -25% \n• Fire ships attack 25% faster \n• Advance to Imperial Age costs -33% \n• Town Watch, Town Patrol free \n\n<b>Unique Unit:<b>  \nCataphract (cavalry) \n\n<b>Unique Techs:<b>  \n• Greek Fire (Fire Ships +1 range and do blast damage) \n• Logistica (Cataphracts cause trample damage)\n\n<b>Team Bonus:<b>  \nMonks +100% heal speed"
 
 //Celts
 8421 "Research Furor Celtica (Siege Worskhop units +40% hit points)"
@@ -116,7 +116,7 @@
 //Cumans
 8311 "Research Steppe Husbandry (Scout Cavalry line, Steppe Lancers and Cavalry Archers trained 100% faster)"
 28311 "Research <b>Steppe Husbandry<b> (<cost>) \nScout Cavalry line, Steppe Lancers and Cavalry Archers trained 100% faster."
-120183 "Cavalry civilization \n\n• Additional Town Center can be built in the Feudal Age \n• Siege Workshop and Battering Ram available in the Feudal Age; Capped Ram upgrade available in Castle Age \n• Archery Ranges and Stables cost -100 wood \n• Cavalry 5% faster each age (starting in Feudal Age) \n\n<b>Unique Unit:<b> \nKipchak (cavalry archer)\n\n<b>Unique Techs:<b> \n• Steppe Husbandry (Scout Cavalry line, Steppe Lancers and Cavalry Archers trained 100% faster) \n• Cuman Mercenaries (team members can create 10 free Elite Kipchaks in the Castle)\n\n<b>Team Bonus:<b> \nPalisade Walls +33% HP"
+120183 "Cavalry civilization \n\n• Additional Town Center can be built in the Feudal Age \n• Siege Workshop and Battering Ram available in the Feudal Age; Capped Ram upgrade available in Castle Age \n• Archery Ranges and Stables cost -75 wood \n• Cavalry 5% faster each age (starting in Feudal Age) \n\n<b>Unique Unit:<b> \nKipchak (cavalry archer)\n\n<b>Unique Techs:<b> \n• Steppe Husbandry (Scout Cavalry line, Steppe Lancers and Cavalry Archers trained 100% faster) \n• Cuman Mercenaries (team members can create 10 free Elite Kipchaks in the Castle)\n\n<b>Team Bonus:<b> \nPalisade Walls +33% HP"
 
 //Ethiopians
 8252 "Research Royal Heirs (Shotel Warriors trained nearly instantly)"
