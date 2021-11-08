@@ -22633,7 +22633,7 @@
 "Name":"Steppe Lancer",
 "Name String ID":14009,
 "Node ID":1370,
-"Node Status":"NotAvailable",
+"Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":273,
 "Prerequisite IDs":[
@@ -22663,7 +22663,7 @@
 "Name":"Elite Steppe Lancer",
 "Name String ID":14010,
 "Node ID":1372,
-"Node Status":"NotAvailable",
+"Node Status":"ResearchedCompleted",
 "Node Type":"UnitUpgrade",
 "Picture Index":274,
 "Prerequisite IDs":[
@@ -194440,7 +194440,7 @@
 "Name":"Siege Engineers",
 "Name String ID":17378,
 "Node ID":377,
-"Node Status":"NotAvailable",
+"Node Status":"ResearchedCompleted",
 "Node Type":"Research",
 "Picture Index":101,
 "Prerequisite IDs":[

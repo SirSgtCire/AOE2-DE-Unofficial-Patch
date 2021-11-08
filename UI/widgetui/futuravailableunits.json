@@ -16477,6 +16477,11 @@
             "Name": "Cavalier",
             "RequiredAge": 4
           },
+		  {
+            "ID": 715,
+            "Name": "Elite Steppe Lancer",
+            "RequiredAge": 4
+          },
           {
             "ID": 39,
             "Name": "Husbandry",
@@ -16502,6 +16507,16 @@
           {
             "ID": 283,
             "Name": "Cavalier",
+            "RequiredAge": 4
+          },
+          {
+            "ID": 1370,
+            "Name": "Steppe Lancer",
+            "RequiredAge": 3
+          },
+          {
+            "ID": 1372,
+            "Name": "Elite Steppe Lancer",
             "RequiredAge": 4
           }
         ]
@@ -36164,6 +36179,11 @@
             "ID": 93,
             "Name": "Ballistics",
             "RequiredAge": 3
+          },
+		  {
+            "ID": 377,
+            "Name": "Siege Engineers",
+            "RequiredAge": 4
           },
           {
             "ID": 140,

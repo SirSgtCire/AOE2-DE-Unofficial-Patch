@@ -14,6 +14,7 @@ longevity of the game, and want to do my best to keep some of those changes, and
 design decisions into my own ideas for balance.
 
 General Game Changes:
+- changed house melee armor distribution to -2 Dark, -1 Feudal, +2 Castle, +3 Imperial Age
 - enabled Monks, Monks with Relics, Petards, Kings and Queens to load into Siege Towers and Rams
 - increased (Elite) Battle Elephant trample damage blast radius to (0.5) 0.5
 - changed Paladin upgrade cost to 1000 food, 750 gold, research time to 125 seconds
@@ -44,6 +45,7 @@ Berbers:
 
 Bohemians:
 - removed Monks from Hussite Reforms (only changes Monastery tech costs to food)
+- building cost reduction civ bonus changed to -75 wood
 
 Britons:
 - increased blast radius of Warwolf tech to Trebuchets by 0.25
@@ -58,16 +60,18 @@ Burgundians:
 
 Burmese:
 - increased accuracy of (Elite) Arambai by (5%) 5%
+- reverted Manipur Cavalry to anti-building bonus
 
 Byzantines:
 - changed Greek Fire to also increase blast width of Fire Galley-line by 0.2
 
 Celts:
-- NO CHANGES
+- (Elite) Woad Raider +1 attack
 
 Chinese:
 - changed Rocketry tech to "Archer-line +2 attack; Scorpions +4 attack and +1 range"
 - increased Great Wall bonus to 35%
+- Elite Chu-ko-nu +1 attack
 
 Cumans:
 - NO CHANGES
@@ -112,6 +116,7 @@ Italians:
 
 Japanese:
 - increased Elite Samurai melee armor by 1
+- added Steppe Lancer line
 
 Khmer:
 - changed Battle Elephants speed civ bonus to include Ballista Elephants
@@ -207,3 +212,4 @@ Vikings:
 - merged Chieftains effects into Berserkergang, increased bonus cavalry damage by 2
 - changed Chieftains to Keels, now gives "Galley-line have +2 normal armor"
 - changed warship cost reduction civ bonus to "Warships cost -15% Feudal, -20% Castle Age"
+- added Thumb Ring
