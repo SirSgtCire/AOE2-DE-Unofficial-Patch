@@ -1,5 +1,5 @@
 ## AOE2-DE-Unofficial-Patch - by SirSgtCire
-Welcome to the Unofficial Patch Definitive Edition, Version 3.0!
+Welcome to the Unofficial Patch Definitive Edition, Version 3.1!
 
 This mod is kept up to date with the latest patches from DE, as I always try to incorporate approved dev changes into my work. 
 Therefore this mod currently operates on patch: 54480
@@ -79,6 +79,7 @@ Cumans:
 Ethiopians:
 - added free Halberdier upgrade to Free Pikeman civ bonus
 - changed team bonus to increase LOS for towers and outposts by 4
+- changed Elite Shotel Warrior hp to 55
 
 Franks:
 - changed Bearded Axe to also increase Throwing Axeman pierce armor by 1
@@ -197,6 +198,7 @@ Tatars:
 Teutons:
 - added Siege Ram
 - changed Crenelations to "Castles and Town Centers +3 range; Garrisoned infantry fire arrows"
+- changed Elite Teutonic Knight normal armor to 12
 
 Turks:
 - removed Scout Cavalry line pierce armor civ bonus
