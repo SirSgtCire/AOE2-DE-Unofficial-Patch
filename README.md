@@ -14,7 +14,7 @@ longevity of the game, and want to do my best to keep some of those changes, and
 design decisions into my own ideas for balance.
 
 General Game Changes:
-- changed house melee armor distribution to -2 Dark, -1 Feudal, +2 Castle, +3 Imperial Age
+- changed house base normal armor distribution to 0 Dark, 1 Feudal, 2 Castle, 3 Imperial Age
 - enabled Monks, Monks with Relics, Petards, Kings and Queens to load into Siege Towers and Rams
 - increased (Elite) Battle Elephant trample damage blast radius to (0.5) 0.5
 - changed Paladin upgrade cost to 1000 food, 750 gold, research time to 125 seconds
