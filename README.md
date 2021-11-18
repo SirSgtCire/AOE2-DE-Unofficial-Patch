@@ -1,8 +1,8 @@
 ## AOE2-DE-Unofficial-Patch - by SirSgtCire
-Welcome to the Unofficial Patch Definitive Edition, Version 3.1!
+Welcome to the Unofficial Patch Definitive Edition, Version 3.2!
 
 This mod is kept up to date with the latest patches from DE, as I always try to incorporate approved dev changes into my work. 
-Therefore this mod currently operates on patch: 54480
+Therefore this mod currently operates on patch: 56005
 
 My goal with this mod is to focus on diverse strategies, unique playstyles for certain civs (not every civ should 
 be able to do everything well), some historical accuracy (as much as is possible in this game, without 
@@ -14,7 +14,7 @@ longevity of the game, and want to do my best to keep some of those changes, and
 design decisions into my own ideas for balance.
 
 General Game Changes:
-- changed house base normal armor distribution to 0 Dark, 1 Feudal, 2 Castle, 3 Imperial Age
+- changed house normal armor changes to 0 Dark, 1 Feudal, 2 Castle, 3 Imperial Age
 - enabled Monks, Monks with Relics, Petards, Kings and Queens to load into Siege Towers and Rams
 - increased (Elite) Battle Elephant trample damage blast radius to (0.5) 0.5
 - changed Paladin upgrade cost to 1000 food, 750 gold, research time to 125 seconds
@@ -35,8 +35,8 @@ Civ Specific Changes:
 Aztecs:
 - increased Elite Jaguar Warrior bonus infantry damage by 1
 - changed Garland Wars to include Xolotl Warriors
-- reverted military creation time reduction back to 15%
-- reverted villager carry pacacity to 5
+- changed military creation time reduction to 15%
+- changed villager carry pacacity to 5
 - added Keep
 
 Berbers:
@@ -60,7 +60,6 @@ Burgundians:
 
 Burmese:
 - increased accuracy of (Elite) Arambai by (5%) 5%
-- reverted Manipur Cavalry to anti-building bonus
 
 Byzantines:
 - changed Greek Fire to also increase blast width of Fire Galley-line by 0.2
@@ -210,7 +209,6 @@ Vietnamese:
 - changed Chatras to "Battle Elephants +80 hit points"
 
 Vikings:
-- changed infantry hp civ bonus to "Infantry +20% hit points (starting in Feudal Age)"
 - merged Chieftains effects into Berserkergang, increased bonus cavalry damage by 2
 - changed Chieftains to Keels, now gives "Galley-line have +2 normal armor"
 - changed warship cost reduction civ bonus to "Warships cost -15% Feudal, -20% Castle Age"
