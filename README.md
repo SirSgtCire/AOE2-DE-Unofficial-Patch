@@ -200,6 +200,7 @@ Teutons:
 - added Siege Ram
 - changed Crenelations to "Castles and Town Centers +3 range; Garrisoned infantry fire arrows"
 - changed Elite Teutonic Knight normal armor to 12
+- changed Teutonic Knight attack in Castle Age to 12
 
 Turks:
 - removed Scout Cavalry line pierce armor civ bonus
