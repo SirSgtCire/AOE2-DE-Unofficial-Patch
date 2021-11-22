@@ -117,6 +117,8 @@ Italians:
 Japanese:
 - increased Elite Samurai melee armor by 1
 - added Steppe Lancer line
+- added Hussar
+- removed Cavalier
 
 Khmer:
 - changed Battle Elephants speed civ bonus to include Ballista Elephants
@@ -207,6 +209,7 @@ Turks:
 Vietnamese:
 - added civ bonus "Transport Ships 2x hitpoints, +5 carry capacity"
 - changed Chatras to "Battle Elephants +80 hit points"
+- removed Hoardings
 
 Vikings:
 - merged Chieftains effects into Berserkergang, increased bonus cavalry damage by 2

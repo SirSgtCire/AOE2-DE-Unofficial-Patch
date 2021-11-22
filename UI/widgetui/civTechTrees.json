@@ -22363,7 +22363,7 @@
 "Name":"Hussar",
 "Name String ID":14661,
 "Node ID":441,
-"Node Status":"NotAvailable",
+"Node Status":"ResearchedCompleted",
 "Node Type":"UnitUpgrade",
 "Picture Index":103,
 "Prerequisite IDs":[
@@ -22453,7 +22453,7 @@
 "Name":"Cavalier",
 "Name String ID":14070,
 "Node ID":283,
-"Node Status":"ResearchedCompleted",
+"Node Status":"NotAvailable",
 "Node Type":"UnitUpgrade",
 "Picture Index":49,
 "Prerequisite IDs":[
@@ -158597,7 +158597,7 @@
 "Name":"Hoardings",
 "Name String ID":17376,
 "Node ID":379,
-"Node Status":"ResearchedCompleted",
+"Node Status":"NotAvailable",
 "Node Type":"Research",
 "Picture Index":103,
 "Prerequisite IDs":[

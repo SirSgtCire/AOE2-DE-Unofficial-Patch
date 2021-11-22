@@ -16467,15 +16467,15 @@
             "Name": "Light Cavalry",
             "RequiredAge": 3
           },
+		  {
+            "ID": 428,
+            "Name": "Hussar",
+            "RequiredAge": 4
+          },
           {
             "ID": 435,
             "Name": "Bloodlines",
             "RequiredAge": 2
-          },
-          {
-            "ID": 209,
-            "Name": "Cavalier",
-            "RequiredAge": 4
           },
 		  {
             "ID": 715,
@@ -16499,15 +16499,15 @@
             "Name": "Light Cavalry",
             "RequiredAge": 3
           },
+		  {
+            "ID": 441,
+            "Name": "Hussar",
+            "RequiredAge": 4
+          },
           {
             "ID": 38,
             "Name": "Knight",
             "RequiredAge": 3
-          },
-          {
-            "ID": 283,
-            "Name": "Cavalier",
-            "RequiredAge": 4
           },
           {
             "ID": 1370,
@@ -34391,11 +34391,6 @@
             "ID": 629,
             "Name": "Paper Money",
 			"RequiredAge": 4
-          },
-          {
-            "ID": 379,
-            "Name": "Hoardings",
-            "RequiredAge": 4
           },
           {
             "ID": 321,
