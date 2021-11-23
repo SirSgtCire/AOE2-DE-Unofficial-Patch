@@ -14,7 +14,6 @@ longevity of the game, and want to do my best to keep some of those changes, and
 design decisions into my own ideas for balance.
 
 General Game Changes:
-- changed house normal armor changes to 0 Dark, 1 Feudal, 2 Castle, 3 Imperial Age
 - enabled Monks, Monks with Relics, Petards, Kings and Queens to load into Siege Towers and Rams
 - increased (Elite) Battle Elephant trample damage blast radius to (0.5) 0.5
 - changed Paladin upgrade cost to 1000 food, 750 gold, research time to 125 seconds
@@ -26,7 +25,7 @@ General Game Changes:
 - All other Elite upgrades have food and gold costs
 - standardized all Castle Age Crown techs costs to 400 food/wood, 300 gold, research time to 40 seconds
 - standardized all Imperial Age Crown techs costs to 600 food/wood, 400 gold, research time to 50 seconds
-- All building-related, siege-related and ship-related Crown upgrades have wood and gold costs
+- All building-related, archer-related, siege-related and ship-related Crown upgrades have wood and gold costs
 - All other Crown upgrades have food and gold costs
 - updated many tech descriptions to give numeric descriptions of effects (to help with clarity of effects in game)
 
@@ -204,7 +203,6 @@ Teutons:
 
 Turks:
 - removed Scout Cavalry line pierce armor civ bonus
-- increased accuracy of (Elite) Janissaries by (5%) 5%
 - changed Sipahi to Yaya, now gives "Cavalry Archers +20 hp; Skirmishers and Spearmen +10 hp"
 
 Vietnamese:
