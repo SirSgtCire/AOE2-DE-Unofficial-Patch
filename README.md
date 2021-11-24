@@ -64,7 +64,7 @@ Byzantines:
 - changed Greek Fire to also increase blast width of Fire Galley-line by 0.2
 
 Celts:
-- Woad Raiders 12 attack, Elite Woad Raiders 14 attack
+- changed base attack of (Elite) Woad Raiders to (14) 12 attack
 
 Chinese:
 - changed Rocketry tech to "Archer-line +2 attack; Scorpions +4 attack and +1 range"
