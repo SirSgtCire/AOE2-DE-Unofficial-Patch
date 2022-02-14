@@ -213,11 +213,11 @@
 120161 "Cavalry Archer civilization \n\n• Cavalry archers fire 25% faster \n• Light Cavalry, Hussars, Steppe Lancers +30% hit points\n• Hunters work 40% faster \n\n<b>Unique Unit:<b>  \nMangudai (cavalry archer) \n\n<b>Unique Techs:<b>  \n• Nomads (Destroyed houses don't lose their population headroom; you receive 300 wood) \n• Drill (Siege Workshop units move 40% faster)\n\n<b>Team Bonus:<b>  \nScout Cavalry line +2 line of sight"
 
 //Persians
-8281 "Research Kamandaran (Archer-line gold cost is replaced by 45 wood cost)"
-28281 "Research <b>Kamandaran<b> (<cost>) \nArcher-line gold cost is replaced by 45 wood cost."
+8281 "Research Kamandaran (Archer-line gold cost is replaced by 35 wood cost)"
+28281 "Research <b>Kamandaran<b> (<cost>) \nArcher-line gold cost is replaced by 35 wood cost."
 8423 "Research Mahouts (Elephant units move +30% faster, attack 18% faster)"
 28423 "Research <b>Mahouts<b> (<cost>) \nElephant units move 30% faster, attack 18% faster."
-120157 "Cavalry civilization \n\n• Start with +50 wood, +50 food \n• Town Center, Dock 2x hit points; work rate +5% Dark, +10% Feudal, +15% Castle, +20% Imperial Age \n\n<b>Unique Unit:<b>  \nWar Elephant (cavalry) \n\n<b>Unique Techs:<b>  \n• Kamandaran (Archer-line gold cost is replaced by 45 wood cost) \n• Mahouts (Elephant units move 30% faster, attack 18% faster)\n\n<b>Team Bonus:<b>  \nKnights +2 attack vs. Archers"
+120157 "Cavalry civilization \n\n• Start with +50 wood, +50 food \n• Town Center, Dock 2x hit points; work rate +5% Dark, +10% Feudal, +15% Castle, +20% Imperial Age \n\n<b>Unique Unit:<b>  \nWar Elephant (cavalry) \n\n<b>Unique Techs:<b>  \n• Kamandaran (Archer-line gold cost is replaced by 35 wood cost) \n• Mahouts (Elephant units move 30% faster, attack 18% faster)\n\n<b>Team Bonus:<b>  \nKnights +2 attack vs. Archers"
 
 //Poles
 
