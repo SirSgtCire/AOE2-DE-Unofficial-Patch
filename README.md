@@ -111,7 +111,7 @@ Italians:
 - added Heavy Scorpion
 - changed Silk Road to Hourglass, which makes all land units train 11% faster
 - added civ bonus "trade units cost -25%"
-- changed Pavise to "Foot Archers (except Skirmishers) and Condottieri receive +2P armor"
+- changed Pavise to "Foot Archers (except Skirmishers), Hand Canoneers, and Condottieri receive +2P armor"
 
 Japanese:
 - increased Elite Samurai melee armor by 1
