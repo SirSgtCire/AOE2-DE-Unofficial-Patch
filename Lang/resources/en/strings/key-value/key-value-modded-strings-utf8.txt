@@ -161,9 +161,9 @@
 8273 "Research Hourglass (All land units (villagers, trade, military, monks) train 11% faster)"
 17273 "Hourglass"
 28273 "Research <b>Hourglass<b> (<cost>) \nAll land units (villagers, trade, military, monks) train 11% faster."
-8272 "Research Pavise (Foot Archers (except Skirmishers) and Condottieri +2P armor)"
-28272 "Research <b>Pavise<b> (<cost>) \nFoot Archers (except Skirmishers) and Condottieri +2P armor."
-120168 "Archer and Naval civilization \n\n• Advancing to the next age costs -15% \n• Dock and University technologies cost -33% \n• Fishing Ships cost -15%\n• Gunpowder units cost -20%\n• Trade units cost -25%\n\n<b>Unique Units:<b>  \nGenoese Crossbowman (archer), Condottiero (infantry)\n\n<b>Unique Techs:<b>  \n• Pavise (Foot Archers (except Skirmishers) and Condottieri +2P armor) \n• Hourglass (All land units (villagers, trade, military, monks) train 11% faster)\n\n<b>Team Bonus:<b>  \nCondottiero available in the Barracks starting in the Imperial Age"
+8272 "Research Pavise (Foot Archers (except Skirmishers), Hand Canoneers, and Condottieri +2P armor)"
+28272 "Research <b>Pavise<b> (<cost>) \nFoot Archers (except Skirmishers), Hand Canoneers, and Condottieri +2P armor."
+120168 "Archer and Naval civilization \n\n• Advancing to the next age costs -15% \n• Dock and University technologies cost -33% \n• Fishing Ships cost -15%\n• Gunpowder units cost -20%\n• Trade units cost -25%\n\n<b>Unique Units:<b>  \nGenoese Crossbowman (archer), Condottiero (infantry)\n\n<b>Unique Techs:<b>  \n• Pavise (Foot Archers (except Skirmishers), Hand Canoneers, and Condottieri +2P armor) \n• Hourglass (All land units (villagers, trade, military, monks) train 11% faster)\n\n<b>Team Bonus:<b>  \nCondottiero available in the Barracks starting in the Imperial Age"
 
 //Japanese
 120154 "Infantry civilization \n\n• Fishing Ships 2x hit points, +2P armor; work rate +5% Dark, +10% Feudal, +15% Castle, +20% Imperial Age \n• Mill, Lumber/Mining Camps cost -50% \n• Infantry attack 33% faster (starting in Feudal Age) \n\n<b>Unique Unit:<b>  \nSamurai (infantry) \n\n<b>Unique Techs:<b>  \n• Yasama (Towers shoot extra arrows) \n• Kataparuto (Trebuchets fire, pack faster)\n\n<b>Team Bonus:<b>  \nGalley-line +50% line of sight"
