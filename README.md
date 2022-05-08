@@ -48,10 +48,10 @@ Bohemians:
 - NO CHANGES
 
 Britons:
+- changed TC wood cost civ bonus to "Town Centers cost -50% wood"
 - increased blast radius of Warwolf tech to Trebuchets by 0.25
 
 Bulgarians:
-- changed town center stone cost reduction civ bonus to start in the castle age
 - added Ring Archer Armor
 - removed Keep
 
@@ -79,13 +79,12 @@ Dravidians:
 - NO CHANGES
 
 Ethiopians:
-- added free Halberdier upgrade to Free Pikeman civ bonus
+- added Halberdier upgrade to Free Pikeman civ bonus
 - changed team bonus to increase LOS for towers and outposts by 4
 - changed Elite Shotel Warrior hp to 55
 
 Franks:
-- changed Bearded Axe to 
-- merged Bearded Axe effect into Elite Throwing Axeman upgrade
+- changed Bearded Axe effect to "Throwing Axemen +1 range, +1P armor"
 - changed cavalry hp civ bonus to "Cavalry +20% hp Feudal, +25% Castle Age"
 - changed forage bush civ bonus to +20%
 
@@ -132,7 +131,7 @@ Lithuanians:
 - added Plate Mail Armor
 
 Magyars:
-- increased range of Elite Magyar Huszar to 1
+- NO CHANGES
 
 Malay:
 - added Architecture
@@ -153,7 +152,8 @@ Mongols:
 
 Persians:
 - changed Mahouts to "Enables creation of Elephant Archers, Battle Elephants, and Armored Elephants; Elephant units move 30% faster"
-- reverted TC and Dock work rate to add 5% in Dark Age
+- changed TC and Dock work rate to add 5% in Dark Age
+- added Fortified Wall
 
 Poles:
 - added Architecture
@@ -173,13 +173,13 @@ Sicilians:
 - added Archer-line to Hauberk
 
 Slavs:
-- reverted farmer work rate bonus to 15% faster
+- changed farmer work rate bonus to 15% faster
 - added Keep
 
 Spanish:
 - added Heated Shot
 - changed Supremacy to Reconquest, which gives "Militia-line and Knight-line +6 damage vs. Camels; Militia-line, Knight-line, and Monks +2 LOS"
-- reverted team bonus to give 33% trade bonus
+- changed team bonus to give 33% trade bonus
 - changed building speed civ bonus to "Builders construct buildings 33% faster"
 
 Tatars:
@@ -192,7 +192,8 @@ Teutons:
 - changed Teutonic Knight attack in Castle Age to 12
 
 Turks:
-- changed Sipahi to "Cavalry Archers +20 hp; Skirmishers and Spearmen +10 hp"
+- increased (Elite) Janissary accuracy by (10%) 5%
+- changed Sipahi to Yaya, which gives "Cavalry Archers +20 hp; Skirmishers and Spearmen +10 hp"
 
 Vietnamese:
 - NO CHANGES
