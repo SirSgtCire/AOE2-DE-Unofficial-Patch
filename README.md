@@ -15,10 +15,8 @@ design decisions into my own ideas for balance.
 
 General Game Changes:
 - enabled Monks, Monks with Relics, Petards, Kings and Queens to load into Siege Towers and Rams
-- increased (Elite) Battle Elephant trample damage blast radius to (0.5) 0.5
 - changed Paladin upgrade cost to 1000 food, 750 gold, research time to 125 seconds
-- changed Imperial Camel upgrade research time to 125 seconds
-- changed Elite Battle Elephant upgrade cost to 1200 food, 750 gold, research time to 100 seconds
+- changed Elite Battle Elephant upgrade cost to 1200 food, 750 gold, research time to 110 seconds
 - changed Siege Onager upgrade cost to 1200 food, 900 gold, research time to 130 seconds
 - standardized all land and water unique unit Elite upgrades to 800 food/wood, 500 gold, research time to 60 seconds
 - All unique archer-related and ship-related Elite upgrades have wood and gold costs
@@ -99,9 +97,7 @@ Hindustanis:
 - NO CHANGES
 
 Huns:
-- changed treb accuracy bonus to 100%
-- added civ bonus "+100 years relic/wonder victories; Spies/Treason costs 50% less; Enemy Relic gold generation reduced by 50%"
-- changed Atheism to Barbarism, which gives "Cavalry +5 attack vs Villagers"
+- NO CHANGES
 
 Incas:
 - changed Fabric Shields tech to include Monks and Xolotl Warriors
@@ -154,6 +150,8 @@ Persians:
 - changed Mahouts to "Enables creation of Elephant Archers, Battle Elephants, and Armored Elephants; Elephant units move 30% faster"
 - changed TC and Dock work rate to add 5% in Dark Age
 - added Fortified Wall
+- added Sanctity
+- added Illumination
 
 Poles:
 - added Architecture

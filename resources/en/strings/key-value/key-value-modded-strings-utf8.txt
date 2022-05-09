@@ -147,13 +147,7 @@
 
 
 //Huns
-8370 "Research Marauders (create Tarkans at Stables)"
-28370 "Research <b>Marauders<b> (<cost>) \ncreate Tarkans at Stables."
-7428 "Barbarism"
-8428 "Research Barbarism (Cavalry +5 attack vs. Villagers)"
-17428 "Barbarism"
-28428 "Research <b>Barbarism<b> (<cost>) \nCavalry +5 attack vs. Villagers."
-120166 "Cavalry civilization \n\n• Do not need houses, but start with -100 wood \n• Cavalry Archers cost -15% Castle, -20% Imperial Age \n• Trebuchets have 100% accuracy \n• +100 years Relic, Wonder victories; Spies/Treason costs -50%; Enemy Relic resource generation reduced by 50%\n\n<b>Unique Unit:<b>  \nTarkan (cavalry) \n\n<b>Unique Techs:<b>  \n• Marauders (create Tarkans at Stables) \n• Barbarism (Cavalry +5 attack vs. Villagers)\n\n<b>Team Bonus:<b>  \nStables work 20% faster"
+
 
 //Incas
 8267 "Research Fabric Shields (Kamayuks, Slingers, Eagles, Monks and Xolotl Warriors +1/+2P armor)"
@@ -221,16 +215,10 @@
 
 
 //Portuguese
-8251 "Research Arquebus (Ballistics for gunpowder units; Hand Canoneers +1 range)"
-28251 "Research <b>Arquebus<b> (<cost>) \nBallistics for gunpowder units; Hand Canoneers +1 range."
-120173 "Naval and Gunpowder civilization \n\n• All units cost -20% gold \n• Technologies researched 30% faster \n• Ships +10% HP \n• Can build Feitoria in Imperial Age \n\n<b>Unique Units:<b>  \nOrgan Gun (siege), Caravel (war ship)\n\n<b>Unique Techs:<b>  \n• Carrack (Ships +1/+1 armor) \n• Arquebus (Ballistics for gunpowder units; Hand Canoneers +1 range)\n\n<b>Team Bonus:<b>  \nLine of sight is shared with the team starting in the Dark Age"
+
 
 //Saracens
-8284 "Research Madrasah (Killed monks return 66% of their cost)"
-28284 "Research <b>Madrasah<b> (<cost>) \nKilled monks return 66% of their cost."
-8424 "Research Zealotry (Archers (except Skirmishers) +2 attack vs. buildings)"
-28424 "Research <b>Zealotry<b> (<cost>) \n Archers (except Skirmishers) +2 attack vs. buildings."
-120158 "Camel and Naval civilization \n\n• Market trade cost only 5% \n• Market costs -100 wood \n• Trade units move 10% faster \n• Galley-line attack 25% faster \n• Camel units +15% hit points \n\n<b>Unique Unit:<b>  \nMameluke (camel rider) \n\n<b>Unique Techs:<b>  \n• Madrasah (Killed monks return 66% of their cost) \n• Zealotry (Archers (except Skirmishers) +2 attack vs. buildings)\n\n<b>Team Bonus:<b>  \nFoot archers +2 attack vs. buildings"
+
 
 //Sicilians
 8344 "Research First Crusade (Each Town Center (maximum 5) spawns 7 Serjeants once; units more resistant to conversion)"
