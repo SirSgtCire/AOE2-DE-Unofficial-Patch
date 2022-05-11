@@ -55,6 +55,7 @@ Bulgarians:
 
 Burgundians:
 - changed Flemish Revolution to "Villagers +40 hit points, +4 attack, +2/+2P armor; create Flemish Militia at Town Centers"
+- increased Burgundian Vineyards effectiveness by 1
 
 Burmese:
 - increased accuracy of (Elite) Arambai by (5%) 5%
@@ -63,7 +64,7 @@ Byzantines:
 - changed Greek Fire to also increase blast width of Fire Galley-line by 0.2
 
 Celts:
-- changed base attack of (Elite) Woad Raiders to (14) 12 attack
+- changed base attack of (Elite) Woad Raiders to (14) 11 attack
 
 Chinese:
 - changed Rocketry tech to "Archer-line +2 attack; Scorpions +4 attack and +1 range"
@@ -110,11 +111,11 @@ Italians:
 Japanese:
 - increased Elite Samurai melee armor by 1
 - added Steppe Lancer line
-- added Hussar
 - removed Cavalier
+- added Heated Shot
 
 Khmer:
-- changed Battle Elephants speed civ bonus to "Elephant units move 15% faster"
+- changed Battle Elephants speed civ bonus to "Elephant units move 10% faster"
 - changed team bonus to "Scorpions minimum range reduced to 0"
 - removed farmer work rate reduction
 
@@ -151,16 +152,14 @@ Persians:
 - changed TC and Dock work rate to add 5% in Dark Age
 - added Fortified Wall
 - added Sanctity
-- added Illumination
 
 Poles:
 - added Architecture
 - removed Hoardings
 
 Portuguese:
-- increased projectile accuracy from Arquebus tech by 0.25
+- increased projectile speed from Arquebus tech by 0.1
 - increased blast radius of (Elite) Organ Guns by 0.2
-- changed Feitoria hit points to 4800
 
 Saracens:
 - changed camel hp civ bonus to "Camel units +1P armor"
@@ -172,7 +171,7 @@ Sicilians:
 
 Slavs:
 - changed farmer work rate bonus to 15% faster
-- added Keep
+- added Arrow Slits
 
 Spanish:
 - added Heated Shot
@@ -186,11 +185,11 @@ Tatars:
 Teutons:
 - added Siege Ram
 - changed Crenelations to "Castles and Town Centers +3 range; Garrisoned infantry fire arrows"
-- changed Elite Teutonic Knight normal armor to 12
-- changed Teutonic Knight attack in Castle Age to 12
+- changed Elite Teutonic Knight normal armor to 11
+- changed Teutonic Knight base attack to 13
 
 Turks:
-- increased (Elite) Janissary accuracy by (10%) 5%
+- increased Janissary accuracy by 5%
 - changed Sipahi to Yaya, which gives "Cavalry Archers +20 hp; Skirmishers and Spearmen +10 hp"
 
 Vietnamese:
@@ -198,6 +197,6 @@ Vietnamese:
 
 Vikings:
 - merged Chieftains effects into Berserkergang, increased bonus cavalry damage by 2
-- changed Chieftains to Keels, now gives "Galley-line have +2 normal armor"
+- changed Chieftains to Keels, now gives "Ships have +2 normal armor"
 - changed warship cost reduction civ bonus to "Warships cost -15% Feudal, -20% Castle Age"
 - added Thumb Ring

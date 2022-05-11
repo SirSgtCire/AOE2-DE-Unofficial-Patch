@@ -138,7 +138,7 @@
 //Goths
 8427 "Research Anarchy (create Huskarls at Barracks)"
 28427 "Research <b>Anarchy<b> (<cost>) \ncreate Huskarls at Barracks."
-120152 "Infantry civilization \n\n• Infantry cost -20% in Dark, -25% in Feudal, -30% in Castle, -35% in Imperial Age \n• Infantry +1 attack vs. buildings per age (starting in Feudal Age) \n• Villagers +5 attack vs. wild boar; hunters carry +15 meat \n• Loom free \n• Receive +5 population headroom and maximum per age (starting in Feudal Age) \n\n<b>Unique Unit:<b>  \nHuskarl (infantry) \n\n<b>Unique Techs:<b>  \n• Anarchy (create Huskarls at Barracks) \n• Perfusion (Barracks work 100% faster) \n\n<b>Team Bonus:<b>  \nBarracks work 20% faster"
+120152 "Infantry civilization \n\n• Infantry cost -20% in Dark, -25% in Feudal, -30% in Castle, -35% in Imperial Age \n• Infantry +1 attack vs. buildings per age (starting in Feudal Age) \n• Villagers +5 attack vs. wild boar; hunters carry +15 meat \n• Loom free \n• Receive +5 population space per age (starting in Feudal Age) \n\n<b>Unique Unit:<b>  \nHuskarl (infantry) \n\n<b>Unique Techs:<b>  \n• Anarchy (create Huskarls at Barracks) \n• Perfusion (Barracks work 100% faster) \n\n<b>Team Bonus:<b>  \nBarracks work 20% faster"
 
 // Gurjaras
 
@@ -207,9 +207,9 @@
 //Persians
 8281 "Research Kamandaran (Archer-line gold cost is replaced by 35 wood cost)"
 28281 "Research <b>Kamandaran<b> (<cost>) \nArcher-line gold cost is replaced by 35 wood cost."
-8423 "Research Mahouts ()"
-28423 "Research <b>Mahouts<b> (<cost>) \n."
-120157 "Cavalry civilization \n\n• Start with +50 wood, +50 food \n• Town Center, Dock 2x hit points; work rate +5% Dark, +10% Feudal, +15% Castle, +20% Imperial Age \n\n<b>Unique Unit:<b>  \nWar Elephant (cavalry) \n\n<b>Unique Techs:<b>  \n• Kamandaran (Archer-line gold cost is replaced by 35 wood cost) \n• Mahouts ()\n\n<b>Team Bonus:<b>  \nKnights +2 attack vs. Archers"
+8423 "Research Mahouts (Elephant units +30% movement speed; enables Battle Elephants, Elephant Archers and Armored Elephants)"
+28423 "Research <b>Mahouts<b> (<cost>) \nElephant units +30% movement speed; enables Battle Elephants, Elephant Archers and Armored Elephants."
+120157 "Cavalry civilization \n\n• Start with +50 wood, +50 food \n• Town Center, Dock 2x hit points; work rate +5% Dark, +10% Feudal, +15% Castle, +20% Imperial Age \n\n<b>Unique Unit:<b>  \nWar Elephant (cavalry) \n\n<b>Unique Techs:<b>  \n• Kamandaran (Archer-line gold cost is replaced by 35 wood cost) \n• Mahouts (Elephant units +30% movement speed; enables Battle Elephants, Elephant Archers and Armored Elephants)\n\n<b>Team Bonus:<b>  \nKnights +2 attack vs. Archers"
 
 //Poles
 
@@ -218,14 +218,16 @@
 
 
 //Saracens
-
+8424 "Research Zealotry (+30 HP Camel units)"
+28424 "Research <b>Zealotry<b> (<cost>)\nCamel units have +30 hit points."
+120158 "Camel and Naval civilization\n\n• Market trade cost only 5%\n• Markets cost -100 wood\n• Transport Ships +100 hit points, +5 carry capacity\n• Galleys attack 25% faster\n• Camel units +1P armor\n\n<b>Unique Unit:<b> \nMameluke (camel rider)\n\n<b>Unique Techs:<b> \n• Zealotry (Camel units +30 hit points)\n• Counterweights (Trebuchets and Mangonel-line +15% attack)\n\n<b>Team Bonus:<b> \nFoot archers +2 attack vs. buildings"
 
 //Sicilians
 8344 "Research First Crusade (Each Town Center (maximum 5) spawns 7 Serjeants once; units more resistant to conversion)"
 28344 "Research <b>First Crusade<b> (<cost>) \nEach Town Center (maximum 5) spawns 7 Serjeants once; units more resistant to conversion."
 8345 "Research Hauberk (Knight-line, Archer-line +1/+2P armor)"
 28345 "Research <b>Hauberk<b> (<cost>) \nKnight-line, Archer-line +1/+2P armor."
-120186 "Infantry and Cavalry civilization \n\n• Start with +100 stone \n• Castles and Town Centers built 100% faster \n• Land military units (except siege weapons) receive 50% less bonus damage \n• Farm upgrades provide +100% additional food \n• Transport Ships +5 carry capacity and +10 anti-ship armor \n• Donjon replaces Watch Tower-line \n\n<b>Unique Unit:<b> \nSerjeant (infantry)\n\n<b>Unique Techs:<b> \n• First Crusade (Each Town Center (maximum 5) spawns 7 Serjeants once; units more resistant to conversion) \n• Hauberk (Knight-line, Archer-line +1/+2P armor)\n\n<b>Team Bonus:<b> \nTransport ships +5 line of sight and cost -50%"
+120186 "Infantry and Cavalry civilization \n\n• Start with +100 stone \n• Castles and Town Centers built 100% faster \n• Land military units (except siege weapons) receive 50% less bonus damage \n• Farm upgrades provide +100% additional food \n• Donjon replaces Watch Tower-line \n\n<b>Unique Unit:<b> \nSerjeant (infantry)\n\n<b>Unique Techs:<b> \n• First Crusade (Each Town Center (maximum 5) spawns 7 Serjeants once; units more resistant to conversion) \n• Hauberk (Knight-line, Archer-line +1/+2P armor)\n\n<b>Team Bonus:<b> \nTransport ships +5 line of sight and cost -50%"
 
 //Slavs
 8268 "Research Orthodoxy (Monks +4/+4P armor)"
@@ -267,9 +269,9 @@
 
 //Vikings
 7312 "Keels"
-8312 "Research Keels (Galley-line +2 normal armor)"
+8312 "Research Keels (Ships +2 normal armor)"
 17312 "Keels"
-28312 "Research <b>Keels<b> (<cost>) \nGalley-line +2 normal armor."
+28312 "Research <b>Keels<b> (<cost>) \nShips +2 normal armor."
 8431 "Research Berserkergang (Berserks regenerate faster; Infantry +7 attack vs. cavalry)"
 28431 "Research <b>Berserkergang<b> (<cost>) \nBerserks regenerate faster; Infantry +7 attack vs. cavalry."
-120160 "Infantry and Naval civilization \n\n• Warships cost -15% Feudal, -20% Castle Age \n• Infantry +20% hit points (starting in Feudal Age) \n• Wheelbarrow, Hand Cart free \n\n<b>Unique Units:<b>  \nBerserk (infantry), Longboat (warship) \n\n<b>Unique Techs:<b>  \n• Keels (Galley-line +2 normal armor) \n• Berserkergang (Berserks regenerate faster; Infantry +7 attack vs. cavalry)\n\n<b>Team Bonus:<b>  \nDocks cost -15%"
+120160 "Infantry and Naval civilization \n\n• Warships cost -15% Feudal, -20% Castle Age \n• Infantry +20% hit points (starting in Feudal Age) \n• Wheelbarrow, Hand Cart free \n\n<b>Unique Units:<b>  \nBerserk (infantry), Longboat (warship) \n\n<b>Unique Techs:<b>  \n• Keels (Ships +2 normal armor) \n• Berserkergang (Berserks regenerate faster; Infantry +7 attack vs. cavalry)\n\n<b>Team Bonus:<b>  \nDocks cost -15%"
