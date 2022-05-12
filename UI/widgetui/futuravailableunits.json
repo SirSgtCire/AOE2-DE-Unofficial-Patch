@@ -25277,6 +25277,11 @@
 						"ID": 474,
 						"Name": "Heavy Cavalry Archer",
 						"RequiredAge": 4
+					},
+					{
+						"ID": 873,
+						"Name": "Elephant Archer",
+						"RequiredAge": 3
 					}
 				]
 			},
@@ -25431,6 +25436,11 @@
 						"ID": 330,
 						"Name": "Heavy Camel Rider",
 						"RequiredAge": 4
+					},
+					{
+						"ID": 1132,
+						"Name": "Battle Elephant",
+						"RequiredAge": 3
 					}
 				]
 			},
@@ -25502,6 +25512,11 @@
 						"ID": 36,
 						"Name": "Bombard Cannon",
 						"RequiredAge": 4
+					},
+					{
+						"ID": 1744,
+						"Name": "Armored Elephant",
+						"RequiredAge": 3
 					}
 				]
 			},
