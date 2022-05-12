@@ -61,7 +61,7 @@
 26561 "Build <b>Hussite Wagon<b> (<cost>) \nBohemian unique siege unit. Units behind it receive 50% less damage from incoming projectiles. Strong vs. archers. Weak vs. siege weapons.<i> Upgrades: attack, range (University); creation speed, to Elite Hussite Wagon 800W, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
 26558 "Create <b>Obuch<b> (<cost>) \nPolish unique infantry unit which can damage the armor of units it is fighting. Strong vs. buildings and infantry. Weak vs. archers at long range.<i> Upgrades: attack, armor (Blacksmith); speed (Barracks); creation speed, to Elite Obuch 800F, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
 26403 "Create <b>Urumi Swordsman<b> (<cost>)\nDravidian unique infantry unit which can charge its attack. Strong vs. buildings and infantry. Weak vs. archers at long range.<i> Upgrades: attack, armor (Blacksmith); speed (Barracks); creation speed, to Elite Urumi Swordsman 800F, 500G (Castle); more resistant to Monks (Monastery).<i>\n<hp> <attack> <armor> <piercearmor> <range>"
-26414 "Create <b>Ratha<b> (<cost>)\nBengali unique chariot that can switch between melee and ranged attacks. Strong vs. infantry. Weak vs. Skirmishers and Camel Riders.<i> Upgrades: attack, armor (Blacksmith); speed, hit points (Stable); creation speed, to Elite Ratha 800F, 800W (Castle); more resistant to Monks (Monastery).<i>\n<hp> <attack> <armor> <piercearmor> <range>"
+26414 "Create <b>Ratha<b> (<cost>)\nBengali unique chariot that can switch between melee and ranged attacks. Strong vs. infantry. Weak vs. Skirmishers and Camel Riders.<i> Upgrades: attack, armor (Blacksmith); speed, hit points (Stable); creation speed, to Elite Ratha 800W, 500G (Castle); more resistant to Monks (Monastery).<i>\n<hp> <attack> <armor> <piercearmor> <range>"
 26421 "Create <b>Chakram Thrower<b> (<cost>)\nGurjara unique infantry unit with ranged melee attack. Strong vs. infantry. Weak vs. archers and siege weapons. <i> Upgrades: attack, armor (Blacksmith); speed (Barracks); creation speed, to Elite Chakram Thrower 800F, 500G (Castle); more resistant to Monks (Monastery).<i>\n<hp> <attack> <armor> <piercearmor> <range>"
 26431 "Create <b>Ghulam<b> (<cost>)\nHindustani unique infantry unit that thrusts its spear through multiple targets. Strong vs. archers. Weak vs. cavalry. <i> Upgrades: attack, armor (Blacksmith); speed (Barracks); creation speed, to Elite Ghulam 800F, 500G (Castle); more resistant to Monks (Monastery).<i>\n<hp> <attack> <armor> <piercearmor> <range>"
 26437 "Create <b>Shrivamsha Rider<b> (<cost>)\nGurjara unique light cavalry unit which can dodge projectiles. Strong vs. archers. Weak vs. Pikemen and Camel Riders.<i> Upgrades: attack, armor (Blacksmith); speed, hit points, to Elite Shrivamsha Rider 800F, 500G (Stable); creation speed (Castle); more resistant to Monks (Monastery).<i>\n<hp> <attack> <armor> <piercearmor> <range>"
@@ -207,9 +207,9 @@
 //Persians
 8281 "Research Kamandaran (Archer-line gold cost is replaced by 35 wood cost)"
 28281 "Research <b>Kamandaran<b> (<cost>) \nArcher-line gold cost is replaced by 35 wood cost."
-8423 "Research Mahouts (Elephant units +30% movement speed; enables Battle Elephants, Elephant Archers and Armored Elephants)"
-28423 "Research <b>Mahouts<b> (<cost>) \nElephant units +30% movement speed; enables Battle Elephants, Elephant Archers and Armored Elephants."
-120157 "Cavalry civilization \n\n• Start with +50 wood, +50 food \n• Town Center, Dock 2x hit points; work rate +5% Dark, +10% Feudal, +15% Castle, +20% Imperial Age \n\n<b>Unique Unit:<b>  \nWar Elephant (cavalry) \n\n<b>Unique Techs:<b>  \n• Kamandaran (Archer-line gold cost is replaced by 35 wood cost) \n• Mahouts (Elephant units +30% movement speed; enables Battle Elephants, Elephant Archers and Armored Elephants)\n\n<b>Team Bonus:<b>  \nKnights +2 attack vs. Archers"
+8423 "Research Mahouts (Elephant units move 30% faster; enables Battle Elephants, Elephant Archers and Armored Elephants)"
+28423 "Research <b>Mahouts<b> (<cost>) \nElephant units move 30% faster; enables Battle Elephants, Elephant Archers and Armored Elephants."
+120157 "Cavalry civilization \n\n• Start with +50 wood, +50 food \n• Town Center, Dock 2x hit points; work rate +5% Dark, +10% Feudal, +15% Castle, +20% Imperial Age \n\n<b>Unique Unit:<b>  \nWar Elephant (cavalry) \n\n<b>Unique Techs:<b>  \n• Kamandaran (Archer-line gold cost is replaced by 35 wood cost) \n• Mahouts (Elephant units move 30% faster; enables Battle Elephants, Elephant Archers and Armored Elephants)\n\n<b>Team Bonus:<b>  \nKnights +2 attack vs. Archers"
 
 //Poles
 
@@ -220,7 +220,7 @@
 //Saracens
 8424 "Research Zealotry (+30 HP Camel units)"
 28424 "Research <b>Zealotry<b> (<cost>)\nCamel units have +30 hit points."
-120158 "Camel and Naval civilization\n\n• Market trade cost only 5%\n• Markets cost -100 wood\n• Transport Ships +100 hit points, +5 carry capacity\n• Galleys attack 25% faster\n• Camel units +1P armor\n\n<b>Unique Unit:<b> \nMameluke (camel rider)\n\n<b>Unique Techs:<b> \n• Zealotry (Camel units +30 hit points)\n• Counterweights (Trebuchets and Mangonel-line +15% attack)\n\n<b>Team Bonus:<b> \nFoot archers +2 attack vs. buildings"
+120158 "Camel and Naval civilization\n\n• Market trade cost only 5%\n• Markets cost -100 wood\n• Transport Ships +100 hit points, +5 carry capacity\n• Galley-line attack 25% faster\n• Camel units +1P armor\n\n<b>Unique Unit:<b> \nMameluke (camel rider)\n\n<b>Unique Techs:<b> \n• Zealotry (Camel units +30 hit points)\n• Counterweights (Trebuchets and Mangonel-line +15% attack)\n\n<b>Team Bonus:<b> \nFoot archers +2 attack vs. buildings"
 
 //Sicilians
 8344 "Research First Crusade (Each Town Center (maximum 5) spawns 7 Serjeants once; units more resistant to conversion)"
@@ -230,16 +230,14 @@
 120186 "Infantry and Cavalry civilization \n\n• Start with +100 stone \n• Castles and Town Centers built 100% faster \n• Land military units (except siege weapons) receive 50% less bonus damage \n• Farm upgrades provide +100% additional food \n• Donjon replaces Watch Tower-line \n\n<b>Unique Unit:<b> \nSerjeant (infantry)\n\n<b>Unique Techs:<b> \n• First Crusade (Each Town Center (maximum 5) spawns 7 Serjeants once; units more resistant to conversion) \n• Hauberk (Knight-line, Archer-line +1/+2P armor)\n\n<b>Team Bonus:<b> \nTransport ships +5 line of sight and cost -50%"
 
 //Slavs
-8268 "Research Orthodoxy (Monks +4/+4P armor)"
-28268 "Research <b>Orthodoxy<b> (<cost>) \nMonks +4/+4P armor."
-120172 "Infantry and Siege civilization \n\n• Farmers work 15% faster \n• Supplies free \n• Siege Workshop units 15% cheaper\n\n<b>Unique Unit:<b>  \nBoyar (cavalry)\n\n<b>Unique Techs:<b>  \n• Orthodoxy (Monks +4/+4P armor) \n• Druzhina (Infantry damage adjacent units)\n\n<b>Team Bonus:<b>  \nMilitary buildings provide +5 population headroom"
+120172 "Infantry and Siege civilization\n\n• Farmers work 15% faster\n• Supplies free\n• Siege Workshop units 15% cheaper\n\n<b>Unique Unit:<b> \nBoyar (cavalry)\n\n<b>Unique Techs:<b> \n• Detinets (Replaces 40% of Castles' and Towers' stone cost with wood)\n• Druzhina (Infantry damage adjacent units)\n\n<b>Team Bonus:<b> \nMilitary buildings provide +5 population room"
 
 //Spanish
 7325 "Reconquest"
-8325 "Research Reconquest (Militia-line and Knight-line +6 attack vs. Camels; Militia-line, Knight-line, and Monks +2 line of sight)"
+8325 "Research Reconquest (Militia-line, Knight-line +6 attack vs. Camels; Militia-line, Knight-line, and Monks +2 line of sight)"
 17325 "Reconquest"
-28325 "Research <b>Reconquest<b> (<cost>) \nMilitia-line and Knight-line +6 attack vs. Camels; Militia-line, Knight-line, and Monks +2 line of sight."
-120163 "Gunpowder and Monk civilization \n\n• Builders work 33% faster \n• Blacksmith upgrades don't cost gold \n• Cannon Galleons benefit from Ballistics \n• Gunpowder units fire 18% faster\n\n<b>Unique Units:<b>  \nConquistador (mounted hand cannoneer), Missionary (mounted Monk) \n\n<b>Unique Techs:<b>  \n• Inquisition (Monks convert faster) \n• Reconquest (Militia-line and Knight-line +6 attack vs. Camels; Militia-line, Knight-line, and Monks +2 line of sight)\n\n<b>Team Bonus:<b>  \nTrade units generate +33% gold"
+28325 "Research <b>Reconquest<b> (<cost>) \nMilitia-line, Knight-line +6 attack vs. Camels; Militia-line, Knight-line, and Monks +2 line of sight."
+120163 "Gunpowder and Monk civilization \n\n• Builders work 33% faster \n• Blacksmith upgrades don't cost gold \n• Cannon Galleons benefit from Ballistics \n• Gunpowder units fire 18% faster\n\n<b>Unique Units:<b>  \nConquistador (mounted hand cannoneer), Missionary (mounted Monk) \n\n<b>Unique Techs:<b>  \n• Inquisition (Monks convert faster) \n• Reconquest (Militia-line, Knight-line +6 attack vs. Camels; Militia-line, Knight-line, and Monks +2 line of sight)\n\n<b>Team Bonus:<b>  \nTrade units generate +33% gold"
 
 //Tatars
 8309 "Research Silk Armor (Scout Cavalry line, Steppe Lancers and Cavalry Archers +1/+1P armor)"

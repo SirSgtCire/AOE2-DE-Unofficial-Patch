@@ -17938,7 +17938,7 @@
 "Name":"Siege Ram",
 "Name String ID":14446,
 "Node ID":548,
-"Node Status":"NotAvailable",
+"Node Status":"ResearchedCompleted",
 "Node Type":"UnitUpgrade",
 "Picture Index":73,
 "Prerequisite IDs":[
@@ -22833,7 +22833,7 @@
 "Name":"Cavalier",
 "Name String ID":14070,
 "Node ID":283,
-"Node Status":"ResearchedCompleted",
+"Node Status":"NotAvailable",
 "Node Type":"UnitUpgrade",
 "Picture Index":49,
 "Prerequisite IDs":[
@@ -23013,7 +23013,7 @@
 "Name":"Steppe Lancer",
 "Name String ID":14009,
 "Node ID":1370,
-"Node Status":"NotAvailable",
+"Node Status":"ResearchedCompleted",
 "Node Type":"Unit",
 "Picture Index":273,
 "Prerequisite IDs":[
@@ -23043,7 +23043,7 @@
 "Name":"Elite Steppe Lancer",
 "Name String ID":14010,
 "Node ID":1372,
-"Node Status":"NotAvailable",
+"Node Status":"ResearchedCompleted",
 "Node Type":"UnitUpgrade",
 "Picture Index":274,
 "Prerequisite IDs":[
@@ -24723,7 +24723,7 @@
 "Name":"Heated Shot",
 "Name String ID":17374,
 "Node ID":380,
-"Node Status":"NotAvailable",
+"Node Status":"ResearchedCompleted",
 "Node Type":"Research",
 "Picture Index":104,
 "Prerequisite IDs":[
@@ -37194,7 +37194,7 @@
 "Name":"Fortified Wall",
 "Name String ID":14204,
 "Node ID":155,
-"Node Status":"NotAvailable",
+"Node Status":"ResearchedCompleted",
 "Node Type":"BuildingNonTech",
 "Picture Index":46,
 "Prerequisite IDs":[
@@ -37818,18 +37818,18 @@
 "Name":"Elephant Archer",
 "Name String ID":14682,
 "Node ID":873,
-"Node Status":"NotAvailable",
+"Node Status":"ResearchRequired",
 "Node Type":"Unit",
 "Picture Index":393,
 "Prerequisite IDs":[
-0,
+7,
 0,
 0,
 0,
 0
 ],
 "Prerequisite Types":[
-"None",
+"Research",
 "None",
 "None",
 "None",
@@ -38628,18 +38628,18 @@
 "Name":"Battle Elephant",
 "Name String ID":14167,
 "Node ID":1132,
-"Node Status":"NotAvailable",
+"Node Status":"ResearchRequired",
 "Node Type":"UnitUpgrade",
 "Picture Index":228,
 "Prerequisite IDs":[
-0,
+7,
 0,
 0,
 0,
 0
 ],
 "Prerequisite Types":[
-"None",
+"Research",
 "None",
 "None",
 "None",
@@ -38868,18 +38868,18 @@
 "Name":"Armored Elephant",
 "Name String ID":14428,
 "Node ID":1744,
-"Node Status":"NotAvailable",
+"Node Status":"ResearchRequired",
 "Node Type":"Unit",
 "Picture Index":394,
 "Prerequisite IDs":[
-0,
+7,
 0,
 0,
 0,
 0
 ],
 "Prerequisite Types":[
-"None",
+"Research",
 "None",
 "None",
 "None",
@@ -40188,7 +40188,7 @@
 "Name":"Fortified Wall",
 "Name String ID":17163,
 "Node ID":194,
-"Node Status":"NotAvailable",
+"Node Status":"ResearchedCompleted",
 "Node Type":"Research",
 "Picture Index":46,
 "Prerequisite IDs":[
@@ -41088,7 +41088,7 @@
 "Name":"Sanctity",
 "Name String ID":17221,
 "Node ID":231,
-"Node Status":"NotAvailable",
+"Node Status":"ResearchedCompleted",
 "Node Type":"Research",
 "Picture Index":83,
 "Prerequisite IDs":[
@@ -53553,7 +53553,7 @@
 "Name":"Thumb Ring",
 "Name String ID":17411,
 "Node ID":437,
-"Node Status":"NotAvailable",
+"Node Status":"ResearchedCompleted",
 "Node Type":"Research",
 "Picture Index":112,
 "Prerequisite IDs":[
@@ -71808,7 +71808,7 @@
 "Name":"Heated Shot",
 "Name String ID":17374,
 "Node ID":380,
-"Node Status":"NotAvailable",
+"Node Status":"ResearchedCompleted",
 "Node Type":"Research",
 "Picture Index":104,
 "Prerequisite IDs":[
@@ -73667,7 +73667,7 @@
 "Name":"Keep",
 "Name String ID":14155,
 "Node ID":235,
-"Node Status":"NotAvailable",
+"Node Status":"ResearchRequired",
 "Node Type":"BuildingNonTech",
 "Picture Index":16,
 "Prerequisite IDs":[
@@ -77033,7 +77033,7 @@
 "Name":"Keep",
 "Name String ID":17063,
 "Node ID":63,
-"Node Status":"NotAvailable",
+"Node Status":"ResearchedCompleted",
 "Node Type":"Research",
 "Picture Index":16,
 "Prerequisite IDs":[
@@ -82768,7 +82768,7 @@
 "Name":"Redemption",
 "Name String ID":17315,
 "Node ID":316,
-"Node Status":"NotAvailable",
+"Node Status":"ResearchedCompleted",
 "Node Type":"Research",
 "Picture Index":92,
 "Prerequisite IDs":[
@@ -82798,7 +82798,7 @@
 "Name":"Illumination",
 "Name String ID":17220,
 "Node ID":233,
-"Node Status":"NotAvailable",
+"Node Status":"ResearchedCompleted",
 "Node Type":"Research",
 "Picture Index":84,
 "Prerequisite IDs":[
@@ -82828,7 +82828,7 @@
 "Name":"Atonement",
 "Name String ID":17316,
 "Node ID":319,
-"Node Status":"ResearchedCompleted",
+"Node Status":"NotAvailable",
 "Node Type":"Research",
 "Picture Index":93,
 "Prerequisite IDs":[
@@ -82978,7 +82978,7 @@
 "Name":"Sanctity",
 "Name String ID":17221,
 "Node ID":231,
-"Node Status":"ResearchedCompleted",
+"Node Status":"NotAvailable",
 "Node Type":"Research",
 "Picture Index":83,
 "Prerequisite IDs":[
@@ -96763,7 +96763,7 @@
 "Name":"Heavy Scorpion",
 "Name String ID":14439,
 "Node ID":542,
-"Node Status":"NotAvailable",
+"Node Status":"ResearchedCompleted",
 "Node Type":"UnitUpgrade",
 "Picture Index":89,
 "Prerequisite IDs":[
@@ -119135,7 +119135,7 @@
 "Name":"Arrowslits",
 "Name String ID":17278,
 "Node ID":608,
-"Node Status":"NotAvailable",
+"Node Status":"ResearchedCompleted",
 "Node Type":"Research",
 "Picture Index":119,
 "Prerequisite IDs":[
@@ -150367,7 +150367,7 @@
 "Name":"Architecture",
 "Name String ID":17051,
 "Node ID":51,
-"Node Status":"NotAvailable",
+"Node Status":"ResearchedCompleted",
 "Node Type":"Research",
 "Picture Index":14,
 "Prerequisite IDs":[
@@ -162916,7 +162916,7 @@
 "Name":"Keep",
 "Name String ID":14155,
 "Node ID":235,
-"Node Status":"ResearchRequired",
+"Node Status":"NotAvailable",
 "Node Type":"BuildingNonTech",
 "Picture Index":16,
 "Prerequisite IDs":[
@@ -165144,7 +165144,7 @@
 "Name":"Ring Archer Armor",
 "Name String ID":17216,
 "Node ID":219,
-"Node Status":"NotAvailable",
+"Node Status":"ResearchedCompleted",
 "Node Type":"Research",
 "Picture Index":51,
 "Prerequisite IDs":[
@@ -166314,7 +166314,7 @@
 "Name":"Keep",
 "Name String ID":17063,
 "Node ID":63,
-"Node Status":"ResearchedCompleted",
+"Node Status":"NotAvailable",
 "Node Type":"Research",
 "Picture Index":16,
 "Prerequisite IDs":[
@@ -181299,7 +181299,7 @@
 "Name":"Plate Mail Armor",
 "Name String ID":17077,
 "Node ID":77,
-"Node Status":"NotAvailable",
+"Node Status":"ResearchedCompleted",
 "Node Type":"Research",
 "Picture Index":64,
 "Prerequisite IDs":[
@@ -192411,7 +192411,7 @@
 "Name":"Architecture",
 "Name String ID":17051,
 "Node ID":51,
-"Node Status":"NotAvailable",
+"Node Status":"ResearchedCompleted",
 "Node Type":"Research",
 "Picture Index":14,
 "Prerequisite IDs":[
@@ -197696,7 +197696,7 @@
 "Name":"Architecture",
 "Name String ID":17051,
 "Node ID":51,
-"Node Status":"NotAvailable",
+"Node Status":"ResearchedCompleted",
 "Node Type":"Research",
 "Picture Index":14,
 "Prerequisite IDs":[
@@ -198236,7 +198236,7 @@
 "Name":"Hoardings",
 "Name String ID":17376,
 "Node ID":379,
-"Node Status":"ResearchedCompleted",
+"Node Status":"NotAvailable",
 "Node Type":"Research",
 "Picture Index":103,
 "Prerequisite IDs":[

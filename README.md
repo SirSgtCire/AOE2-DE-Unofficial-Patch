@@ -148,7 +148,7 @@ Mongols:
 - changed drill speed bonus to +40%
 
 Persians:
-- changed Mahouts to "Enables creation of Elephant Archers, Battle Elephants, and Armored Elephants; Elephant units move 30% faster"
+- changed Mahouts to "Elephant units move 30% faster; Enables Elephant Archers, Battle Elephants and Armored Elephants"
 - changed TC and Dock work rate to add 5% in Dark Age
 - added Fortified Wall
 - added Sanctity
@@ -175,7 +175,7 @@ Slavs:
 
 Spanish:
 - added Heated Shot
-- changed Supremacy to Reconquest, which gives "Militia-line and Knight-line +6 damage vs. Camels; Militia-line, Knight-line, and Monks +2 LOS"
+- changed Supremacy to Reconquest, which gives "Militia-line, Knight-line +6 damage vs. Camels; Militia-line, Knight-line, and Monks +2 LOS"
 - changed team bonus to give 33% trade bonus
 - changed building speed civ bonus to "Builders construct buildings 33% faster"
 

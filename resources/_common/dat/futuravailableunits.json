@@ -559,6 +559,12 @@
             "Name": "Guard Tower",
             "RequiredAge": 3
           },
+		  {
+            "ID": 63,
+            "Name": "Keep",
+            "RequiredAge": 4,
+            "RequiredTechID": 140
+          },
           {
             "ID": 380,
             "Name": "Heated Shot",
@@ -4388,6 +4394,11 @@
             "Name": "Leather Archer Armor",
             "RequiredAge": 3
           },
+		  {
+            "ID": 219,
+            "Name": "Ring Archer Armor",
+            "RequiredAge": 4
+          },
           {
             "ID": 199,
             "Name": "Fletching",
@@ -4594,12 +4605,6 @@
             "ID": 140,
             "Name": "Guard Tower",
             "RequiredAge": 3
-          },
-          {
-            "ID": 63,
-            "Name": "Keep",
-            "RequiredAge": 4,
-            "RequiredTechID": 140
           },
           {
             "ID": 380,
@@ -16163,6 +16168,11 @@
             "ID": 257,
             "Name": "Onager",
             "RequiredAge": 4
+          },
+		  {
+            "ID": 239,
+            "Name": "Heavy Scorpion",
+            "RequiredAge": 4
           }
         ],
         "Units": [
@@ -16190,6 +16200,11 @@
             "ID": 279,
             "Name": "Scorpion",
             "RequiredAge": 3
+          },
+		  {
+            "ID": 542,
+            "Name": "Heavy Scorpion",
+            "RequiredAge": 4
           },
           {
             "ID": 1105,
@@ -17146,8 +17161,8 @@
             "RequiredAge": 2
           },
           {
-            "ID": 209,
-            "Name": "Cavalier",
+            "ID": 715,
+            "Name": "Elite Steppe Lancer",
             "RequiredAge": 4
           },
           {
@@ -17173,8 +17188,13 @@
             "RequiredAge": 3
           },
           {
-            "ID": 283,
-            "Name": "Cavalier",
+            "ID": 1370,
+            "Name": "Steppe Lancer",
+            "RequiredAge": 3
+          },
+          {
+            "ID": 1372,
+            "Name": "Elite Steppe Lancer",
             "RequiredAge": 4
           }
         ]
@@ -17492,6 +17512,11 @@
             "Name": "Keep",
             "RequiredAge": 4,
             "RequiredTechID": 140
+          },
+		  {
+            "ID": 380,
+            "Name": "Heated Shot",
+            "RequiredAge": 3
           },
           {
             "ID": 608,
@@ -20341,6 +20366,11 @@
             "ID": 76,
             "Name": "Chain Mail Armor",
             "RequiredAge": 3
+          },
+          {
+            "ID": 77,
+            "Name": "Plate Mail Armor",
+            "RequiredAge": 4
           }
         ]
       },
@@ -22505,6 +22535,11 @@
             "Name": "Masonry",
             "RequiredAge": 3
           },
+		  {
+            "ID": 51,
+            "Name": "Architecture",
+            "RequiredAge": 4
+          },
           {
             "ID": 47,
             "Name": "Chemistry",
@@ -24614,10 +24649,15 @@
             "Name": "Faith",
             "RequiredAge": 4
           },
-          {
-            "ID": 319,
-            "Name": "Atonement",
+		  {
+            "ID": 316,
+            "Name": "Redemption",
             "RequiredAge": 3
+          },
+          {
+            "ID": 233,
+            "Name": "Illumination",
+            "RequiredAge": 4
           },
           {
             "ID": 230,
@@ -24637,11 +24677,6 @@
           {
             "ID": 439,
             "Name": "Heresy",
-            "RequiredAge": 3
-          },
-          {
-            "ID": 231,
-            "Name": "Sanctity",
             "RequiredAge": 3
           },
           {
@@ -26500,6 +26535,11 @@
             "Name": "Architecture",
             "RequiredAge": 4
           },
+		  {
+            "ID": 155,
+            "Name": "Fortified Wall",
+            "RequiredAge": 3
+          },
           {
             "ID": 47,
             "Name": "Chemistry",
@@ -26663,6 +26703,11 @@
             "ID": 438,
             "Name": "Theocracy",
             "RequiredAge": 4
+          },
+		  {
+            "ID": 231,
+            "Name": "Sanctity",
+            "RequiredAge": 3
           },
           {
             "ID": 252,
@@ -29525,10 +29570,10 @@
             "Name": "Masonry",
             "RequiredAge": 3
           },
-          {
-            "ID": 380,
-            "Name": "Heated Shot",
-            "RequiredAge": 3
+		  {
+            "ID": 51,
+            "Name": "Architecture",
+            "RequiredAge": 4
           },
           {
             "ID": 47,
@@ -29543,6 +29588,11 @@
           {
             "ID": 93,
             "Name": "Ballistics",
+            "RequiredAge": 3
+          },
+		  {
+            "ID": 380,
+            "Name": "Heated Shot",
             "RequiredAge": 3
           },
           {
@@ -30528,6 +30578,11 @@
             "ID": 140,
             "Name": "Guard Tower",
             "RequiredAge": 3
+          },
+		  {
+            "ID": 608,
+            "Name": "Arrowslits",
+            "RequiredAge": 4
           },
           {
             "ID": 322,
@@ -31568,6 +31623,11 @@
             "Name": "Keep",
             "RequiredAge": 4,
             "RequiredTechID": 140
+          },
+		  {
+            "ID": 380,
+            "Name": "Heated Shot",
+            "RequiredAge": 3
           },
           {
             "ID": 608,
@@ -33275,6 +33335,11 @@
             "Name": "Capped Ram",
             "RequiredAge": 4
           },
+		  {
+            "ID": 255,
+            "Name": "Siege Ram",
+            "RequiredAge": 4
+          },
           {
             "ID": 257,
             "Name": "Onager",
@@ -33300,6 +33365,11 @@
           {
             "ID": 422,
             "Name": "Capped Ram",
+            "RequiredAge": 4
+          },
+		  {
+            "ID": 548,
+            "Name": "Siege Ram",
             "RequiredAge": 4
           },
           {
@@ -37568,6 +37638,11 @@
             "Name": "Masonry",
             "RequiredAge": 3
           },
+		  {
+            "ID": 51,
+            "Name": "Architecture",
+            "RequiredAge": 4
+          },
           {
             "ID": 194,
             "Name": "Fortified Wall",
@@ -37678,11 +37753,6 @@
           {
             "ID": 783,
             "Name": "Lechitic Legacy",
-            "RequiredAge": 4
-          },
-          {
-            "ID": 379,
-            "Name": "Hoardings",
             "RequiredAge": 4
           },
           {
