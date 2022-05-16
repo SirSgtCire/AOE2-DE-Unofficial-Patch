@@ -88,7 +88,7 @@
 120150 "Foot Archer civilization \n\n• Town Centers cost -50% wood \n• Foot archers (except skirmishers) have +1 range per age (starting in Castle Age) \n• Shepherds work 25% faster \n\n<b>Unique Unit:<b>  \nLongbowman (archer) \n\n<b>Unique Techs:<b>  \n• Yeomen (Foot Archers +1 range; Towers +2 attack) \n• Warwolf (Trebuchets do blast damage)\n\n<b>Team Bonus:<b>  \nArchery Ranges work 20% faster"
 
 //Bulgarians
-120181 "Infantry and Cavalry civilization \n\n• Militia-line upgrades free \n• Town Centers cost -50% stone (starting in Castle Age) \n• Blacksmith and Siege Workshop technologies cost -50% food\n• Can build Krepost \n\n<b>Unique Unit:<b> \nKonnik (cavalry)\n\n<b>Unique Techs:<b> \n• Stirrups (Cavalry attack 33% faster) \n• Bagains (Militia-line gains +5 armor) \n\n<b>Team Bonus:<b> \nBlacksmiths work 80% faster"
+120181 "Infantry and Cavalry civilization \n\n• Militia-line upgrades free \n• Town Centers cost -50% stone \n• Blacksmith and Siege Workshop technologies cost -50% food\n• Can build Krepost \n\n<b>Unique Unit:<b> \nKonnik (cavalry)\n\n<b>Unique Techs:<b> \n• Stirrups (Cavalry attack 33% faster) \n• Bagains (Militia-line gains +5 armor) \n\n<b>Team Bonus:<b> \nBlacksmiths work 80% faster"
 
 //Burgundians
 8342 "Research Burgundian Vineyards (Farmers slowly generate gold in addition to food)"
@@ -147,7 +147,7 @@
 
 
 //Huns
-
+120166 "Cavalry civilization\n\n• Do not need houses, but start with -100 wood\n• Cavalry Archers cost -10% Castle, -20% Imperial Age\n• Trebuchets have 100% accuracy\n\n<b>Unique Unit:<b> \nTarkan (cavalry)\n\n<b>Unique Techs:<b> \n• Marauders (Create Tarkans at stables)\n• Atheism (+100 years Relic, Wonder victories; enemy relics generate -50% resources)\n\n<b>Team Bonus:<b> \nStables work 20% faster"
 
 //Incas
 8267 "Research Fabric Shields (Kamayuks, Slingers, Eagles, Monks and Xolotl Warriors +1/+2P armor)"
@@ -171,11 +171,11 @@
 120167 "Archer and Naval civilization \n\n• Villagers +3 line of sight \n• Stone miners work 20% faster \n• Tower upgrades free (Bombard Tower requires Chemistry) \n• Archer armor upgrades free \n• Military units (except siege weapons) cost -20% wood \n\n<b>Unique Units:<b>  \nWar Wagon (cavalry archer), Turtle Ship (war ship)\n\n<b>Unique Techs:<b>  \n• Eupseong (Watch Towers, Guard Towers and Keeps +2 range) \n• Shinkichon (Mangonel-line +1 range and cost -10%)\n\n<b>Team Bonus:<b>  \nMangonel-line minimum range reduced to 1"
 
 //Lithuanians
-8400 "Research Tower Shields (Spearman-line, Skirmishers and Hand Cannoneers +1/+1P armor)"
-28400 "Research <b>Tower Shields<b> (<cost>) \nSpearman-line, Skirmishers and Hand Cannoneers +1/+1P armor."
+8400 "Research Tower Shields (Spearman-line and Skirmishers +1/+1P armor)"
+28400 "Research <b>Tower Shields<b> (<cost>) \nSpearman-line and Skirmishers +1/+1P armor."
 8399 "Research Hill Forts (Town Centers +4 attack)"
 28399 "Research <b>Hill Forts<b> (<cost>) \nTown Centers +4 attack."
-120184 "Cavalry and Monk civilization \n\n• Start with +150 food \n• Spearman-line and Skirmishers move 10% faster\n• Each garrisoned relic gives +1 attack to Knights and Leitis (maximum +4) \n\n<b>Unique Unit:<b> \nLeitis (cavalry)\n\n<b>Unique Techs:<b> \n• Hill Forts (Town Centers +4 attack) \n• Tower Shields (Spearman-line, Skirmishers and Hand Cannoneers +1/+1P armor)\n\n<b>Team Bonus:<b> \nMonasteries work 20% faster"
+120184 "Cavalry and Monk civilization \n\n• Start with +150 food \n• Spearman-line and Skirmishers move 10% faster\n• Each garrisoned relic gives +1 attack to Knights and Leitis (maximum +4) \n\n<b>Unique Unit:<b> \nLeitis (cavalry)\n\n<b>Unique Techs:<b> \n• Hill Forts (Town Centers +4 attack) \n• Tower Shields (Spearman-line and Skirmishers +1/+1P armor)\n\n<b>Team Bonus:<b> \nMonasteries work 20% faster"
 
 //Magyars
 8275 "Research Corvinian Army (Magyar Huszars don't cost gold)"
