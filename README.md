@@ -124,7 +124,7 @@ Koreans:
 - changed Shinkichon to also decrease Mangonel-line creation cost by 10%
 
 Lithuanians:
-- changed Tower Shields to "Spearman-line and Skirmishers receive +1/+1P armor"
+- changed Tower Shields to "Spearman-line, Skirmishers and Hand Canoneers receive +1/+1P armor"
 - changed Hill Forts to "Town Centers have +4 attack"
 - added Plate Mail Armor
 
@@ -195,7 +195,7 @@ Turks:
 - changed Sipahi to Yaya, which gives "Cavalry Archers +20 hp; Skirmishers and Spearmen +10 hp"
 
 Vietnamese:
-- NO CHANGES
+- archer hit points civ bonus changed to "Archery Range units +20% hit points (starting in Feudal Age)"
 
 Vikings:
 - merged Chieftains effects into Berserkergang, increased bonus cavalry damage by 2
