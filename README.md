@@ -95,7 +95,8 @@ Gurjaras:
 - NO CHANGES
 
 Hindustanis:
-- NO CHANGES
+- removed Hoardings
+- added Architecture
 
 Huns:
 - changed treb accuracy civ bonus to "Trebs have 100% accuracy"
@@ -172,6 +173,7 @@ Sicilians:
 Slavs:
 - changed farmer work rate bonus to 15% faster
 - added Arrow Slits
+- added Keep
 
 Spanish:
 - added Heated Shot
