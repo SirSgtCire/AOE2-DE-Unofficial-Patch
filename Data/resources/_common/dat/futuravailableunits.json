@@ -14974,6 +14974,11 @@
 						"RequiredAge": 3
 					},
 					{
+						"ID": 51,
+						"Name": "Architecture",
+						"RequiredAge": 4
+					},
+					{
 						"ID": 194,
 						"Name": "Fortified Wall",
 						"RequiredAge": 3
@@ -15076,11 +15081,6 @@
 					{
 						"ID": 507,
 						"Name": "Shatagni",
-						"RequiredAge": 4
-					},
-					{
-						"ID": 379,
-						"Name": "Hoardings",
 						"RequiredAge": 4
 					},
 					{
@@ -29672,6 +29672,12 @@
 						"ID": 140,
 						"Name": "Guard Tower",
 						"RequiredAge": 3
+					},
+					{
+						"ID": 63,
+						"Name": "Keep",
+						"RequiredAge": 4,
+						"RequiredTechID": 140
 					},
 					{
 						"ID": 608,
