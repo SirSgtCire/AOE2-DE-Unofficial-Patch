@@ -1,8 +1,8 @@
 ## AOE2-DE-Unofficial-Patch - by SirSgtCire
-Welcome to the Unofficial Patch Definitive Edition, Version 3.3!
+Welcome to the Unofficial Patch Definitive Edition, Version 3.4!
 
 This mod is kept up to date with the latest patches from DE, as I always try to incorporate approved dev changes into my work. 
-Therefore this mod currently operates on patch: 61321
+Therefore this mod currently operates on patch: 62085
 
 My goal with this mod is to focus on diverse strategies, unique playstyles for certain civs (not every civ should 
 be able to do everything well), some historical accuracy (as much as is possible in this game, without 
@@ -95,7 +95,8 @@ Gurjaras:
 - NO CHANGES
 
 Hindustanis:
-- NO CHANGES
+- removed Hoardings
+- added Architecture
 
 Huns:
 - changed treb accuracy civ bonus to "Trebs have 100% accuracy"
@@ -172,6 +173,7 @@ Sicilians:
 Slavs:
 - changed farmer work rate bonus to 15% faster
 - added Arrow Slits
+- added Keep
 
 Spanish:
 - added Heated Shot
