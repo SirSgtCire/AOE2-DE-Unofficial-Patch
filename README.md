@@ -14,7 +14,7 @@ longevity of the game, and want to do my best to keep some of those changes, and
 design decisions into my own ideas for balance.
 
 General Game Changes:
-- enabled Monks, Monks with Relics, Petards and Saboteurs to load into Siege Towers and Rams
+- enabled Monks, Monks with Relics, Petards, Saboteurs, Kings and Queens to load into Siege Towers and Rams
 - changed Paladin upgrade cost to 1000 food, 750 gold, research time to 125 seconds
 - changed Elite Battle Elephant upgrade cost to 1200 food, 750 gold, research time to 110 seconds
 - changed Siege Onager upgrade cost to 1200 food, 900 gold, research time to 130 seconds
