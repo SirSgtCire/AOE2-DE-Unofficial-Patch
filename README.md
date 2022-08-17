@@ -1,8 +1,8 @@
 ## AOE2-DE-Unofficial-Patch - by SirSgtCire
-Welcome to the Unofficial Patch Definitive Edition, Version 3.4!
+Welcome to the Unofficial Patch Definitive Edition, Version 3.5!
 
 This mod is kept up to date with the latest patches from DE, as I always try to incorporate approved dev changes into my work. 
-Therefore this mod currently operates on patch: 63581
+Therefore this mod currently operates on patch: 
 
 My goal with this mod is to focus on diverse strategies, unique playstyles for certain civs (not every civ should 
 be able to do everything well), some historical accuracy (as much as is possible in this game, without 
@@ -55,21 +55,19 @@ Bulgarians:
 
 Burgundians:
 - changed Flemish Revolution to "Villagers +40 hit points, +4 attack, +2/+2P armor; create Flemish Militia at Town Centers"
-- increased Burgundian Vineyards effectiveness by 1
 
 Burmese:
 - increased accuracy of (Elite) Arambai by (5%) 5%
 
 Byzantines:
-- changed Greek Fire to also increase blast width of Fire Galley-line by 0.2
+- changed Greek Fire to "Fireships +1 range; Castles and Towers deal extra damage vs. siege units"
 
 Celts:
 - changed base attack of (Elite) Woad Raiders to (14) 11 attack
 
 Chinese:
-- changed Rocketry tech to "Archer-line +2 attack; Scorpions +4 attack and +1 range"
+- changed Rocketry tech to "Chu-ko-nu +2 attack; Scorpions +4 attack and +1 range"
 - increased Great Wall bonus to 35%
-- increased Elite Chu-ko-nu attack by 1
 
 Cumans:
 - NO CHANGES
@@ -89,7 +87,7 @@ Franks:
 
 Goths:
 - changed population civ bonus to "+5 population each age, starting in the Feudal Age"
-- reverted Loom to being free at the start of the game
+- changed Instant Loom to being free at the start of the game
 
 Gurjaras:
 - NO CHANGES
@@ -150,7 +148,6 @@ Mongols:
 
 Persians:
 - changed Mahouts to "Elephant units move 30% faster; Enables Elephant Archers, Battle Elephants and Armored Elephants"
-- changed TC and Dock work rate to add 5% in Dark Age
 - added Fortified Wall
 - added Sanctity
 
@@ -168,7 +165,7 @@ Saracens:
 
 Sicilians:
 - added Architecture
-- added Archer-line to Hauberk
+- added Archer-line and Spearman-line to Hauberk
 
 Slavs:
 - changed farmer work rate bonus to 15% faster
