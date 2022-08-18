@@ -148,6 +148,7 @@ Mongols:
 
 Persians:
 - changed Mahouts to "Elephant units move 30% faster; Enables Elephant Archers, Battle Elephants and Armored Elephants"
+- changed TC and Dock work rate civ bonus to include Dark Age at 5%
 - added Fortified Wall
 - added Sanctity
 
