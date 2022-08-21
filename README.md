@@ -148,7 +148,6 @@ Mongols:
 
 Persians:
 - changed Mahouts to "Elephant units move 30% faster; Enables Elephant Archers, Battle Elephants and Armored Elephants"
-- changed TC and Dock work rate civ bonus to include Dark Age at 5%
 - added Fortified Wall
 - added Sanctity
 
@@ -167,6 +166,7 @@ Saracens:
 Sicilians:
 - added Architecture
 - added Archer-line and Spearman-line to Hauberk
+- changed bonus damage resistance bonus to 50%
 
 Slavs:
 - changed farmer work rate bonus to 15% faster
