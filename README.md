@@ -9,8 +9,8 @@ be able to do everything well), some historical accuracy (as much as is possible
 doing a complete overhaul), and focusing more on the usefulness of unique techs and unique units.
 
 I also want to acknowledge when the devs do make important balance decisions (like adjusting the movement speed 
-of a unit or changing the way a unique tech works for a particular civ) that are beneficial to the health and 
-longevity of the game, and want to do my best to keep some of those changes, and even incorporate some of those 
+of a unit or changing the way a unique tech works for a particular civ or changing the cost of a generic tech) that are beneficial 
+to the health and longevity of the game, and want to do my best to keep some of those changes, and even incorporate some of those 
 design decisions into my own ideas for balance.
 
 General Game Changes:
@@ -148,6 +148,7 @@ Mongols:
 
 Persians:
 - changed Mahouts to "Elephant units move 30% faster; Enables Elephant Archers, Battle Elephants and Armored Elephants"
+- changed TC and Dock work rate civ bonus to include Dark Age at 5%
 - added Fortified Wall
 - added Sanctity
 
@@ -165,8 +166,7 @@ Saracens:
 
 Sicilians:
 - added Architecture
-- added Archer-line and Spearman-line to Hauberk
-- changed bonus damage resistance bonus to 50%
+- added Spearman-line to Hauberk
 
 Slavs:
 - changed farmer work rate bonus to 15% faster
