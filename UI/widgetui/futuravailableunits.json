@@ -8274,14 +8274,14 @@
 						"RequiredAge": 3
 					},
 					{
+						"ID": 246,
+						"Name": "Fast Fire Ship",
+						"RequiredAge": 4
+					},
+					{
 						"ID": 65,
 						"Name": "Gillnets",
 						"RequiredAge": 3
-					},
-					{
-						"ID": 37,
-						"Name": "Cannon Galleon",
-						"RequiredAge": 4
 					},
 					{
 						"ID": 34,
@@ -8335,6 +8335,11 @@
 						"RequiredAge": 3
 					},
 					{
+						"ID": 532,
+						"Name": "Fast Fire Ship",
+						"RequiredAge": 4
+					},
+					{
 						"ID": 545,
 						"Name": "Transport Ship",
 						"RequiredAge": 1
@@ -8343,16 +8348,6 @@
 						"ID": 17,
 						"Name": "Trade Cog",
 						"RequiredAge": 2
-					},
-					{
-						"ID": 420,
-						"Name": "Cannon Galleon",
-						"RequiredAge": 4,
-						"PrereqTech": 47,
-						"PrereqIconSet": 3,
-						"PrereqIconIndex": 12,
-						"PrereqStyle": 1,
-						"PrereqStringID": 7047
 					},
 					{
 						"ID": 1104,
