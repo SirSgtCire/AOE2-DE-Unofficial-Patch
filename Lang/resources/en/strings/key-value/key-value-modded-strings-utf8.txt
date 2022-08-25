@@ -102,9 +102,9 @@
 
 
 //Byzantines
-8313 "Research Greek Fire (Fire Ships +1 range; Castles and Towers deal extra damage vs. Siege units)"
-28313 "Research <b>Greek Fire<b> (<cost>) \nFire Ships +1 range; Castles and Towers deal extra damage vs. Siege units."
-120156 "Defensive civilization \n\n• Buildings +10% hit points Dark, +20% Feudal, +30% Castle, +40% Imperial Age \n• Camel Riders, Skirmishers, Spearman-line cost -25% \n• Fire ships attack 25% faster \n• Advance to Imperial Age costs -33% \n• Town Watch, Town Patrol free \n\n<b>Unique Unit:<b>  \nCataphract (cavalry) \n\n<b>Unique Techs:<b>  \n• Greek Fire (Fire Ships +1 range; Castles and Towers deal extra damage vs. Siege units) \n• Logistica (Cataphracts cause trample damage)\n\n<b>Team Bonus:<b>  \nMonks +100% heal speed"
+8313 "Research Greek Fire (Fire Ships +1 range; Castles and Towers deal extra damage to Siege units)"
+28313 "Research <b>Greek Fire<b> (<cost>) \nFire Ships +1 range; Castles and Towers deal extra damage to Siege units."
+120156 "Defensive civilization \n\n• Buildings +10% hit points Dark, +20% Feudal, +30% Castle, +40% Imperial Age \n• Camel Riders, Skirmishers, Spearman-line cost -25% \n• Fire ships attack 25% faster \n• Advance to Imperial Age costs -33% \n• Town Watch, Town Patrol free \n\n<b>Unique Unit:<b>  \nCataphract (cavalry) \n\n<b>Unique Techs:<b>  \n• Greek Fire (Fire Ships +1 range; Castles and Towers deal extra damage to Siege units) \n• Logistica (Cataphracts cause trample damage)\n\n<b>Team Bonus:<b>  \nMonks +100% heal speed"
 
 //Celts
 8421 "Research Furor Celtica (Siege Worskhop units +40% hit points)"
