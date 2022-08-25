@@ -1,5 +1,5 @@
 ## AOE2-DE-Unofficial-Patch - by SirSgtCire
-Welcome to the Unofficial Patch Definitive Edition, Version 3.4!
+Welcome to the Unofficial Patch Definitive Edition, Version 3.5!
 
 This mod is kept up to date with the latest patches from DE, as I always try to incorporate approved dev changes into my work. 
 Therefore this mod currently operates on patch: 63581
@@ -9,8 +9,8 @@ be able to do everything well), some historical accuracy (as much as is possible
 doing a complete overhaul), and focusing more on the usefulness of unique techs and unique units.
 
 I also want to acknowledge when the devs do make important balance decisions (like adjusting the movement speed 
-of a unit or changing the way a unique tech works for a particular civ) that are beneficial to the health and 
-longevity of the game, and want to do my best to keep some of those changes, and even incorporate some of those 
+of a unit or changing the way a unique tech works for a particular civ or changing the cost of a generic tech) that are beneficial 
+to the health and longevity of the game, and want to do my best to keep some of those changes, and even incorporate some of those 
 design decisions into my own ideas for balance.
 
 General Game Changes:
@@ -55,21 +55,19 @@ Bulgarians:
 
 Burgundians:
 - changed Flemish Revolution to "Villagers +40 hit points, +4 attack, +2/+2P armor; create Flemish Militia at Town Centers"
-- increased Burgundian Vineyards effectiveness by 1
 
 Burmese:
 - increased accuracy of (Elite) Arambai by (5%) 5%
 
 Byzantines:
-- changed Greek Fire to also increase blast width of Fire Galley-line by 0.2
+- changed Greek Fire to "Fireships +1 range; Towers/Castles deal an additional 125%/25% damage to Siege units"
 
 Celts:
 - changed base attack of (Elite) Woad Raiders to (14) 11 attack
 
 Chinese:
-- changed Rocketry tech to "Archer-line +2 attack; Scorpions +4 attack and +1 range"
+- changed Rocketry tech to "Chu Ko Nu +2 attack; Scorpions +4 attack and +1 range"
 - increased Great Wall bonus to 35%
-- increased Elite Chu-ko-nu attack by 1
 
 Cumans:
 - NO CHANGES
@@ -89,7 +87,7 @@ Franks:
 
 Goths:
 - changed population civ bonus to "+5 population each age, starting in the Feudal Age"
-- reverted Loom to being free at the start of the game
+- changed Instant Loom to being free at the start of the game
 
 Gurjaras:
 - NO CHANGES
@@ -168,7 +166,7 @@ Saracens:
 
 Sicilians:
 - added Architecture
-- added Archer-line to Hauberk
+- added Spearman-line to Hauberk
 
 Slavs:
 - changed farmer work rate bonus to 15% faster

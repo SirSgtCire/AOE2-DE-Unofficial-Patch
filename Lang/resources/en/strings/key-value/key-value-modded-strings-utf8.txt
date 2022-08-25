@@ -102,9 +102,9 @@
 
 
 //Byzantines
-8313 "Research Greek Fire (Fire Ships +1 range and do blast damage)"
-28313 "Research <b>Greek Fire<b> (<cost>) \nFire Ships +1 range and do blast damage."
-120156 "Defensive civilization \n\n• Buildings +10% hit points Dark, +20% Feudal, +30% Castle, +40% Imperial Age \n• Camel Riders, Skirmishers, Spearman-line cost -25% \n• Fire ships attack 25% faster \n• Advance to Imperial Age costs -33% \n• Town Watch, Town Patrol free \n\n<b>Unique Unit:<b>  \nCataphract (cavalry) \n\n<b>Unique Techs:<b>  \n• Greek Fire (Fire Ships +1 range and do blast damage) \n• Logistica (Cataphracts cause trample damage)\n\n<b>Team Bonus:<b>  \nMonks +100% heal speed"
+8313 "Research Greek Fire (Fire Ships +1 range; Towers/Castles deal an additional 125%/25% damage to Siege units)"
+28313 "Research <b>Greek Fire<b> (<cost>) \nFire Ships +1 range; Towers/Castles deal an additional 125%/25% damage to Siege units."
+120156 "Defensive civilization \n\n• Buildings +10% hit points Dark, +20% Feudal, +30% Castle, +40% Imperial Age \n• Camel Riders, Skirmishers, Spearman-line cost -25% \n• Fire ships attack 25% faster \n• Advance to Imperial Age costs -33% \n• Town Watch, Town Patrol free \n\n<b>Unique Unit:<b>  \nCataphract (cavalry) \n\n<b>Unique Techs:<b>  \n• Greek Fire (Fire Ships +1 range; Towers/Castles deal an additional 125%/25% damage to Siege units) \n• Logistica (Cataphracts cause trample damage)\n\n<b>Team Bonus:<b>  \nMonks +100% heal speed"
 
 //Celts
 8421 "Research Furor Celtica (Siege Worskhop units +40% hit points)"
@@ -114,9 +114,9 @@
 //Chinese
 8368 "Research Great Wall (Walls and towers +35% hit points)"
 28368 "Research <b>Great Wall<b> (<cost>) \nWalls and towers +35% hit points."
-8432 "Research Rocketry (Archer-line +2 attack; Scorpions +4 attack and +1 range)"
-28432 "Research <b>Rocketry<b> (<cost>) \nArcher-line +2 attack; Scorpions +4 attack and +1 range."
-120155 "Archer civilization \n\n• Start with +3 villagers, -50 wood, -200 food \n• Technologies cost -10% Feudal, -15% Castle, -20% Imperial Age \n• Town Centers support 10 population and +5 line of sight\n• Demolition ships +50% hit points \n\n<b>Unique Unit:<b>  \nChu Ko Nu (archer) \n\n<b>Unique Techs:<b>  \n• Great Wall (Walls and towers +35% hit points) \n• Rocketry (Archer-line +2 attack; Scorpions +4 attack and +1 range)\n\n<b>Team Bonus:<b>  \nFarms +10% food"
+8432 "Research Rocketry (Chu Ko Nu +2 attack; Scorpions +4 attack and +1 range)"
+28432 "Research <b>Rocketry<b> (<cost>) \nChu Ko Nu +2 attack; Scorpions +4 attack and +1 range."
+120155 "Archer civilization \n\n• Start with +3 villagers, -50 wood, -200 food \n• Technologies cost -10% Feudal, -15% Castle, -20% Imperial Age \n• Town Centers support 10 population and +5 line of sight\n• Demolition ships +50% hit points \n\n<b>Unique Unit:<b>  \nChu Ko Nu (archer) \n\n<b>Unique Techs:<b>  \n• Great Wall (Walls and towers +35% hit points) \n• Rocketry (Chu Ko Nu +2 attack; Scorpions +4 attack and +1 range)\n\n<b>Team Bonus:<b>  \nFarms +10% food"
 
 //Cumans
 8311 "Research Steppe Husbandry (Scout Cavalry line, Steppe Lancers and Cavalry Archers trained 100% faster)"
