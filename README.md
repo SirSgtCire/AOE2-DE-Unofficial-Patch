@@ -60,7 +60,7 @@ Burmese:
 - increased accuracy of (Elite) Arambai by (5%) 5%
 
 Byzantines:
-- changed Greek Fire to "Fireships +1 range; Castles and Towers deal extra damage vs. siege units"
+- changed Greek Fire to "Fireships +1 range; Towers/Castles deal an additional 125%/25% damage to Siege units"
 
 Celts:
 - changed base attack of (Elite) Woad Raiders to (14) 11 attack
