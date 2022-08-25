@@ -2,7 +2,7 @@
 Welcome to the Unofficial Patch Definitive Edition, Version 3.5!
 
 This mod is kept up to date with the latest patches from DE, as I always try to incorporate approved dev changes into my work. 
-Therefore this mod currently operates on patch: 
+Therefore this mod currently operates on patch: 63581
 
 My goal with this mod is to focus on diverse strategies, unique playstyles for certain civs (not every civ should 
 be able to do everything well), some historical accuracy (as much as is possible in this game, without 
@@ -66,7 +66,7 @@ Celts:
 - changed base attack of (Elite) Woad Raiders to (14) 11 attack
 
 Chinese:
-- changed Rocketry tech to "Chu-ko-nu +2 attack; Scorpions +4 attack and +1 range"
+- changed Rocketry tech to "Chu Ko Nu +2 attack; Scorpions +4 attack and +1 range"
 - increased Great Wall bonus to 35%
 
 Cumans:
