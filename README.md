@@ -2,7 +2,7 @@
 Welcome to the Unofficial Patch Definitive Edition, Version 3.5!
 
 This mod is kept up to date with the latest patches from DE, as I always try to incorporate approved dev changes into my work. 
-Therefore this mod currently operates on patch: 63581
+Therefore this mod currently operates on patch: 66692
 
 My goal with this mod is to focus on diverse strategies, unique playstyles for certain civs (not every civ should 
 be able to do everything well), some historical accuracy (as much as is possible in this game, without 
@@ -14,13 +14,11 @@ to the health and longevity of the game, and want to do my best to keep some of 
 design decisions into my own ideas for balance.
 
 General Game Changes:
+- all civilizations have access to Treadmill Crane
 - enabled Monks, Monks with Relics, Petards, Saboteurs, Kings and Queens to load into Siege Towers and Rams
-- changed Paladin upgrade cost to 1000 food, 750 gold, research time to 125 seconds
-- changed Elite Battle Elephant upgrade cost to 1200 food, 750 gold, research time to 110 seconds
-- changed Siege Onager upgrade cost to 1200 food, 900 gold, research time to 130 seconds
 - standardized all land and water unique unit Elite upgrades to 800 food/wood, 500 gold, research time to 60 seconds
 - All unique archer-related and ship-related Elite upgrades have wood and gold costs
-- All other Elite upgrades have food and gold costs
+- All other Unique Unit Elite upgrades have food and gold costs
 - standardized all Castle Age Crown techs costs to 400 food/wood, 300 gold, research time to 40 seconds
 - standardized all Imperial Age Crown techs costs to 600 food/wood, 400 gold, research time to 50 seconds
 - All building-related, archer-related, siege-related and ship-related Crown upgrades have wood and gold costs
@@ -46,10 +44,10 @@ Bohemians:
 - NO CHANGES
 
 Britons:
-- changed TC wood cost civ bonus to "Town Centers cost -50% wood"
 - increased blast radius of Warwolf tech to Trebuchets by 0.25
 
 Bulgarians:
+- changed tc stone cost civ bonus to start in Castle Age
 - added Ring Archer Armor
 - removed Keep
 
@@ -67,7 +65,6 @@ Celts:
 
 Chinese:
 - changed Rocketry tech to "Chu Ko Nu +2 attack; Scorpions +4 attack and +1 range"
-- increased Great Wall bonus to 35%
 
 Cumans:
 - NO CHANGES
@@ -83,7 +80,6 @@ Ethiopians:
 Franks:
 - changed Bearded Axe effect to "Throwing Axemen +1 range, +1P armor"
 - changed cavalry hp civ bonus to "Cavalry +20% hp Feudal, +25% Castle Age"
-- changed forage bush civ bonus to +20%
 
 Goths:
 - changed population civ bonus to "+5 population each age, starting in the Feudal Age"
@@ -97,7 +93,7 @@ Hindustanis:
 - added Architecture
 
 Huns:
-- changed treb accuracy civ bonus to "Trebs have 100% accuracy"
+- NO CHANGES
 
 Incas:
 - changed Fabric Shields tech to include Monks and Xolotl Warriors
@@ -115,7 +111,7 @@ Japanese:
 
 Khmer:
 - changed Battle Elephants speed civ bonus to "Elephant units move 10% faster"
-- changed team bonus to "Scorpions minimum range reduced to 0"
+- changed team bonus to "Scorpions and Ballista units minimum range reduced to 0"
 - removed farmer work rate reduction
 
 Koreans:

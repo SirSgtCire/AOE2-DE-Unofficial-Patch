@@ -2561,6 +2561,11 @@
 						"ID": 322,
 						"Name": "Murder Holes",
 						"RequiredAge": 3
+					},
+					{
+						"ID": 54,
+						"Name": "Treadmill Crane",
+						"RequiredAge": 3
 					}
 				]
 			},
@@ -4479,6 +4484,11 @@
 					{
 						"ID": 322,
 						"Name": "Murder Holes",
+						"RequiredAge": 3
+					},
+					{
+						"ID": 54,
+						"Name": "Treadmill Crane",
 						"RequiredAge": 3
 					}
 				]
@@ -6484,6 +6494,11 @@
 						"ID": 322,
 						"Name": "Murder Holes",
 						"RequiredAge": 3
+					},
+					{
+						"ID": 54,
+						"Name": "Treadmill Crane",
+						"RequiredAge": 3
 					}
 				]
 			},
@@ -8446,6 +8461,11 @@
 						"ID": 322,
 						"Name": "Murder Holes",
 						"RequiredAge": 3
+					},
+					{
+						"ID": 54,
+						"Name": "Treadmill Crane",
+						"RequiredAge": 3
 					}
 				]
 			},
@@ -9373,6 +9393,11 @@
 					{
 						"ID": 322,
 						"Name": "Murder Holes",
+						"RequiredAge": 3
+					},
+					{
+						"ID": 54,
+						"Name": "Treadmill Crane",
 						"RequiredAge": 3
 					}
 				]
@@ -10362,6 +10387,11 @@
 					{
 						"ID": 322,
 						"Name": "Murder Holes",
+						"RequiredAge": 3
+					},
+					{
+						"ID": 54,
+						"Name": "Treadmill Crane",
 						"RequiredAge": 3
 					}
 				]
@@ -12243,6 +12273,11 @@
 						"ID": 322,
 						"Name": "Murder Holes",
 						"RequiredAge": 3
+					},
+					{
+						"ID": 54,
+						"Name": "Treadmill Crane",
+						"RequiredAge": 3
 					}
 				]
 			},
@@ -13131,6 +13166,11 @@
 					{
 						"ID": 322,
 						"Name": "Murder Holes",
+						"RequiredAge": 3
+					},
+					{
+						"ID": 54,
+						"Name": "Treadmill Crane",
 						"RequiredAge": 3
 					}
 				]
@@ -14585,11 +14625,6 @@
 						"RequiredAge": 3
 					},
 					{
-						"ID": 429,
-						"Name": "Halberdier",
-						"RequiredAge": 4
-					},
-					{
 						"ID": 716,
 						"Name": "Supplies",
 						"RequiredAge": 2
@@ -14639,11 +14674,6 @@
 						"ID": 358,
 						"Name": "Pikeman",
 						"RequiredAge": 3
-					},
-					{
-						"ID": 359,
-						"Name": "Halberdier",
-						"RequiredAge": 4
 					}
 				]
 			},
@@ -15006,6 +15036,11 @@
 					{
 						"ID": 322,
 						"Name": "Murder Holes",
+						"RequiredAge": 3
+					},
+					{
+						"ID": 54,
+						"Name": "Treadmill Crane",
 						"RequiredAge": 3
 					}
 				]
@@ -21897,6 +21932,11 @@
 						"ID": 322,
 						"Name": "Murder Holes",
 						"RequiredAge": 3
+					},
+					{
+						"ID": 54,
+						"Name": "Treadmill Crane",
+						"RequiredAge": 3
 					}
 				]
 			},
@@ -24784,6 +24824,11 @@
 						"ID": 322,
 						"Name": "Murder Holes",
 						"RequiredAge": 3
+					},
+					{
+						"ID": 54,
+						"Name": "Treadmill Crane",
+						"RequiredAge": 3
 					}
 				]
 			},
@@ -25775,6 +25820,11 @@
 					{
 						"ID": 322,
 						"Name": "Murder Holes",
+						"RequiredAge": 3
+					},
+					{
+						"ID": 54,
+						"Name": "Treadmill Crane",
 						"RequiredAge": 3
 					}
 				]
@@ -30702,6 +30752,11 @@
 					{
 						"ID": 322,
 						"Name": "Murder Holes",
+						"RequiredAge": 3
+					},
+					{
+						"ID": 54,
+						"Name": "Treadmill Crane",
 						"RequiredAge": 3
 					}
 				]
@@ -38180,6 +38235,11 @@
 						"ID": 1105,
 						"Name": "Siege Tower",
 						"RequiredAge": 3
+					},
+					{
+						"ID": 36,
+						"Name": "Bombard Cannon",
+						"RequiredAge": 4
 					}
 				]
 			},
@@ -38453,6 +38513,11 @@
 					{
 						"ID": 322,
 						"Name": "Murder Holes",
+						"RequiredAge": 3
+					},
+					{
+						"ID": 54,
+						"Name": "Treadmill Crane",
 						"RequiredAge": 3
 					}
 				]

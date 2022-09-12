@@ -31,7 +31,7 @@
 26111 "Create <b>Throwing Axeman<b> (<cost>) \nFrankish unique infantry unit with ranged melee attack. Strong vs. infantry. Weak vs. archers and siege weapons. <i> Upgrades: attack, armor (Blacksmith); speed (Barracks); creation speed, to Elite Throwing Axeman 800F, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
 26112 "Create <b>Teutonic Knight<b> (<cost>) \nTeutonic unique infantry unit. Slow and powerful. Strong vs. melee units. Weak vs. archers and Scorpions. <i> Upgrades: attack, armor (Blacksmith); speed (Barracks); creation speed, to Elite Teutonic Knight 800F, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
 26113 "Create <b>Woad Raider<b> (<cost>) \nCeltic unique infantry unit. Fast-moving. Strong vs. infantry and siege weapons. Weak vs. archers and cavalry. <i> Upgrades: attack, armor (Blacksmith); speed (Barracks); creation speed, to Elite Woad Raider 800F, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
-26129 "Create <b>Organ Gun<b> (<cost>) \nPortuguese unique siege unit. Fires a volley of bullets. Strong vs. large groups of units. Weak vs. cavalry and Mangonels.<i> Upgrades: attack, range (University); creation speed, to Elite Organ Gun 800W, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
+26129 "Build <b>Organ Gun<b> (<cost>) \nPortuguese unique siege unit. Fires a volley of bullets. Strong vs. large groups of units. Weak vs. cavalry and Mangonels.<i> Upgrades: attack, range (University); creation speed, to Elite Organ Gun 800W, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
 26132 "Build <b>Caravel<b> (<cost>) \nPortuguese unique ship that fires bolts that pierce multiple units. Strong vs. large groups of ships. Weak vs. Fire Ships.<i> Upgrades: armor, cost, speed, to Elite Caravel 800w, 500G (Dock); attack, range (Blacksmith); attack, accuracy (University); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
 26133 "Build <b>Elite Caravel<b> (<cost>) \nPortuguese unique ship that fires bolts that pierce multiple units. Strong vs. large groups of ships. Weak vs. Fire Ships.<i> Upgrades: armor, speed, cost (Dock); attack, range (Blacksmith); attack, accuracy (University); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
 26134 "Create <b>Camel Archer<b> (<cost>) \nBerber unique mounted archer. Strong vs. Cavalry Archers and infantry. Weak vs. Pikemen, Skirmishers, and Camel Riders.<i> Upgrades: attack, range, armor (Blacksmith); speed, hit points (Stable); accuracy, armor (Archery Range); attack, accuracy (University); creation speed, to Elite Camel Archer 800W, 500G (Castle); more resistant to Monks (Monastery).<i> \n<hp> <attack> <armor> <piercearmor> <range>"
@@ -86,17 +86,17 @@
 //Britons
 8419 "Research Yeomen (Foot Archers +1 range; Towers +2 attack)"
 28419 "Research <b>Yeomen<b> (<cost>) \nFoot Archers +1 range; Towers +2 attack."
-120150 "Foot Archer civilization \n\n• Town Centers cost -50% wood \n• Foot archers (except skirmishers) have +1 range per age (starting in Castle Age) \n• Shepherds work 25% faster \n\n<b>Unique Unit:<b>  \nLongbowman (archer) \n\n<b>Unique Techs:<b>  \n• Yeomen (Foot Archers +1 range; Towers +2 attack) \n• Warwolf (Trebuchets do blast damage)\n\n<b>Team Bonus:<b>  \nArchery Ranges work 20% faster"
+120150 "Foot Archer civilization \n\n• Town Centers cost -50% wood (starting in Castle Age) \n• Foot archers (except skirmishers) have +1 range per age (starting in Castle Age) \n• Shepherds work 25% faster \n\n<b>Unique Unit:<b>  \nLongbowman (archer) \n\n<b>Unique Techs:<b>  \n• Yeomen (Foot Archers +1 range; Towers +2 attack) \n• Warwolf (Trebuchets do blast damage)\n\n<b>Team Bonus:<b>  \nArchery Ranges work 20% faster"
 
 //Bulgarians
-120181 "Infantry and Cavalry civilization \n\n• Militia-line upgrades free \n• Town Centers cost -50% stone \n• Blacksmith and Siege Workshop technologies cost -50% food\n• Can build Krepost \n\n<b>Unique Unit:<b> \nKonnik (cavalry)\n\n<b>Unique Techs:<b> \n• Stirrups (Cavalry attack 33% faster) \n• Bagains (Militia-line gains +5 armor) \n\n<b>Team Bonus:<b> \nBlacksmiths work 80% faster"
+120181 "Infantry and Cavalry civilization \n\n• Militia-line upgrades free \n• Town Centers cost -50% stone (starting in Castle Age) \n• Blacksmith and Siege Workshop technologies cost -50% food\n• Can build Krepost \n\n<b>Unique Unit:<b> \nKonnik (cavalry)\n\n<b>Unique Techs:<b> \n• Stirrups (Cavalry attack 33% faster) \n• Bagains (Militia-line gains +5 armor) \n\n<b>Team Bonus:<b> \nBlacksmiths work 80% faster"
 
 //Burgundians
 8342 "Research Burgundian Vineyards (Farmers slowly generate gold in addition to food)"
 28342 "Research <b>Burgundian Vineyards<b> (<cost>) \nFarmers slowly generate gold in addition to food."
 8343 "Research Flemish Revolution (Villagers +40 hit points, +4 attack, +2/+2P armor; create Flemish Militia at Town Centers)"
 28343 "Research <b>Flemish Revolution<b> (<cost>) \nVillagers +40 hit points, +4 attack, +2/+2P armor; create Flemish Militia at Town Centers."
-120185 "Cavalry civilization \n\n• Economic upgrades available one age earlier and cost -50% food \n• Stable technologies cost -50% \n• Cavalier upgrade available in Castle Age \n• Gunpowder units +25% attack \n\n<b>Unique Units:<b> \nCoustillier (cavalry), Flemish Militia (infantry)\n\n<b>Unique Techs:<b> \n• Burgundian Vineyards (Farmers slowly generate gold in addition to food) \n• Flemish Revolution (Villagers +40 hit points, +4 attack, +2/+2P armor; create Flemish Militia at Town Centers)\n\n<b>Team Bonus:<b> \nRelics generate both Gold & Food"
+120185 "Cavalry civilization \n\n• Economic upgrades available one age earlier and cost -40% food \n• Stable technologies cost -50% \n• Cavalier upgrade available in Castle Age \n• Gunpowder units +25% attack \n\n<b>Unique Units:<b> \nCoustillier (cavalry), Flemish Militia (infantry)\n\n<b>Unique Techs:<b> \n• Burgundian Vineyards (Farmers slowly generate gold in addition to food) \n• Flemish Revolution (Villagers +40 hit points, +4 attack, +2/+2P armor; create Flemish Militia at Town Centers)\n\n<b>Team Bonus:<b> \nRelics generate both Gold & Food"
 
 //Burmese
 
@@ -219,16 +219,16 @@
 
 
 //Saracens
-8424 "Research Zealotry (+30 HP Camel units)"
+8424 "Research Zealotry (Camel units have +30 hit points)"
 28424 "Research <b>Zealotry<b> (<cost>)\nCamel units have +30 hit points."
-120158 "Camel and Naval civilization\n\n• Market trade cost only 5%\n• Markets cost -100 wood\n• Transport Ships +100 hit points, +5 carry capacity\n• Galley-line attack 25% faster\n• Camel units +1P armor\n\n<b>Unique Unit:<b> \nMameluke (camel rider)\n\n<b>Unique Techs:<b> \n• Zealotry (Camel units +30 hit points)\n• Counterweights (Trebuchets and Mangonel-line +15% attack)\n\n<b>Team Bonus:<b> \nFoot archers +2 attack vs. buildings"
+120158 "Camel and Naval civilization\n\n• Market trade cost only 5%\n• Markets cost -100 wood\n• Transport Ships +100 hit points, +5 carry capacity\n• Galley-line attack 25% faster\n• Camel units +1P armor\n\n<b>Unique Unit:<b> \nMameluke (camel rider)\n\n<b>Unique Techs:<b> \n• Zealotry (Camel units have +30 hit points)\n• Counterweights (Trebuchets and Mangonel-line +15% attack)\n\n<b>Team Bonus:<b> \nFoot archers +2 attack vs. buildings"
 
 //Sicilians
 8344 "Research First Crusade (Each Town Center (maximum 5) spawns 7 Serjeants once; units more resistant to conversion)"
 28344 "Research <b>First Crusade<b> (<cost>) \nEach Town Center (maximum 5) spawns 7 Serjeants once; units more resistant to conversion."
 8345 "Research Hauberk (Knight-line, Spearman-line +1/+2P armor)"
 28345 "Research <b>Hauberk<b> (<cost>) \nKnight-line, Spearman-line +1/+2P armor."
-120186 "Infantry and Cavalry civilization \n\n• Start with +100 stone \n• Castles and Town Centers built 100% faster \n• Land military units (except siege weapons) receive 50% less bonus damage \n• Farm upgrades provide +100% additional food \n• Donjon replaces Watch Tower-line \n\n<b>Unique Unit:<b> \nSerjeant (infantry)\n\n<b>Unique Techs:<b> \n• First Crusade (Each Town Center (maximum 5) spawns 7 Serjeants once; units more resistant to conversion) \n• Hauberk (Knight-line, Spearman-line +1/+2P armor)\n\n<b>Team Bonus:<b> \nTransport ships +5 line of sight and cost -50%"
+120186 "Infantry and Cavalry civilization \n\n• Start with +100 stone \n• Castles and Town Centers built 100% faster \n• Land military units (except siege weapons) receive 33% less bonus damage \n• Farm upgrades provide +100% additional food \n• Donjon replaces Watch Tower-line \n\n<b>Unique Unit:<b> \nSerjeant (infantry)\n\n<b>Unique Techs:<b> \n• First Crusade (Each Town Center (maximum 5) spawns 7 Serjeants once; units more resistant to conversion) \n• Hauberk (Knight-line, Spearman-line +1/+2P armor)\n\n<b>Team Bonus:<b> \nTransport ships +5 line of sight and cost -50%"
 
 //Slavs
 120172 "Infantry and Siege civilization\n\n• Farmers work 15% faster\n• Supplies free\n• Siege Workshop units 15% cheaper\n\n<b>Unique Unit:<b> \nBoyar (cavalry)\n\n<b>Unique Techs:<b> \n• Detinets (Replaces 40% of Castles' and Towers' stone cost with wood)\n• Druzhina (Infantry damage adjacent units)\n\n<b>Team Bonus:<b> \nMilitary buildings provide +5 population room"
