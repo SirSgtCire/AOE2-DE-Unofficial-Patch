@@ -239,7 +239,7 @@
 8325 "Research Reconquest (Militia-line, Knight-line +6 attack vs. Camels; Militia-line, Knight-line, and Monks +2 line of sight)"
 17325 "Reconquest"
 28325 "Research <b>Reconquest<b> (<cost>) \nMilitia-line, Knight-line +6 attack vs. Camels; Militia-line, Knight-line, and Monks +2 line of sight."
-120163 "Gunpowder and Monk civilization \n\n• Builders work 33% faster \n• Blacksmith upgrades don't cost gold \n• Cannon Galleons benefit from Ballistics \n• Gunpowder units fire 18% faster\n\n<b>Unique Units:<b>  \nConquistador (mounted hand cannoneer), Missionary (mounted Monk) \n\n<b>Unique Techs:<b>  \n• Inquisition (Monks convert faster) \n• Reconquest (Militia-line, Knight-line +6 attack vs. Camels; Militia-line, Knight-line, and Monks +2 line of sight)\n\n<b>Team Bonus:<b>  \nTrade units generate +33% gold"
+120163 "Gunpowder and Monk civilization \n\n• Builders work 30% faster \n• Blacksmith upgrades don't cost gold \n• Cannon Galleons benefit from Ballistics \n• Gunpowder units fire 18% faster\n\n<b>Unique Units:<b>  \nConquistador (mounted hand cannoneer), Missionary (mounted Monk) \n\n<b>Unique Techs:<b>  \n• Inquisition (Monks convert faster) \n• Reconquest (Militia-line, Knight-line +6 attack vs. Camels; Militia-line, Knight-line, and Monks +2 line of sight)\n\n<b>Team Bonus:<b>  \nTrade units generate +33% gold"
 
 //Tatars
 8309 "Research Silk Armor (Scout Cavalry line, Steppe Lancers and Cavalry Archers +1/+1P armor)"
@@ -276,4 +276,4 @@
 28312 "Research <b>Keels<b> (<cost>) \nShips +2 normal armor."
 8431 "Research Berserkergang (Berserks regenerate faster; Infantry +7 attack vs. cavalry)"
 28431 "Research <b>Berserkergang<b> (<cost>) \nBerserks regenerate faster; Infantry +7 attack vs. cavalry."
-120160 "Infantry and Naval civilization \n\n• Warships cost -15% Feudal, -20% Castle Age \n• Infantry +20% hit points (starting in Feudal Age) \n• Wheelbarrow, Hand Cart free \n\n<b>Unique Units:<b>  \nBerserk (infantry), Longboat (warship) \n\n<b>Unique Techs:<b>  \n• Keels (Ships +2 normal armor) \n• Berserkergang (Berserks regenerate faster; Infantry +7 attack vs. cavalry)\n\n<b>Team Bonus:<b>  \nDocks cost -15%"
+120160 "Infantry and Naval civilization \n\n• Warships cost -15% Feudal, -15% Castle, -20% Imperial Age \n• Infantry +20% hit points (starting in Feudal Age) \n• Wheelbarrow, Hand Cart free \n\n<b>Unique Units:<b>  \nBerserk (infantry), Longboat (warship) \n\n<b>Unique Techs:<b>  \n• Keels (Ships +2 normal armor) \n• Berserkergang (Berserks regenerate faster; Infantry +7 attack vs. cavalry)\n\n<b>Team Bonus:<b>  \nDocks cost -15%"

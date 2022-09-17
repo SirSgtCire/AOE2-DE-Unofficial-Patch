@@ -91,7 +91,7 @@ Hindustanis:
 - added Architecture
 
 Huns:
-- NO CHANGES
+- changed treb accuracy civ bonus to 100%
 
 Incas:
 - changed Fabric Shields tech to include Monks and Xolotl Warriors
