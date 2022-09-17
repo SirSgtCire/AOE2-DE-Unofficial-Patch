@@ -165,7 +165,7 @@
 120154 "Infantry civilization \n\n• Fishing Ships 2x hit points, +2P armor; work rate +5% Dark, +10% Feudal, +15% Castle, +20% Imperial Age \n• Mill, Lumber/Mining Camps cost -50% \n• Infantry attack 33% faster (starting in Feudal Age) \n\n<b>Unique Unit:<b>  \nSamurai (infantry) \n\n<b>Unique Techs:<b>  \n• Yasama (Towers shoot extra arrows) \n• Kataparuto (Trebuchets fire, pack faster)\n\n<b>Team Bonus:<b>  \nGalley-line +50% line of sight"
 
 //Khmer
-120177 "Siege and Elephant civilization \n\n• No buildings required to advance to the next age or to unlock other buildings \n• Farmers don't require Mills/Town Centers to drop off food \n• Elephant units move 10% faster\n• Villagers can garrison in Houses \n\n<b>Unique Unit:<b> \nBallista Elephant (mounted scorpion)\n\n<b>Unique Techs:<b> \n• Tusk Swords (Battle Elephants +3 attack) \n• Double Crossbow (Ballista Elephants and Scorpions fire two projectiles) \n\n<b>Team Bonus:<b> \nScorpions minimum range reduced to 0"
+120177 "Siege and Elephant civilization \n\n• No buildings required to advance to the next age or to unlock other buildings \n• Farmers don't require Mills/Town Centers to drop off food \n• Elephant units move 10% faster\n• Villagers can garrison in Houses \n\n<b>Unique Unit:<b> \nBallista Elephant (mounted scorpion)\n\n<b>Unique Techs:<b> \n• Tusk Swords (Battle Elephants +3 attack) \n• Double Crossbow (Ballista Elephants and Scorpions fire two projectiles) \n\n<b>Team Bonus:<b> \nScorpions and Ballista units minimum range reduced to 0"
 
 //Koreans
 8438 "Research Shinkichon (Mangonel-line +1 range and cost -10%)"
