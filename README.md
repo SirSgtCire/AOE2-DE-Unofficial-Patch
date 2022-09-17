@@ -172,7 +172,6 @@ Spanish:
 - added Heated Shot
 - changed Supremacy to Reconquest, which gives "Militia-line, Knight-line +6 damage vs. Camels; Militia-line, Knight-line, and Monks +2 LOS"
 - changed team bonus to give 33% trade bonus
-- changed building speed civ bonus to "Builders construct buildings 33% faster"
 - increased movement speed of Cannon Galleon projectile by 0.5
 
 Tatars:
