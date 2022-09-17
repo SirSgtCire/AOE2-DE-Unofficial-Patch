@@ -14,16 +14,16 @@ to the health and longevity of the game, and want to do my best to keep some of 
 design decisions into my own ideas for balance.
 
 General Game Changes:
-- all civilizations have access to Treadmill Crane
-- enabled Monks, Monks with Relics, Petards, Saboteurs, Kings and Queens to load into Siege Towers and Rams
 - standardized all land and water unique unit Elite upgrades to 800 food/wood, 500 gold, research time to 60 seconds
-- All unique archer-related and ship-related Elite upgrades have wood and gold costs
-- All other Unique Unit Elite upgrades have food and gold costs
-- standardized all Castle Age Crown techs costs to 400 food/wood, 300 gold, research time to 40 seconds
-- standardized all Imperial Age Crown techs costs to 600 food/wood, 400 gold, research time to 50 seconds
-- All building-related, archer-related, siege-related and ship-related Crown upgrades have wood and gold costs
-- All other Crown upgrades have food and gold costs
+- all unique archer-related and ship-related Elite upgrades have wood and gold costs
+- all other Unique Unit Elite upgrades have food and gold costs
+- standardized all Castle Age Crown techs costs to 400 food/wood, 300 gold, research time to 50 seconds
+- standardized all Imperial Age Crown techs costs to 600 food/wood, 400 gold, research time to 60 seconds
+- all building-related, archer-related, siege-related and ship-related Crown upgrades have wood and gold costs
+- all other Crown upgrades have food and gold costs
+- enabled Monks, Monks with Relics, Petards, Saboteurs, Kings and Queens to load into Siege Towers and Rams
 - updated many tech descriptions to give numeric descriptions of effects (to help with clarity of effects in game)
+- all civilizations have access to Treadmill Crane, except Spanish (sorry Deathmatch, I will get to you soon I promise!)
 
 Civ Specific Changes:
 
@@ -79,10 +79,8 @@ Ethiopians:
 
 Franks:
 - changed Bearded Axe effect to "Throwing Axemen +1 range, +1P armor"
-- changed cavalry hp civ bonus to "Cavalry +20% hp Feudal, +25% Castle Age"
 
 Goths:
-- changed population civ bonus to "+5 population each age, starting in the Feudal Age"
 - changed Instant Loom to being free at the start of the game
 
 Gurjaras:
@@ -101,6 +99,7 @@ Incas:
 Italians:
 - increased Elite Genoese Crossbowman anti-cavalry damage by 1
 - added Heavy Scorpion
+- added Heavy Demolition Ship
 - changed Pavise to "Foot Archers (except Skirmishers), Hand Canoneers and Condottieri receive +2P armor"
 
 Japanese:
@@ -154,7 +153,7 @@ Poles:
 
 Portuguese:
 - increased projectile speed from Arquebus tech by 0.1
-- increased blast radius of (Elite) Organ Guns by 0.2
+- increased blast radius of Elite Organ Guns by 0.2
 
 Saracens:
 - changed camel hp civ bonus to "Camel units +1P armor"
@@ -174,6 +173,7 @@ Spanish:
 - changed Supremacy to Reconquest, which gives "Militia-line, Knight-line +6 damage vs. Camels; Militia-line, Knight-line, and Monks +2 LOS"
 - changed team bonus to give 33% trade bonus
 - changed building speed civ bonus to "Builders construct buildings 33% faster"
+- increased movement speed of Cannon Galleon projectile by 0.5
 
 Tatars:
 - NO CHANGES
@@ -182,7 +182,6 @@ Teutons:
 - added Siege Ram
 - changed Crenelations to "Castles and Town Centers +3 range; Garrisoned infantry fire arrows"
 - changed Elite Teutonic Knight normal armor to 11
-- changed Teutonic Knight base attack to 13
 
 Turks:
 - increased Janissary accuracy by 5%
@@ -192,7 +191,6 @@ Vietnamese:
 - archer hit points civ bonus changed to "Archery Range units +20% hit points (starting in Feudal Age)"
 
 Vikings:
-- merged Chieftains effects into Berserkergang, increased bonus cavalry damage by 2
+- merged Chieftains effects into Berserkergang, increased bonus cavalry damage by 2, increased health regen by 5
 - changed Chieftains to Keels, now gives "Ships have +2 normal armor"
-- changed warship cost reduction civ bonus to "Warships cost -15% Feudal, -20% Castle Age"
 - added Thumb Ring
