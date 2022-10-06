@@ -4170,11 +4170,6 @@
 						"ID": 283,
 						"Name": "Cavalier",
 						"RequiredAge": 4
-					},
-					{
-						"ID": 569,
-						"Name": "Paladin",
-						"RequiredAge": 4
 					}
 				]
 			},
@@ -5165,8 +5160,8 @@
 				"ID": 49,
 				"Name": "Siege Workshop",
 				"Techs": [{
-						"ID": 96,
-						"Name": "Capped Ram",
+						"ID": 838,
+						"Name": "Elite Armored Elephant",
 						"RequiredAge": 4
 					},
 					{
@@ -5181,13 +5176,13 @@
 					}
 				],
 				"Units": [{
-						"ID": 1258,
-						"Name": "Battering Ram",
+						"ID": 1744,
+						"Name": "Armored Elephant",
 						"RequiredAge": 3
 					},
 					{
-						"ID": 422,
-						"Name": "Capped Ram",
+						"ID": 1746,
+						"Name": "Elite Armored Elephant",
 						"RequiredAge": 4
 					},
 					{
@@ -15869,6 +15864,11 @@
 						"RequiredAge": 3
 					},
 					{
+						"ID": 244,
+						"Name": "Heavy Demolition Ship",
+						"RequiredAge": 4
+					},
+					{
 						"ID": 34,
 						"Name": "War Galley",
 						"RequiredAge": 3
@@ -15948,6 +15948,11 @@
 						"ID": 527,
 						"Name": "Demolition Ship",
 						"RequiredAge": 3
+					},
+					{
+						"ID": 528,
+						"Name": "Heavy Demolition Ship",
+						"RequiredAge": 4
 					},
 					{
 						"ID": 539,
@@ -17493,6 +17498,11 @@
 						"RequiredAge": 4
 					},
 					{
+						"ID": 481,
+						"Name": "Elite Elephant Archer",
+						"RequiredAge": 4
+					},
+					{
 						"ID": 436,
 						"Name": "Parthian Tactics",
 						"RequiredAge": 4
@@ -17536,6 +17546,16 @@
 					{
 						"ID": 474,
 						"Name": "Heavy Cavalry Archer",
+						"RequiredAge": 4
+					},
+					{
+						"ID": 873,
+						"Name": "Elephant Archer",
+						"RequiredAge": 3
+					},
+					{
+						"ID": 875,
+						"Name": "Elite Elephant Archer",
 						"RequiredAge": 4
 					}
 				]
@@ -17632,11 +17652,6 @@
 						"RequiredAge": 2
 					},
 					{
-						"ID": 209,
-						"Name": "Cavalier",
-						"RequiredAge": 4
-					},
-					{
 						"ID": 630,
 						"Name": "Battle Elephant",
 						"RequiredAge": 3
@@ -17669,16 +17684,6 @@
 						"RequiredUnitID": 546
 					},
 					{
-						"ID": 38,
-						"Name": "Knight",
-						"RequiredAge": 3
-					},
-					{
-						"ID": 283,
-						"Name": "Cavalier",
-						"RequiredAge": 4
-					},
-					{
 						"ID": 1132,
 						"Name": "Battle Elephant",
 						"RequiredAge": 3
@@ -17694,13 +17699,8 @@
 				"ID": 49,
 				"Name": "Siege Workshop",
 				"Techs": [{
-						"ID": 96,
-						"Name": "Capped Ram",
-						"RequiredAge": 4
-					},
-					{
-						"ID": 255,
-						"Name": "Siege Ram",
+						"ID": 838,
+						"Name": "Elite Armored Elephant",
 						"RequiredAge": 4
 					},
 					{
@@ -17715,18 +17715,13 @@
 					}
 				],
 				"Units": [{
-						"ID": 1258,
-						"Name": "Battering Ram",
+						"ID": 1744,
+						"Name": "Armored Elephant",
 						"RequiredAge": 3
 					},
 					{
-						"ID": 422,
-						"Name": "Capped Ram",
-						"RequiredAge": 4
-					},
-					{
-						"ID": 548,
-						"Name": "Siege Ram",
+						"ID": 1746,
+						"Name": "Elite Armored Elephant",
 						"RequiredAge": 4
 					},
 					{
@@ -34230,6 +34225,11 @@
 						"RequiredAge": 4
 					},
 					{
+						"ID": 481,
+						"Name": "Elite Elephant Archer",
+						"RequiredAge": 4
+					},
+					{
 						"ID": 437,
 						"Name": "Thumb Ring",
 						"RequiredAge": 3
@@ -34273,6 +34273,16 @@
 					{
 						"ID": 474,
 						"Name": "Heavy Cavalry Archer",
+						"RequiredAge": 4
+					},
+					{
+						"ID": 873,
+						"Name": "Elephant Archer",
+						"RequiredAge": 3
+					},
+					{
+						"ID": 875,
+						"Name": "Elite Elephant Archer",
 						"RequiredAge": 4
 					}
 				]

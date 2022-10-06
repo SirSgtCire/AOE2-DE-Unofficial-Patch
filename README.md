@@ -1,5 +1,5 @@
 ## AOE2-DE-Unofficial-Patch - by SirSgtCire
-Welcome to the Unofficial Patch Definitive Edition, Version 3.5!
+Welcome to the Unofficial Patch Definitive Edition, Version 3.6!
 
 This mod is kept up to date with the latest patches from DE, as I always try to incorporate approved dev changes into my work. 
 Therefore this mod currently operates on patch: 66692
@@ -56,6 +56,8 @@ Burgundians:
 
 Burmese:
 - increased accuracy of (Elite) Arambai by (5%) 5%
+- removed Ram line
+- added Armored Elephant line
 
 Byzantines:
 - changed Greek Fire to "Fireships +1 range; Towers/Castles deal an additional 125%/25% damage to Siege units"
@@ -112,6 +114,10 @@ Khmer:
 - changed Battle Elephants speed civ bonus to "Elephant units move 10% faster"
 - changed team bonus to "Scorpions and Ballista units minimum range reduced to 0"
 - removed farmer work rate reduction
+- removed Knight line
+- added Elephant Archer line
+- removed Ram line
+- added Armored Elephant line
 
 Koreans:
 - changed Shinkichon to also decrease Mangonel-line creation cost by 10%
@@ -187,6 +193,7 @@ Turks:
 - changed Sipahi to Yaya, which gives "Cavalry Archers +20 hp; Skirmishers and Spearmen +10 hp"
 
 Vietnamese:
+- added Elephant Archer line
 - archer hit points civ bonus changed to "Archery Range units +20% hit points (starting in Feudal Age)"
 
 Vikings:
