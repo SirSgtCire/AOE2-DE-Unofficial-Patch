@@ -1,8 +1,8 @@
 ## AOE2-DE-Unofficial-Patch - by SirSgtCire
-Welcome to the Unofficial Patch Definitive Edition, Version 3.5!
+Welcome to the Unofficial Patch Definitive Edition, Version 3.6!
 
 This mod is kept up to date with the latest patches from DE, as I always try to incorporate approved dev changes into my work. 
-Therefore this mod currently operates on patch: 63581
+Therefore this mod currently operates on patch: 66692
 
 My goal with this mod is to focus on diverse strategies, unique playstyles for certain civs (not every civ should 
 be able to do everything well), some historical accuracy (as much as is possible in this game, without 
@@ -14,18 +14,16 @@ to the health and longevity of the game, and want to do my best to keep some of 
 design decisions into my own ideas for balance.
 
 General Game Changes:
-- enabled Monks, Monks with Relics, Petards, Saboteurs, Kings and Queens to load into Siege Towers and Rams
-- changed Paladin upgrade cost to 1000 food, 750 gold, research time to 125 seconds
-- changed Elite Battle Elephant upgrade cost to 1200 food, 750 gold, research time to 110 seconds
-- changed Siege Onager upgrade cost to 1200 food, 900 gold, research time to 130 seconds
 - standardized all land and water unique unit Elite upgrades to 800 food/wood, 500 gold, research time to 60 seconds
-- All unique archer-related and ship-related Elite upgrades have wood and gold costs
-- All other Elite upgrades have food and gold costs
-- standardized all Castle Age Crown techs costs to 400 food/wood, 300 gold, research time to 40 seconds
-- standardized all Imperial Age Crown techs costs to 600 food/wood, 400 gold, research time to 50 seconds
-- All building-related, archer-related, siege-related and ship-related Crown upgrades have wood and gold costs
-- All other Crown upgrades have food and gold costs
+- all unique archer-related and ship-related Elite upgrades have wood and gold costs
+- all other Unique Unit Elite upgrades have food and gold costs
+- standardized all Castle Age Crown techs costs to 400 food/wood, 300 gold, research time to 50 seconds
+- standardized all Imperial Age Crown techs costs to 600 food/wood, 400 gold, research time to 60 seconds
+- all building-related, archer-related, siege-related and ship-related Crown upgrades have wood and gold costs
+- all other Crown upgrades have food and gold costs
+- enabled Monks, Monks with Relics, Petards, Saboteurs, Kings and Queens to load into Siege Towers and Rams
 - updated many tech descriptions to give numeric descriptions of effects (to help with clarity of effects in game)
+- all civilizations have access to Treadmill Crane, except Spanish (sorry Deathmatch, I will get to you soon I promise!)
 
 Civ Specific Changes:
 
@@ -46,10 +44,10 @@ Bohemians:
 - NO CHANGES
 
 Britons:
-- changed TC wood cost civ bonus to "Town Centers cost -50% wood"
 - increased blast radius of Warwolf tech to Trebuchets by 0.25
 
 Bulgarians:
+- changed tc stone cost civ bonus to start in Castle Age
 - added Ring Archer Armor
 - removed Keep
 
@@ -58,6 +56,8 @@ Burgundians:
 
 Burmese:
 - increased accuracy of (Elite) Arambai by (5%) 5%
+- removed Ram line
+- added Armored Elephant line
 
 Byzantines:
 - changed Greek Fire to "Fireships +1 range; Towers/Castles deal an additional 125%/25% damage to Siege units"
@@ -67,7 +67,6 @@ Celts:
 
 Chinese:
 - changed Rocketry tech to "Chu Ko Nu +2 attack; Scorpions +4 attack and +1 range"
-- increased Great Wall bonus to 35%
 
 Cumans:
 - NO CHANGES
@@ -82,11 +81,8 @@ Ethiopians:
 
 Franks:
 - changed Bearded Axe effect to "Throwing Axemen +1 range, +1P armor"
-- changed cavalry hp civ bonus to "Cavalry +20% hp Feudal, +25% Castle Age"
-- changed forage bush civ bonus to +20%
 
 Goths:
-- changed population civ bonus to "+5 population each age, starting in the Feudal Age"
 - changed Instant Loom to being free at the start of the game
 
 Gurjaras:
@@ -97,7 +93,7 @@ Hindustanis:
 - added Architecture
 
 Huns:
-- changed treb accuracy civ bonus to "Trebs have 100% accuracy"
+- changed treb accuracy civ bonus to 100%
 
 Incas:
 - changed Fabric Shields tech to include Monks and Xolotl Warriors
@@ -105,6 +101,7 @@ Incas:
 Italians:
 - increased Elite Genoese Crossbowman anti-cavalry damage by 1
 - added Heavy Scorpion
+- added Heavy Demolition Ship
 - changed Pavise to "Foot Archers (except Skirmishers), Hand Canoneers and Condottieri receive +2P armor"
 
 Japanese:
@@ -115,8 +112,12 @@ Japanese:
 
 Khmer:
 - changed Battle Elephants speed civ bonus to "Elephant units move 10% faster"
-- changed team bonus to "Scorpions minimum range reduced to 0"
+- changed team bonus to "Scorpions and Ballista units minimum range reduced to 0"
 - removed farmer work rate reduction
+- removed Knight line
+- added Elephant Archer line
+- removed Ram line
+- added Armored Elephant line
 
 Koreans:
 - changed Shinkichon to also decrease Mangonel-line creation cost by 10%
@@ -158,7 +159,7 @@ Poles:
 
 Portuguese:
 - increased projectile speed from Arquebus tech by 0.1
-- increased blast radius of (Elite) Organ Guns by 0.2
+- increased blast radius of Elite Organ Guns by 0.2
 
 Saracens:
 - changed camel hp civ bonus to "Camel units +1P armor"
@@ -177,7 +178,7 @@ Spanish:
 - added Heated Shot
 - changed Supremacy to Reconquest, which gives "Militia-line, Knight-line +6 damage vs. Camels; Militia-line, Knight-line, and Monks +2 LOS"
 - changed team bonus to give 33% trade bonus
-- changed building speed civ bonus to "Builders construct buildings 33% faster"
+- increased movement speed of Cannon Galleon projectile by 0.5
 
 Tatars:
 - NO CHANGES
@@ -186,17 +187,16 @@ Teutons:
 - added Siege Ram
 - changed Crenelations to "Castles and Town Centers +3 range; Garrisoned infantry fire arrows"
 - changed Elite Teutonic Knight normal armor to 11
-- changed Teutonic Knight base attack to 13
 
 Turks:
 - increased Janissary accuracy by 5%
 - changed Sipahi to Yaya, which gives "Cavalry Archers +20 hp; Skirmishers and Spearmen +10 hp"
 
 Vietnamese:
+- added Elephant Archer line
 - archer hit points civ bonus changed to "Archery Range units +20% hit points (starting in Feudal Age)"
 
 Vikings:
-- merged Chieftains effects into Berserkergang, increased bonus cavalry damage by 2
+- merged Chieftains effects into Berserkergang, increased bonus cavalry damage by 2, increased health regen by 5
 - changed Chieftains to Keels, now gives "Ships have +2 normal armor"
-- changed warship cost reduction civ bonus to "Warships cost -15% Feudal, -20% Castle Age"
 - added Thumb Ring
